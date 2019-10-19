@@ -26,7 +26,7 @@ In our research, similar to Fan and Khademi[3], we would like to create a fair a
 - ***Step 2:*** We are going to use the result from step 1 to build a **regression model**. the same type restaurants in the same district will be samples we use and a series of factors like price range, review counts, rating, and comments etc. will be our features. Because comments is string text form, we are going to use **Natural Language Processing** doing sentiment analysis to get a single number metrics to evaluate the attitude of customers.
 <br />
 
-![image](https://github.com/JasonZhangzy1757/Applied-Data-Science-Capstone/blob/master/Early%20Framework%20Images/framework%20handwriting%20(1).jpg)
+![image](https://github.com/JasonZhangzy1757/Applied-Data-Science-Capstone/blob/master/Early%20Framework%20Images/framework%20picture.png)
 
 
 
