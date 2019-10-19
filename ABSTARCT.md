@@ -6,17 +6,19 @@ Due to the Internet blossoming, reviews are everywhere. Hard to decide what to d
 <br />
 <br /> 
 
-In our research, similar to Fan and Khademi(Fan and Khademi, 2014), we would like to create a fair analysis to predict factors that may impact restaurants’ success. Not only using the Yelp review data, we also implement urban data like average income, population.
+New York is a city with a huge diversity of people from all over the world and a wide variety of restaurants. This motivated us to think of what exactly makes a restaurant successful. In our project we are trying to explore these factors which influence the restaurants’ success using yelp data and urban data. In our approach, we first do clustering to find the clusters with similar types of restaurants. We further explore these restaurants along with NLP for customer reviews to analyze the customer satisfaction and we eventually find the factors which drives the success of restaurants in New York.
 <br />
 <br /> 
 
-New York is a city with a huge diversity of people from all over the world and a wide variety of restaurants. This motivated us to think of what exactly makes a restaurant successful. In our project we are trying to explore these factors which influence the restaurants’ success using yelp data and urban data. In our approach, we first do clustering to find the clusters with similar types of restaurants. We further explore these restaurants along with NLP for customer reviews to analyze the customer satisfaction and we eventually find the factors which drives the success of restaurants in New York.
-
+In our research, similar to Fan and Khademi[3], we would like to create a fair analysis to predict factors that may impact restaurants’ success. Not only using the Yelp review data, we also implement urban data like average income, population and other shapefiles to make visualizations.
+<br />
+<br /> 
      
 
 ![image](https://github.com/JasonZhangzy1757/Applied-Data-Science-Capstone/blob/master/FrameWork.png)
 
 
+# Reference
 
 [1] Chen, P.-Y., Wu, S.-y., and Yoon, J. (2004). “The impact of online recommendations and consumer feedback on sales.” ICIS 2004 Proceedings, 58.
 
