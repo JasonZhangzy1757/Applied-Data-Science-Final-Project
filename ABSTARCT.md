@@ -5,6 +5,9 @@
 Due to the Internet blossoming, reviews are everywhere. Hard to decide what to do for the weekend? go to Trip-Advisor. Which restaurants have the best rating in town? Go to Yelp and you will find the answer. All these online reviews are now the standard for urban people making decisions[1]. Maybe some of the rate does not match the actual experience, as it is biased and subjective[2]. They are still a good reference. Among all these review sites, many researchers have analyzed Yelp review data to impact consumers’ behavior and decision making. Although reviews and rates also have a significant impact on sales and business revenues[3], few research put their vision on restaurants side.  
 <br />
 <br /> 
+<br />
+<br /> 
+
 In our research, similar to Fan and Khademi(Fan and Khademi, 2014), we would like to create a fair analysis to predict factors that may impact restaurants’ success. Not only using the Yelp review data, we also implement urban data like average income, population.
 <br />
 <br />
