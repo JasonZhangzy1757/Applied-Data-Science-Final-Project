@@ -15,7 +15,13 @@ In our research, similar to Fan and Khademi[3], we would like to create a fair a
 <br /> 
      
 
-![image](https://github.com/JasonZhangzy1757/Applied-Data-Science-Capstone/blob/master/FrameWork.png)
+![image](https://github.com/JasonZhangzy1757/Applied-Data-Science-Capstone/blob/master/Early%20Framework%20Images/FrameWork.png)
+
+# Methodologies
+
+- Step 1:
+
+
 
 
 # Reference
