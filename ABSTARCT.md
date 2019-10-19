@@ -19,13 +19,14 @@ In our research, similar to Fan and Khademi[3], we would like to create a fair a
 
 # Methodologies
 
-- Step 1: We are going to use population or income or postal zip shapefiles and using data extracted from **Yelp API** or **FourSquare API** to find the similiar restaurant in the similiar districts. For example, a Chinese restaurant in Flushing and 8th Ave China Town could have a lot in common, we want bias as little as possible, so we shouldn't compare a Chinese restaurant to McDonald's or compare Chinese restaurant in totally different consumption level areas like Manhatten and 8th Ave in Brooklyn. In this step **Clusters** will be implemented, and we will use python library **folium** to visualize the results. 
+- ***Step 1:*** We are going to use population or income or postal zip shapefiles and using data extracted from **Yelp API** or **FourSquare API** to find the similiar restaurant in the similiar districts. For example, a Chinese restaurant in Flushing and 8th Ave China Town could have a lot in common, we want bias as little as possible, so we shouldn't compare a Chinese restaurant to McDonald's or compare Chinese restaurant in totally different consumption level areas like Manhatten and 8th Ave in Brooklyn. In this step **Clusters** will be implemented, and we will use python library **folium** to visualize the results. 
 <br />
 <br /> 
 
-- Step 2: We are going to use the result from step 1 to build a **regression model**. the same type restaurants in the same district will be samples we use and a series of factors like price range, review counts, rating, and comments etc. will be our features. Because comments is string text form, we are going to use **Natural Language Processing** doing sentiment analysis to get a single number metrics to evaluate the attitude of customers.
+- ***Step 2:*** We are going to use the result from step 1 to build a **regression model**. the same type restaurants in the same district will be samples we use and a series of factors like price range, review counts, rating, and comments etc. will be our features. Because comments is string text form, we are going to use **Natural Language Processing** doing sentiment analysis to get a single number metrics to evaluate the attitude of customers.
 <br />
 
+![image](https://github.com/JasonZhangzy1757/Applied-Data-Science-Capstone/blob/master/Early%20Framework%20Images/framework%20handwriting%20(1).jpg)
 
 
 
