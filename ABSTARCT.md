@@ -19,7 +19,7 @@ In our research, similar to Fan and Khademi[3], we would like to create a fair a
 
 # Methodologies
 
-- ***Step 1:*** We are going to use population or income or postal zip shapefiles and using data extracted from **Yelp API** or **FourSquare API** to find the similiar restaurant in the similiar districts. For example, a Chinese restaurant in Flushing and 8th Ave China Town could have a lot in common, we want bias as little as possible, so we shouldn't compare a Chinese restaurant to McDonald's or compare Chinese restaurant in totally different consumption level areas like Manhatten and 8th Ave in Brooklyn. In this step **Clusters** will be implemented, and we will use python library **folium** to visualize the results. 
+- ***Step 1:*** We are going to use population or income or postal zip shapefiles and using data extracted from **Yelp API** or **FourSquare API** to find the similiar restaurant in the similiar districts. (For example, a Chinese restaurant in Flushing and 8th Ave China Town could have a lot in common, we want bias as little as possible, so we shouldn't compare a Chinese restaurant to McDonald's or compare Chinese restaurant in totally different consumption level areas like Manhatten and 8th Ave in Brooklyn.) In this step **Clusters** will be implemented, and we will use python library **folium** to visualize the results. 
 <br />
 <br /> 
 
