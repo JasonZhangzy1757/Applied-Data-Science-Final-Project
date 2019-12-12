@@ -1,0 +1,2331 @@
+,name,Chain,project_category,num_category,business_id,postal_code,hours_avg
+0,101 Asian Buffet,0,Chinese,9,UlyCnc4_Suu2DSqYQSwkqQ,85027,11.0
+1,1130 The Restaurant,0,Coffee,15,bs07-hLuz0dq06gIUwR5mw,85004,10.857142857142858
+2,12 East Cafe,0,Breakfast,3,KZ9v7M1A5t6OMDghR64_5g,85034,7.928571428571429
+3,12th Fairway Bar & Grill,0,Other,1,B1jlDEUrVyPgR4vOMnaiKQ,85034,15.5
+4,16th Street Sports Bar & Grill,0,Burger,4,fmyo8-JBOu5bjczEsLJyBA,85016,15.571428571428571
+5,24th Street Pizza & Gyros,0,Pizza,5,aBmuthrQ7yP8cnbgkxU5Ug,85016,11.142857142857142
+6,2601 on Central,0,Bar,2,iBkc2dV-lXeXadYwmnOOIA,85004,12.142857142857142
+7,3 Margaritas,0,Mexican,0,s7LncUuPc9yaZ7wDsIALGg,85032,11.285714285714286
+8,32 Shea,0,Breakfast,3,qQCsLGMncJp1xWUGnOKCQA,85028,14.571428571428571
+9,32nd Cafe,0,Mexican,0,6tR7FLJkwlDspVxsfrMulQ,85008,0.0
+10,3on Smith Cafe,0,Breakfast,3,H9tJl_ntsan-YSZElKKK2w,85018,8.0
+11,4 Kings North,0,Bar,2,mVE168W1PBHwgZufvXTSIw,85020,0.0
+12,40th Street Cafe,0,Diner,10,gQg_z_bqR9Lp9oLuv659YA,85032,9.142857142857142
+13,5 & Diner,0,Burger,4,nn4ZkIZTCd7jJhxs-P9tHA,85016,0.0
+14,5 & Diner,0,Diner,10,3qZsY2LiLyKwGkOq_hrnzQ,85032,14.214285714285714
+15,5 & Diner Deer Valley,0,Other,1,4MZF63-pHMaYe-yNmd4aaQ,85027,16.0
+16,50's on Adams,0,Bar,2,hoLFXFgUY_la0o46ULc-DA,85004,0.0
+17,613 Grill,0,Other,1,fmnE6VQLBhgIrb6RBuqmjA,85014,7.857142857142857
+18,70's Shop & Hookah Lounge,0,Bar,2,_sl9bPjO7j3Lk1Lem8l_5Q,85014,0.0
+19,7-Eleven,1,Other,1,10d6PDujQkQmrvQMK6V0xA,85028,0.0
+20,7-Eleven,1,Other,1,fDPI6UBxSFX2MC3MmfM-CA,85008,0.0
+21,7th Heaven Eatery,0,Other,1,1jasd5ZhHsS8CLGv34YEow,85016,0.0
+22,7th St Sports Bar,0,Bar,2,1_QvyrhHsAEowZv7ImU3QA,85020,15.142857142857142
+23,8th Day Coffee & Culture,0,Coffee,15,oM6vBO0UEJB_uuOt9D0GSA,85004,0.0
+24,99 Degrees Lounge,0,Other,1,i0tjPMOqaFGZe_wtybxzxA,85029,0.0
+25,A & J Chicago Style Bar-B-Q,0,Bar,2,Ndozr_--5-wzyDJ2T7TfpQ,85016,0.0
+26,A A Wok,0,Chinese,9,Mca0HEKs8Xfa4VimLD1uGQ,85032,0.0
+27,A Bakeshop,0,Bakery,17,q4CjxLPsMCAPeST0lcQlOg,85016,6.857142857142857
+28,A Slice of Bella,0,Pizza,5,EIb85lCA6HMzxdsacYtjGA,85044,10.857142857142858
+29,A T Oasis Coffee & Tea Shop,0,Coffee,15,IhBiHpjqJP01qX1dCxG9-A,85018,12.357142857142858
+30,A Touch of Yogurt,0,Ice Cream,12,6BjIGgxIkCks3NTpkj3fAw,85004,4.642857142857143
+31,A&s Cactus Express,0,Other,1,BWgVrMV20K2o3pIH2Ff-Iw,85029,0.0
+32,Abacus Inn Chinese Restaurant,0,Chinese,9,QyfX-6jFfINH1MuXS8R6ZA,85044,0.0
+33,Abby's Grill-Cafe,0,Diner,10,xFX3mg1MGCV9AV45CDd6FA,85022,11.285714285714286
+34,ABC Baking Cake Decorating Supplies,0,Bakery,17,zRK93KUNUSLWckxU611QNQ,85016,7.285714285714286
+35,Abyssinia Restaurant and Cafe,0,Coffee,15,I9nziYEw4YIFjr3ZDBpFog,85014,11.571428571428571
+36,Acacia Cafe,0,Breakfast,3,3_A59jPniLD5ViVuKMYpJw,85018,7.714285714285714
+37,Adela's Italian,0,Italian,8,_e3rChyednoh47n2cjGv2w,85018,9.428571428571429
+38,Admirals Club,0,Bar,2,eKwGIkeo6miVLcCzygtBjg,85034,20.0
+39,Admirals Club,0,Bar,2,Z3dJG3W9xrxegM5j8ny74w,85034,18.0
+40,Adobo Dragon,0,Mexican,0,k_SfP93Tmlpmx-5OL1JmTg,85004,6.571428571428571
+41,Ahipoki - CityScape,0,Other,1,I1dZ6e1G4757Ll5CeE3Wdw,85004,10.25
+42,Ahipoki Bowl,0,Other,1,PSY6Fpn6QRC-yWcz0Jnm1w,85016,10.25
+43,Ahwatukee Country Club,0,Other,1,Q0HAhn2Pi2afILbtiPvlIQ,85044,12.0
+44,Aiello's,0,Italian,8,vlJsF5tTfplbo1D5kbUPmQ,85012,9.857142857142858
+45,Aiello's East Coast Italian,0,Italian,8,l0WauZ92kRg9bu2oxHj4TQ,85022,10.142857142857142
+46,Aioli Gourmet Burgers,0,Burger,4,SvlTuwslYKdqvqWtDe2dgA,85028,9.285714285714286
+47,Aioli Gourmet Burgers and Catering Food Truck,0,Burger,4,3BYLel7hPVEXzzVSHHEwHA,85028,9.285714285714286
+48,Aishiteru Asian Bistro,0,Breakfast,3,q4i-kcryM2X8VXWQcGbiSw,85022,8.571428571428571
+49,AJ's Fine Foods,0,Bar,2,lrfbOC8cbxc4NsguFeSjmw,85012,15.0
+50,AJ's Purveyor of Fine Foods,0,Other,1,QMM5fh2x_sajRUmkbiKGpQ,85022,15.0
+51,Al Aruba,0,Other,1,biPAbciX6zfsfmTDozFrIA,85008,6.0
+52,Alaskan Pride Seafoods,0,Other,1,NL95JTNTh_gebXKSz2ElNg,85018,5.428571428571429
+53,Alexi's Grill,0,Italian,8,VgfqjXetLMxn5X5_uomBkg,85012,8.0
+54,Alfonso's Mexican Food,0,Mexican,0,fyFmamI9xY0_OOgH6tO3pg,85027,0.0
+55,Alice Cooperstown,0,Bar,2,zrTGcb83AsfyVTMrsCa65A,85004,9.714285714285714
+56,Alice's Cuisine,0,Deli,16,UX0Gp7fwXIaLjGS3aupV9Q,85027,14.428571428571429
+57,All Stars Sports Bar,0,Bar,2,O45cN_WzbJfO5JhF4nPZvA,85034,0.0
+58,Aloha Poki Company,0,Other,1,BAJTueyZYX91qWtMzFI2cw,85044,8.857142857142858
+59,AmeriCAN Canned Craft Beer Fest,0,Bar,2,wPcj-wgz8UsDiG_I__wybw,85004,0.8571428571428571
+60,America's Taco Shop,0,Mexican,0,_HVZ1V8IDa49MWdejx9BbA,85034,0.0
+61,America's Taco Shop,0,Mexican,0,UJewG9UgVXQ7fyP4UHwnxw,85016,11.714285714285714
+62,America's Taco Shop,0,Mexican,0,XuxKpCqnjpW_VPxSho4djQ,85004,0.0
+63,AMF Squaw Peak Lanes,0,Other,1,6pXwPMO871ir8ZnmyBbLEg,85016,13.571428571428571
+64,Ammaccapane's Restaurant & Sports Bar,0,Bar,2,AdB7a8eo7uK_Fq-aX6_l8g,85022,16.0
+65,Amsterdam,0,Bar,2,57Ot-sRTzL925ipv-5SzTg,85004,0.0
+66,Andy's Frozen Custard,0,Ice Cream,12,gio48on8yQyFW1fJ1dChGg,85044,12.642857142857142
+67,Angelo's Italian Ice and Gelato,0,Ice Cream,12,4balGoT43o5N1zc8Q6dekg,85034,0.0
+68,Angelo's Lounge,0,Bar,2,lIqazWWsskuh07n5By4zYQ,85016,0.0
+69,Angels Trumpet Ale House,0,Bar,2,plWuv4gda7m0KlqCNhrb4w,85004,11.0
+70,Angry Crab & BBQ,0,Bar,2,LHyj66waFlDcw9UToo27JQ,85016,11.285714285714286
+71,Angry Crab Shack & BBQ - Ahwatukee,0,Bar,2,poSV39UqEg-gpESXafS9-g,85044,10.285714285714286
+72,Antojos Y Neveria La Trampa,0,Bar,2,j54GyKYDKBdbZFdcLUXHJQ,85032,0.0
+73,Anvil,0,Bar,2,Qy_HoQghOHgco-R904BCCw,85016,0.0
+74,Anvil,0,Bar,2,35VxyqQnyK7ttzZZCHP9sA,85016,13.0
+75,Anzios Italian Restaurant,0,Pizza,5,JBrBsKpw0bbXK5nlrXVOYQ,85029,10.285714285714286
+76,Apna Bazaar Indian Groceries,0,Indian,18,E-DyJWXjao8lyTw3xvXY-Q,85032,10.0
+77,Apollo's Lounge,0,Bar,2,UppDV-4p6M5z5xIv3pfROw,85014,17.428571428571427
+78,Applebee's Neighborhood Grill & Bar,0,Burger,4,EE_CKAAq7_oL7jfxmUKhuw,85008,14.142857142857142
+79,Applebee's Neighborhood Grill & Bar,0,Burger,4,5xCeuEI7Einoi5xYsNuDCQ,85012,14.142857142857142
+80,Arby's,1,Burger,4,6QRY4tMQdHFOe2-_CUHMdA,85018,12.0
+81,Arby's,1,Italian,8,wrcfLni9nmJK46Wb4XMkaQ,85032,0.0
+82,Arby's,1,Sandwiches,13,bVl0_l6sCwjADKRLGxsXAw,85032,0.0
+83,Arby's,1,Sandwiches,13,SLY4dDpyYJW003VCTnEReA,85022,0.0
+84,Arby's,1,Sandwiches,13,EwldVuxL-KJaIxxi2FApNw,85027,0.0
+85,Arcadia Farms Cafe,0,Other,1,crPt12dF0zMQiZ_nUAQvLg,85004,4.785714285714286
+86,"Arcadia Farms, Heard Museum",0,Sandwiches,13,Wo6UYwShnJ83ibWSPefSgA,85004,0.0
+87,Arcadia Tavern,0,Bar,2,l8k4gOEkfoLKq0mPVWHWGg,85018,12.142857142857142
+88,Ariel's Grill Point,0,Coffee,15,MOTPFzYqWF2OYzJjs1h15Q,85022,7.857142857142857
+89,Arizona Authentic Pizza,0,Other,1,j2tHMM_6Mrq2qqiAlcPfzA,85008,12.285714285714286
+90,Arizona Baseball Club Restaurant,0,Other,1,6BSl6vLEyZvro_YIqorxEQ,85004,0.0
+91,Arizona Biltmore,0,Other,1,v9u0NgjA4iQeKGevFnYSCA,85016,0.0
+92,Arizona Biltmore Resort & Spa Catering,0,Other,1,Rk94R2M9CwIaYcQ02ow1AA,85016,0.0
+93,Arizona Brewery Tours,0,Bar,2,letRlza38L86aafEaugsGA,85034,6.714285714285714
+94,Arizona Club,0,Other,1,akySq01rZ2PRBBrafMfLuw,85004,0.0
+95,Arizona Falls,0,Other,1,CfDHrCHi1-oJSKEemgeqrQ,85018,0.0
+96,Arizona Party Bike - Phoenix,0,Bar,2,7YFn8Rye6ugSnjAwxZJMhA,85004,15.0
+97,Arizona Sandwich,0,Sandwiches,13,LGji5xMcbBROPiip4mu_LQ,85034,8.5
+98,Arlecchino Gelateria,0,Ice Cream,12,Us-H77wqsQHSWHQN6YANmQ,85018,8.571428571428571
+99,Armadillo Grill,0,Bar,2,VbqtbvvtNOe-YKA61-fSNA,85016,15.0
+100,Armando's Mexican Food,0,Mexican,0,NhGkSF9UB3hiDKUY9roHBg,85027,0.0
+101,Armando's Mexican Food,0,Mexican,0,AfuYockOIOH9WsDJHRvVlA,85018,19.857142857142858
+102,Aros Grill,0,Other,1,AfRHBRIh4ZuwLeoD2qEbbw,85022,0.0
+103,Arriba Mexican Grill,0,Mexican,0,5KheTjYPu1HcQzQFtm4_vw,85016,12.142857142857142
+104,Artizen,0,Bar,2,LIxNfkk9vgPikLh1W-5f8w,85016,14.0
+105,Asadero Norte De Sonora,0,Mexican,0,UDucqwO8PwUOwcmUsJ-gOA,85034,10.285714285714286
+106,Asahi Bakery,0,Bakery,17,hkmaUwfNQtFAJFpxYOHBkg,85016,5.357142857142857
+107,ASAP California Pizza Kitchen,0,Pizza,5,p50v2vZMfRblLeFbdVcASA,85034,0.0
+108,Asi Es La Vida,0,Mexican,0,y1VInN5m3RbHU59kiQbmxA,85016,10.785714285714286
+109,Asian Dining Chinese Restaurant,0,Chinese,9,3Ru1_F8GoUcV-QwhX378hA,85008,11.428571428571429
+110,Asian Seafood Buffet,0,Chinese,9,bxgrZLHU3R3dhDM32VXuGw,85008,0.0
+111,Aside of Heart,0,Bar,2,htgL0zTIAekQpaWVBQcCWA,85004,7.714285714285714
+112,Athenian Express,0,Sandwiches,13,bZj4UqBD4chWAvytPKGALA,85004,7.928571428571429
+113,Athens Bar and Grill,0,Other,1,k3usuzYs_UVBkSgUbmthdQ,85014,8.571428571428571
+114,Athens Pita & Greek Grill,0,Coffee,15,0KpoeCt1E-SQsUBwtjLAEw,85004,8.714285714285714
+115,ATL Wings,0,Bar,2,K1qs4e30yoln6scnm-tmyg,85018,9.428571428571429
+116,Aunt Chiladas Squaw Peak,0,Mexican,0,JfHXzulF6yIKgA22YYPedw,85020,11.571428571428571
+117,Auntie Anne's,0,Other,1,8FtVVxG4ovmIlvOCtKziZw,85032,0.0
+118,Autumn Court,0,Japanese,22,tDYcVluqZwieulc1iqxGXg,85018,11.0
+119,Avanti,0,Italian,8,jOseCpGmgbQWEfX2Wn_TGQ,85016,9.285714285714286
+120,Axis Hookah Lounge,0,Bar,2,JH1w3xJ-kXE-QPInOD9pTw,85032,12.0
+121,AZ Cake Shoppe,0,Bakery,17,dqgbjvYl5-spb3yYXs83yg,85032,10.857142857142858
+122,AZ Pops,0,Ice Cream,12,q0fX5CAXSURUOM_YDjHP3Q,85014,10.0
+123,AZ Pops,0,Ice Cream,12,IRR0JWW-shnLZqRZ0IcMTA,85018,10.0
+124,Babbo Italian Eatery,0,Pizza,5,CElwRv4CtK56NljAuCwepw,85016,10.285714285714286
+125,Baby Kay's Cajun Kitchen,0,Other,1,acD0l-j5Kr-edoO-_tcbyg,85016,8.928571428571429
+126,Bacchanal Ristorante,0,Other,1,B8y-FpC2lqNxd8xI7EJzlg,85016,0.0
+127,Backstreet Wine Salon,0,Bar,2,Q6w2Hvctp68WdbvDLSW3-g,85018,0.0
+128,Bailey's Pub,0,Bar,2,JWsukGGLg9n01Ejw1RKFTQ,85027,20.0
+129,Baja Fresh,0,Mexican,0,iWzGOHoi83SXM43LcRS18w,85044,0.0
+130,Baja Fresh Mexican Grill,0,Mexican,0,Tqk-TtGw0YjT_SrxsCPMxw,85022,8.857142857142858
+131,Baja Fresh Mexican Grill,0,Mexican,0,oB2_XXYG9c8bgJL9sFP3DQ,85004,0.0
+132,Baja Fresh Mexican Grill,0,Mexican,0,ELxoOY2F-1jSb8mqyN7Zbg,85016,0.0
+133,Baja Fresh Mexican Grill Mexican Grill,0,Mexican,0,5rZxENz57t-SDv1tIS8lOg,85044,0.0
+134,Baja Loco Mesquite Grill & Cantina,0,Mexican,0,NNi2hh7l5-fhjM3sF-ykxA,85018,0.0
+135,Baja Red's Cantina,0,Bar,2,w8EtrFyt-GJq6tRXcArmng,85008,0.0
+136,Balkan Bakery,0,Bakery,17,49a8mRB-MB-9JBEVjzK2BQ,85022,6.142857142857143
+137,Bamboo China Restaurant,0,Chinese,9,rT8DwZu7pvuWKRM1nwVuug,85020,10.428571428571429
+138,Bamboo Grille,0,Japanese,22,WWZgzuTn1k7Yn9bJ_Pr0Kg,85027,10.285714285714286
+139,Bamboo House,0,Chinese,9,v1vcs-uSAQcjTFsHxS1dug,85022,9.857142857142858
+140,Bar 1,0,Bar,2,5Q77B3p186bG1TSyyhSvDQ,85016,16.0
+141,Bar Bianco,0,Bar,2,yz3JQk5Lqbin8mtNfDcy_w,85004,7.428571428571429
+142,Bar Smith,0,Bar,2,M5jKFdL0vLcBzdPh-mLnAQ,85004,3.0714285714285716
+143,Barb's Bakery,0,Bakery,17,9IaomgzTHXsNkZHnZGv8fg,85016,7.571428571428571
+144,Barfly,0,Breakfast,3,C0KQ0fyGfDvKhw1FBgh1fg,85034,16.5
+145,Barrio Avion,0,Mexican,0,PmQqj0wAnraXPuPSZCzEZQ,85034,15.0
+146,Barrio Cafe,0,Mexican,0,of4V8nfW7GwJ03tLDdrOlA,85034,0.0
+147,Barrio Cantina & Grill,0,Mexican,0,vY8-P5aeFO4xRoH_mUfQ9A,85032,12.428571428571429
+148,Barrio Urbano,0,Mexican,0,c0F2t2j9MJ2gUBUPky-dqw,85014,13.142857142857142
+149,Barro's Pizza,0,Pizza,5,4YKU46PNs-wCi3TAafrRaQ,85032,11.785714285714286
+150,Barro's Pizza,0,Pizza,5,JlMTixvNQ5bUGSxF12TLdw,85027,11.785714285714286
+151,Barro's Pizza,0,Pizza,5,7EtiFdHnoWwvC-8m8ixC1g,85022,11.785714285714286
+152,Base Pizzeria,0,Pizza,5,WK6uBV2eSqb2wwEwXoFfNg,85016,9.285714285714286
+153,Bashas',0,Other,1,yfMK1YGTDsiD-fE5JJtzWg,85028,17.0
+154,Bashas',0,Other,1,kcvA7Dw8dp0XI7xLcwElYg,85044,17.0
+155,Bashas',0,Other,1,YiN9YP4Z87hiaBkPFUWzOQ,85020,0.0
+156,Basis New American,0,Other,1,P15Y-FxUOWjPVTrfiUpugg,85022,0.0
+157,Baskin-Robbins,0,Ice Cream,12,s2xpXws-b-bSIpWIssvH8w,85032,11.0
+158,Baskin-Robbins 31 Ice Cream Stores,0,Ice Cream,12,jBnI6d_T78im3PQLHQI_Lw,85018,0.0
+159,Be Coffee + Food + Stuff,0,Breakfast,3,WB7346WSdkTHvtHfWPilaA,85004,11.214285714285714
+160,Bean Sprouts Cafe,0,Bar,2,lYdSqzUmxYZc136Hyf-zSA,85004,0.0
+161,Beckett's Table,0,Other,1,k1c_bC3DK6mKg797vH1T8w,85018,4.142857142857143
+162,Beijing Garden Chinese,0,Chinese,9,_fTBHNW58xuw0MMbgZTz9w,85008,10.142857142857142
+163,Belfiore's Italian Ristorante,0,Pizza,5,qVQGfHphxolps16v6g5X-g,85032,0.0
+164,Below Freezing Thai Ice Cream Rolls,0,Ice Cream,12,Gyt7C9eD0Wj5fKazGlP_2g,85027,3.4285714285714284
+165,Belvedere's,0,Breakfast,3,IR21NrXBSkOXSntPKtgEZg,85008,15.714285714285714
+166,Beneficial Beans,0,Coffee,15,7aAg0v3vOw3N3KRNlS1_tg,85004,5.0
+167,Berto's Gelato & Sorbet,0,Ice Cream,12,1jaJZ539aulplpOA9xAClg,85027,4.857142857142857
+168,Best of Europe Meats & Deli,0,Sandwiches,13,l0rbgnvy2jSeUUEBUK4B8A,85032,5.0
+169,Best of Philly,0,Sandwiches,13,GKg7N9i7djbigZ5fDj2DXw,85004,5.785714285714286
+170,Bicycle Nomad,0,Bar,2,ewvBhAgfJi43aZmWCd3Zag,85004,9.428571428571429
+171,Big Daddy's Sports Lounge,0,Pizza,5,NCc227GObIORVxUXs-KWvw,85020,15.0
+172,Big Dawgs,0,Sandwiches,13,UW0ZvqEj7laMZVHjcwwc1w,85004,0.0
+173,Big Guy's Sports Grill,0,Bar,2,gE07l6v5mp5TPM4awcm5Xg,85032,0.0
+174,Bill Johnson's Big Apple Restaurants,0,Bar,2,w3JBz9gLbZ0CKWQM07nONw,85008,15.285714285714286
+175,Binkley's Restaurant,0,Bar,2,X1-AbThDu9tmijcGnsi8Ug,85016,3.2857142857142856
+176,Bink's Midtown,0,Other,1,xAg2w4pxJURbB2edAg2wMQ,85016,10.857142857142858
+177,Biscuits,0,Burger,4,oi6mahpAmEuikfihFVDmCw,85044,7.857142857142857
+178,Bistro 202,0,Other,1,y71Xmo4Bs5QLNv_6zFl98A,85004,10.071428571428571
+179,Bistro 24,0,Other,1,BxwUDCVbBH0supUQ1wNslw,85016,12.5
+180,Bite Cafe & Bakery,0,Coffee,15,saclk7OIubl0zzcXm3xlSg,85022,0.0
+181,Black Forest Haus,0,Other,1,KBN8wcnBr9KRB4TPa0unsQ,85018,8.0
+182,Black Forest Mill,0,Other,1,OVjBHE9Ic1vNuFJ6oXRq0Q,85018,0.0
+183,Blanco Tacos + Tequila,0,Mexican,0,qnn9E-e9orYf_wK37yLTYw,85016,10.285714285714286
+184,Blanco Tacos And Tequila,0,Mexican,0,I3STZd5iAvUL9MNLF_DUug,85034,12.0
+185,Blaze Fast Fire'd Pizza,0,Pizza,5,ptWNY_h088kmKhsL-gaOEg,85022,11.5
+186,Blaze Fast-Fire'd Pizza,0,Pizza,5,blGpsdNSyzIjfzLYILuZmQ,85012,11.0
+187,Bleachers Sports Grill,0,Bar,2,F77NC8-iYUv7OI8SFWF_gQ,85044,15.0
+188,Blimpie,0,Sandwiches,13,A5BiIK444PBb6FMOIxeEVg,85034,8.214285714285714
+189,Blimpie,0,Sandwiches,13,hc78bF7jF1BY42F5yQjDDQ,85028,11.571428571428571
+190,Blimpie,0,Sandwiches,13,duHFBe87uNSXImQmvBh87Q,85016,0.0
+191,Blimpie,0,Sandwiches,13,48xqixi2cGozhxSiisOGiw,85012,7.142857142857143
+192,Blimpie,0,Sandwiches,13,sU1sSEOHvd4ex72miOKMEQ,85008,4.357142857142857
+193,Bliss Rebar,0,Bar,2,cz5vz-893D3LNH3TMQYR1w,85004,14.142857142857142
+194,Bliss Showclub,0,Other,1,guh66RfoeapcI1AxtnlB0Q,85027,0.0
+195,Blue Moon Sports Grill,0,Other,1,FDpHB2ran-gABhOmMCOEvw,85020,0.0
+196,Blue Plate Brunchery,0,Breakfast,3,ekRY1NZnQ_0XPG4cediVlw,85022,0.0
+197,Blue Saguaro Cafe,0,Coffee,15,laH5gNcV5N-3zHuQu-GEBg,85020,0.0
+198,Blue Vapor Lounge,0,Bar,2,jbjB0D_jjfavLIhnNPYkhA,85032,10.571428571428571
+199,Blue Willo Cafe,0,Sandwiches,13,IwdnNGKeGzSsswb50fUGEw,85012,0.0
+200,Bobby C's Bar & Lounge,0,Other,1,qpq8KuMyPSwraUFfRVOMQg,85034,0.0
+201,Bobby C's Cafe,0,Coffee,15,UV6f9hfEyxsGjUf4NCJxnw,85027,6.428571428571429
+202,Bobby D's Restaurant & Lounge,0,Diner,10,oVmk03sRsExksDLkhIezHw,85020,15.571428571428571
+203,Bobby Q - Biltmore,0,Bar,2,byWNAuUrvmGTLkbJpXe4iA,85016,11.714285714285714
+204,Bodega 420,0,Other,1,c2C6TcNwnudSVEZ6w-jNHg,85004,12.5
+205,Boka Pizza,0,Pizza,5,N_cCvYUP0dQeLKflgoUrXQ,85004,12.285714285714286
+206,Bombay Spice Grill,0,Indian,18,tt1ERGD9RSfQIwX2ANyJ1g,85032,10.0
+207,Bombay Spice Grill,0,Indian,18,kzqx6Z2sse8PV3hVCVEw4g,85028,10.071428571428571
+208,Bomberos Cafe & Wine Bar,0,Bar,2,tcT3oHh_dwi_FYhozw3Ibw,85020,8.571428571428571
+209,Bon Appetit Restaurant,0,Other,1,2kpbPYMjEbi-VIJ5mAOX0w,85014,0.0
+210,Bonefish Grill,0,Other,1,RGGOEmgtKXXZI91IXHEuIA,85032,11.285714285714286
+211,Bonjour Vietnam,0,Vietnamese,23,I2LcbNXGsMb6zxh4-gmVHw,85004,11.571428571428571
+212,Bootleggers Modern American Smokehouse,0,Bar,2,2skQeu3C36VCiB653MIfrw,85028,11.0
+213,BoSa Donuts,0,Breakfast,3,O8sBSjxL8hQbA41lKtcoJg,85028,18.0
+214,BoSa Donuts,0,Sandwiches,13,lkpoSg7xf60BsrOjdm0CBA,85044,17.0
+215,Boston Market,0,Other,1,XTmqUnO9FFbdbE4xL7Vhlw,85032,12.0
+216,Boston Market,0,Other,1,UXqm21CiFIojOZdALb-AaA,85022,11.0
+217,Boston Market,0,Bar,2,8vA1d9_w4hBjOcrM7mNWFg,85044,11.0
+218,Bowl of Greens,0,Breakfast,3,PpN4wDnmMxA2vQoSyj1yKw,85004,9.285714285714286
+219,Brad's Bodega,0,Other,1,max_MNcqrTvtvOzxfabJdg,85004,15.428571428571429
+220,Brad's Place,0,Italian,8,p8qk36_xEXhICe91tfUpPA,85044,13.714285714285714
+221,Breadcrafters Bakery & Cafe,0,Sandwiches,13,2zBCxn7_jHcfxoSjBdHJ3A,85032,11.0
+222,Breakfast Club- CityScape,0,Diner,10,aMF8cG445ONPRKBsBYqofg,85004,8.714285714285714
+223,Brennan's Pub & Grub,0,Bar,2,2OKh-3ToognFAccCFAFJVg,85032,15.0
+224,Brick,0,Pizza,5,zOvZaiuzxUBzQE0Uecg-aw,85004,10.285714285714286
+225,Brigett's Last Laugh,0,Pizza,5,avKtXuzalCP_cVfrk-fLeQ,85032,15.285714285714286
+226,Brooklyn NYC Pizza,0,Pizza,5,4NpySSkznGaRVye30Pvdzg,85004,0.0
+227,Brueggers Bagels,0,Breakfast,3,l2VC3UR7XnIwJwfIj1OPJg,85016,8.0
+228,Bruegger's Bagels,0,Sandwiches,13,lpBXeNXqfKsNE8NY0aEEcg,85018,10.714285714285714
+229,Bubba Phatz,0,Bar,2,1cl8ti5S8cJLHGetUe_s6w,85004,0.0
+230,Buck & Rider,0,Bar,2,Ap17p-tA4Ipzy1s35DfCfg,85018,10.928571428571429
+231,Buffalo Browns Wings and Things,0,Other,1,tnZ_qZtKcrCWXA8XUMRF-Q,85008,7.285714285714286
+232,Bull Shooters,0,Bar,2,ZEkJ9E0WlvJmh1X0KxhXww,85029,15.428571428571429
+233,Burger Betty's,0,Burger,4,XVj_qD6hz4OJprt1bOAjWA,85014,0.0
+234,Burger King,1,Burger,4,vQ58sP3oipv3n5eGQHcnGg,85004,16.714285714285715
+235,Burger King,1,Burger,4,5_MYcQWzKLiFYh0cUPrgNA,85016,15.857142857142858
+236,Burger King,1,Burger,4,qbZ0Hjp-lUMtkGS_R1UnpQ,85008,0.0
+237,Burger King,1,Burger,4,L98yev_7So-Tgx82IsjVeA,85029,0.0
+238,Burger King,1,Burger,4,8jHr3atzErzItizENMkpzQ,85022,17.714285714285715
+239,Burger King,1,Burger,4,ptUbbnxWgfgO9-0dFDnWmA,85034,17.642857142857142
+240,Burger King,1,Burger,4,NbQHD6DVge3n-UvfYYNE_g,85020,15.857142857142858
+241,Burger King,1,Burger,4,AO2ZY9we2ceRQI74cmLUYA,85022,0.0
+242,Burger King,1,Burger,4,m-dhoSt3TrHh2N5yPzYnsg,85028,0.0
+243,Burger King,1,Burger,4,LVF_M640eZdJN6wX12VrEQ,85004,0.0
+244,Burger King,1,Burger,4,Y8rgiVhjpdbtcn83UVaVcg,85020,17.857142857142858
+245,Burger King,1,Burger,4,Il21_URvlkQ89uUeGPGmaw,85029,0.0
+246,Burger King,1,Burger,4,ZOg3fkp1xxPEe4v2nqhydQ,85044,0.0
+247,Burger King,1,Burger,4,qLnFX5tyX6PUT9uW8z9t0g,85028,0.0
+248,Burger King,1,Burger,4,tHaySMUc5u2a_71vfZG-0A,85034,0.0
+249,Burger King,1,FastFood,11,GaYRUatPQi6PmJIE2wF-Uw,85032,0.0
+250,Burger Rush,0,Burger,4,XbFVHYOv5MjoZcgz32Q19g,85012,17.0
+251,Burger Studio,0,Burger,4,9Uju4PPwIKNrBUOfsjBbkw,85020,0.0
+252,Burger Theory,0,Burger,4,sZq-qUvoLgYxlDmIcxYWDg,85008,18.0
+253,Cactus Candy,0,Other,1,Zj5ogdJ1ci-J0xNxMiTRQw,85016,5.357142857142857
+254,Cactus Jack's Bar & Grill,0,Bar,2,rBqek2924sBTjW1qE2ci2Q,85044,15.714285714285714
+255,Cactus Tavern,0,Burger,4,dq4c_0btrrdcz_Nq6RV02g,85022,14.607142857142858
+256,Cafe Rio,0,Mexican,0,ERM603jbIbNqX2c7Ww1Qiw,85028,11.857142857142858
+257,Cafe Rio,0,Mexican,0,v0FdDAXvEYieRWcngbCe1Q,85027,12.0
+258,Cafe Rio,0,Mexican,0,gLIXqQDeNjW4CR7x58orrw,85022,0.0
+259,Cafe Rio,0,Mexican,0,JNG9jHOlE4Ilv02Tnlh7YA,85044,0.0
+260,Cafe Rio Mexican Grill,0,Mexican,0,5sqC0kX6lBvKR983T_EBcg,85016,11.571428571428571
+261,Cafe Roma,0,Pizza,5,J0rx5BsejdRTXU8UB-MJSA,85004,13.142857142857142
+262,Cafe Roma,0,Italian,8,Q47FjaMLjI3v6yo-PHIebQ,85004,0.0
+263,Cafe Zupas,0,Sandwiches,13,b5epWgPoVcXoMJdCCzFMUw,85016,8.857142857142858
+264,Caffe Boa Ahwatukee,0,Italian,8,vrpW_ZIjHvsAX3ByyeHjCA,85044,9.571428571428571
+265,Caffe Daniel,0,Italian,8,aVvMVhCSNT3d4W37Ue1aUw,85016,4.285714285714286
+266,Cake Cafe,0,Bakery,17,86v_o9M5-_-EAVSRxPZTuQ,85044,0.0
+267,Cake Contessa,0,Bakery,17,JhlZHum1GM56p-piJ4gxhA,85014,4.0
+268,Cake's & Ribbon By Designs,0,Other,1,xrnkqTUsYJyogfinamb3UQ,85016,0.0
+269,California Pizza Kitchen,1,Pizza,5,MVg8_dWzoCtGjBvWCatjjQ,85016,11.0
+270,Camelback Tanning & Detox Spa,0,Bar,2,Z0eueztkZv7qYzqBe47dnw,85018,10.571428571428571
+271,Camp Social,0,Bar,2,BOD0yRkakyxXzJmbVVAxSA,85014,13.285714285714286
+272,Candy's Kitchen,0,Breakfast,3,5qEMfUERdTcMk7aDwH3A_Q,85022,8.0
+273,Canton Wong,0,Chinese,9,ueBZ4UoRXdq1eXrlPgnf5A,85008,8.571428571428571
+274,Canvas@1011,0,Bar,2,Jund72tZsheTP6sXXA1mfw,85004,0.0
+275,Canyon Cafe,0,Mexican,0,6Wc5DPXGudcNi2XK7QfQtA,85004,10.714285714285714
+276,Capri Market & Deli,0,Sandwiches,13,QfdcFqAft-M7KSSQZwJ20g,85018,10.714285714285714
+277,Capriotti's Sandwich Shop,0,Sandwiches,13,u--jf3lS_04kmQNO4liAsQ,85016,9.857142857142858
+278,Caps Sports Grill,0,Bar,2,w6frk94BwGwxenre_zeXUg,85027,12.071428571428571
+279,Captain Bill's Subs,0,Sandwiches,13,GQaOgUdJOVoEzMaKODD8Hg,85029,0.0
+280,Cardinal Pizza,0,Pizza,5,nXQWBN0ojBqg_HXh0J2AFA,85020,0.0
+281,Carlos O'Brien's Mexican Restaurant,0,Mexican,0,YM-nYIHd99qUt9n62AxIAg,85020,12.285714285714286
+282,Carls Jr,1,Burger,4,CE6nIZJVgxhpX7oL1cbrzg,85016,0.0
+283,Carl's Jr,1,Other,1,iGWSHEl48XY4cy_25s4WvA,85022,0.0
+284,Carl's Jr,1,Burger,4,4rwjCzSygI6batiXRGctrg,85034,0.0
+285,Carl's Jr,1,FastFood,11,6UUBVPqLLHpwLnDSL0jMuw,85004,0.0
+286,Carl's Jr 7091,1,Other,1,XAt9Km4EIM6EE7LXwfB2Vg,85022,0.0
+287,Carl's Jr.,1,Burger,4,cezXueCCEUYphNJ_jl9PhQ,85027,19.285714285714285
+288,Carl's Jr.,1,FastFood,11,Ogdm8WERpk5ew4Yxk9sqdQ,85020,0.0
+289,Carmella's Italian Kitchen and Bar,0,Pizza,5,Fy4AmYaVjiDJBa0-PtJwSQ,85032,0.0
+290,Carmine's Little Italy Pizza & Pasta,0,Pizza,5,fE9lClW0RtceRnlPsATZww,85004,0.0
+291,Carniceria Del Pacifico,0,Other,1,UHHM1C_CciN6dxmckZD-6A,85018,12.285714285714286
+292,Carolina's Mexican Food,0,Mexican,0,89uU51kOiQXbJHVA3C6XMQ,85034,10.5
+293,Carolina's Mexican Food,0,Mexican,0,bWq5fLpzPAf_97E4_LuXJA,85034,0.0
+294,Carolina's Mexican Food North,0,Mexican,0,Ktia9NJfvxVxTLVcEnw9zQ,85022,10.571428571428571
+295,Cartel Coffee Lab,0,Breakfast,3,j0_DUr3vBXY-JP-b0bf93A,85004,12.0
+296,Cartel Coffee Lab,0,Coffee,15,89N3YfIoe50feyqS0qwMXg,85034,16.0
+297,Casa Anejo,0,Mexican,0,ayaDm0WPZB0g0PYbGFkrzA,85014,9.0
+298,Casey Jones Grill,0,Bar,2,ONyDFp4eO9T_igeM2wdiMQ,85032,15.571428571428571
+299,Castaways,0,Bar,2,K2dYG5yOd1i4keB9yMIYuw,85008,15.5
+300,Castillon Family Mexican Restaurant,0,Mexican,0,c79drEBxcX3LsiK6AFgGew,85032,10.285714285714286
+301,Cathy's Rum Cake Catering,0,Bakery,17,_0F_C1e5Mdt5msBCXeSMyg,85032,6.0
+302,Cave & Ives,0,Pizza,5,K99GG6-YZp5JbIe4oPbRsQ,85018,5.428571428571429
+303,Cave Creek Cafe,0,Burger,4,X_irZWSbhRYz-VbPGMobTA,85022,6.428571428571429
+304,Caveman Burgers,0,Burger,4,lRL7x-HMBscWyELxEVq85w,85022,10.0
+305,CC'S Mesquite Broiler,0,Mexican,0,t_J_ykCkOkZPlmlJuDnkzg,85022,12.571428571428571
+306,Celas's Pizza,0,Pizza,5,kvqULv65K7Zie2cYv6e6RQ,85020,9.428571428571429
+307,Celebrity Theatre,0,Other,1,WKPnq7NYw4IV5IG2smpd1Q,85008,5.714285714285714
+308,Cellars Fine Wine & Spirits,0,Bar,2,ttfKDjCYxEieETpk9TvkXA,85028,10.571428571428571
+309,Cellar's Fine Wine & Spirits,0,Bar,2,TRjwF89-pi0g9glNyxk1zQ,85014,10.285714285714286
+310,Cellblock Phoenix,0,Bar,2,_YUGmxCK8tx7FsdzleU29A,85014,0.0
+311,Central Bistro,0,Italian,8,kcF-en40P3J9L8nLy5lKqQ,85016,10.857142857142858
+312,Central Cafe,0,Coffee,15,flKREzH4wdibg0IAIuZe_g,85004,5.714285714285714
+313,Central Grille,0,Bar,2,iWScmpipq65WElq9za9RLg,85020,11.0
+314,Central Taco,0,Mexican,0,_bpNAXZqG28e8XplS1wbpw,85012,0.0
+315,Central Wine,0,Bar,2,vM92DKxz5XJGm6Q5brHuGA,85012,5.571428571428571
+316,Cervantes Bistro At Royal Palms Resort,0,Bar,2,tBancCGeHZhalHhEWxJjOw,85018,0.0
+317,Chaka Chaka Urban Cuisine,0,Sandwiches,13,Q-3_XWvNOBlwt1QTrI9A6g,85034,0.0
+318,Chambers on First,0,Bar,2,6SwdqYrQSASONmrgG4mBjA,85004,15.285714285714286
+319,Chandhra Thai Restaurant,0,Thai,19,PkTs6P-jCeX3IfAyk9OcYw,85032,6.142857142857143
+320,Chantilly's,0,Bar,2,AjL0PDCU01MlYlMKmeLsDQ,85027,16.0
+321,Chantilly's Bar,0,Bar,2,TVDqOxTVEsV45_HMZCtVmA,85027,16.0
+322,Charley's Grilled Subs,0,Sandwiches,13,uHmOKM2jZXhah8BiRP5ebA,85032,0.0
+323,Charleys Philly Steaks,0,Sandwiches,13,9Xsjz292QEFVff_p03qsZQ,85027,11.285714285714286
+324,Charlie D's Catfish & Chicken,0,Other,1,1mkDrJRu3VABKy95gxD-Hg,85034,6.428571428571429
+325,Charlies Grilled Subs,0,Sandwiches,13,7dln44D2PZWe0lzAJmDZMg,85032,0.0
+326,Charr An American Burger Bar,0,Burger,4,1WBkAuQg81kokZIPMpn9Zg,85022,11.142857142857142
+327,Cheddatruck,0,Burger,4,3n86SpBQ0COOW_2sDRStoQ,85014,0.0
+328,Cheese N Stuff Deli,0,Sandwiches,13,OugQjN04sQNahWzYEdTExQ,85012,5.857142857142857
+329,Chef's Grill and Deli,0,Sandwiches,13,6WCEHKWrvHUxlrGhqGm1og,85044,5.571428571428571
+330,Chelsea's Kitchen,0,Breakfast,3,CzqYP9VKJBzGLnp14naScA,85034,0.0
+331,Chelsea's Kitchen,0,Breakfast,3,IsoLzudHC50oJLiEWpwV-w,85018,11.142857142857142
+332,Chen & Wok,0,Chinese,9,nBwOIq5KI-zmxp061dTmgw,85014,10.428571428571429
+333,Cherry Bar,0,Bar,2,NHeHrFIihjjhm4Uq9bSApg,85014,0.0
+334,Cherryblossom Noodle Cafe,0,Italian,8,fT6Uwl6abRQfiNgxre_qbg,85014,10.785714285714286
+335,Chestnut Fine Foods & Provisions,0,Breakfast,3,piHJq_NDrOh5SYk3AyQVOg,85018,7.0
+336,Chestnut Lane,0,Sandwiches,13,zSwcoOLMLuTho6ZpCZrQwg,85018,0.0
+337,Cheuvront,0,Bar,2,hU6sN5r6vayqm_RMgvPGOQ,85004,5.857142857142857
+338,Cheuvront Restaurant & Wine Bar,0,Bar,2,NpozCEWra9PkYtxCtCPr6Q,85034,0.0
+339,Chevys Fresh Mex Restaurant,0,Mexican,0,oT_0FoEqHRgfn4ht8PWUKg,85016,0.0
+340,Chi Town Dogz,0,FastFood,11,MO8vR9uw--ELG5J8CbdZCA,85016,0.0
+341,Chicago Gyros,0,Other,1,aw0H9O1yysoHB0JanT0Ubw,85027,8.714285714285714
+342,Chicago Gyros,0,Vegetarian,7,Qng9lEqWA9uTtm6oq2rZuw,85018,9.5
+343,Chicago Hamburger,0,Burger,4,UCqWJWovgeelP1OUI_L90w,85018,8.142857142857142
+344,Chick Rotisserie & Wine Bar,0,Bar,2,pRXgWOIiQPEbosMrylsdLA,85018,11.0
+345,Chick-fil-A,1,FastFood,11,pj6YwzJ6vkYLo_Mc12Hqdw,85004,9.428571428571429
+346,Chick-fil-A,1,FastFood,11,MFbyWskON6pqRp5-K4hIKw,85016,13.714285714285714
+347,Chick-fil-A,1,FastFood,11,lUcSe9mjppbAa8510xj0Tg,85029,13.714285714285714
+348,Chico Malo,0,Mexican,0,_iEl9sCLsvXEFHUWPvgsAg,85004,11.714285714285714
+349,Chico's Tacos,0,Mexican,0,GUsYtGG557XKlHaMH87erg,85004,10.5
+350,Chili's,0,Mexican,0,7mFNJCgmZCiSjv2mzoP1Cg,85032,11.285714285714286
+351,Chili's,0,Mexican,0,lZ5rd3YxWTcCPJi45hvw7w,85027,11.785714285714286
+352,Chili's Grill & Bar,1,Mexican,0,uXoaycCmhc3Cg4Iei8kHYA,85022,0.0
+353,Chili's Grill & Bar Catering,1,Other,1,ibjoU0b7R3cxGV2Lh4TiFw,85016,12.285714285714286
+354,Chili's Grill and Bar,1,Bar,2,XkYZRw7T-LLnNEto8xG5cQ,85016,0.0
+355,China Chili,0,Chinese,9,URFhSrJPk7JM2pUtsuWsAg,85012,9.357142857142858
+356,China Harvest Buffet,0,Chinese,9,9OwoNe9ksUeU6zYasGhrPA,85029,0.0
+357,China Inn,0,Chinese,9,JdbYyxufvaU6uwmNg0EqhQ,85004,0.0
+358,China Olive,0,Chinese,9,LjxuUvIQ-tWNHyGNfJ6UzA,85018,0.0
+359,China Super Buffet,0,Chinese,9,aI3CUcnQbjn1jdcl6NfatQ,85020,0.0
+360,China Village,0,Chinese,9,kP2wC0luve3mT5fcdrA3nQ,85016,9.928571428571429
+361,Chinese Cultural Center,0,Other,1,Uc9H_YUH3KnZltATXYVRVg,85008,0.0
+362,Chipotle Mexican Grill,1,Mexican,0,TfS_zwQtyjiQU-psh2dISg,85012,11.5
+363,Chipotle Mexican Grill,1,Mexican,0,VM7Q3xWH5XiwbaIeSyJ-vw,85032,11.25
+364,Chipotle Mexican Grill,1,Mexican,0,S6BixeT6xkktY3keKSyYrQ,85029,11.25
+365,Chipotle Mexican Grill,1,Mexican,0,uovqgCcWIqTwUeH_A54t2A,85018,11.25
+366,Chipotle Mexican Grill,1,Mexican,0,HRghNZCxQm0UGgvu4mk33w,85016,11.25
+367,Chipotle Mexican Grill,1,Mexican,0,jD7tkMdKp5lwGSuHSChx_w,85032,11.25
+368,Chipotle Mexican Grill,1,Mexican,0,2JUDgnmoLDxD97gqmand9Q,85016,11.25
+369,Chipotle Mexican Grill,1,Mexican,0,wAXYLmHuysYTz8i4VPKmaQ,85022,11.25
+370,Chipotle Mexican Grill,1,Mexican,0,jlF81N1Hr9tANTfMSRWsLA,85027,11.25
+371,Chloe's Corner,0,Coffee,15,roCxdzue-nME2akdIRPTfA,85004,12.071428571428571
+372,Choice Pet Market,0,Other,1,d1jiudj-VAUxf_-Lkrn2_A,85028,12.571428571428571
+373,Chompie's,0,Breakfast,3,ml916FaOdF870Jrk0ZQETA,85032,14.857142857142858
+374,Chompie's,0,Deli,16,bW_HM_al-wWkfIqPzERuAA,85032,0.0
+375,Chop Chop Chinese Kitchen,0,Chinese,9,lf7PP9U5l_x1bbUqa7DIzA,85027,0.0
+376,Chopper John's,0,Bar,2,YB-p9Ve7C17JLA7DNL7T6g,85016,16.0
+377,Christopher's and Crush Lounge,0,Bar,2,nkHaix6KenApS8M-liZsCQ,85016,10.714285714285714
+378,Christopher's Fermier Brasserie & Paola's Wine Bar,0,French,6,T7YqBNASs4gNUsooLzzbuw,85016,0.0
+379,Christo's Ristorante,0,Bar,2,OZqAZkjhV_nyHsbnKaD1WQ,85014,8.571428571428571
+380,Chronic Tacos,0,Mexican,0,4j0WfdS_lHG9uSH7cd1PFg,85022,10.0
+381,Chronic Tacos,0,Mexican,0,3SLDrXzPmKF0iCY8WriLsA,85029,11.0
+382,Chuck E Cheese's,1,Pizza,5,uJgxCC03SWlwAkttc4exJQ,85032,0.0
+383,Chuck E Cheese's Pizza,1,Pizza,5,8dSKEPQn0pmZEmWTKZI81Q,85044,0.0
+384,Churchill's Fine Cigars,0,Bar,2,5LlvHly_jOh3jjLJMBxkig,85044,10.714285714285714
+385,Church's Chicken,0,Other,1,h_hg33vb0OsWsE6T1SHAgw,85028,0.0
+386,Church's Chicken,0,Other,1,KGMyW-_eq4Errzp7AA8s0Q,85029,0.0
+387,Church's Chicken,0,Other,1,fYDzrVfx9uSbX7xmBVx-Hg,85029,11.642857142857142
+388,Church's Chicken,0,FastFood,11,KGiObVBRve0oEyMBfOywcQ,85016,0.0
+389,Churn,0,Ice Cream,12,mPfdYJj4d5KBPINDkaZY-Q,85012,12.571428571428571
+390,Chuy's Mesquite Broiler,0,Mexican,0,zibTVHwQMACJCP5pjRUupQ,85044,0.0
+391,Chuy's Mesquite Broiler,0,Mexican,0,mir6XNWwGueIvagxKAtYeA,85022,0.0
+392,Chuy's Mesquite Broiler,0,Mexican,0,ueZc78i4FHSRnCRUqVyivQ,85022,0.0
+393,CiCi's Pizza,0,Pizza,5,iYzjrO27y9ew0HgNwYZiUQ,85018,0.0
+394,Cinnabon,0,Breakfast,3,M1OAa1O1O8okN9KnPhpm9A,85034,0.0
+395,Circa 1900,0,Other,1,w55JY2w3ZhTh4hZxAPWTzw,85004,0.0
+396,Circle K,0,Other,1,IfUBaH9VA-YOzJ8_rsfzhw,85016,0.0
+397,Circle K,0,Other,1,12JsTr2m9Y66nGvTB6Knqw,85012,0.0
+398,Circle K,0,Other,1,sw3uJ-R5u8_VnJ_RrC15bg,85032,0.0
+399,Circle K,0,Other,1,uQFXVZJroLt8Ni4FUJv7Sw,85004,0.0
+400,Circle K,0,Other,1,vW9YnwjRU2NetuVSlYaDSQ,85029,0.0
+401,Circle K,0,Other,1,QiNddY1p5J7zDqrVplCAnQ,85012,0.0
+402,Circle K,0,Other,1,sx2NuwV_ztA62nv2c5ZcNQ,85032,0.0
+403,Circle K,0,Other,1,rs4R0P6VW4rcQlCaukjjOw,85018,0.0
+404,Circle K,0,Other,1,2VwwQup4Ko6tyDQeSYjC5Q,85014,0.0
+405,Circle K,0,Bar,2,R4qncNuw79jQy9id5Q3frw,85022,0.0
+406,Circle K,0,Bar,2,_mP3joVxUnr1sCMvoNNkig,85044,0.0
+407,Circle K Stores,0,Other,1,635metf6fGdTWufpcmccNA,85034,0.0
+408,Circle K Stores,0,Other,1,xhrHNTlcOadsoBV7d22wwQ,85027,0.0
+409,Circle K Stores,0,Other,1,PpAgIlnktwbA0CE0gX8Qtw,85027,0.0
+410,Circle K Stores,0,Other,1,uu43Pccls6kXgIonnRMoBA,85032,0.0
+411,Circle K Stores,0,Other,1,zqXHlfyxIeF67Ah5bXfUCQ,85022,0.0
+412,Ciros Tacos,0,Mexican,0,GGBMDHJGwkuVrkYcedJpmg,85008,0.0
+413,Citizen Espresso Bar,0,Breakfast,3,ZaIzVnhaV0ZBSoEwz8Rbvg,85012,12.0
+414,City Bakery,0,Sandwiches,13,FsRiu6oYrHB9CXve9j5nnw,85004,0.0
+415,City Bistro,0,Other,1,f0n_FsBi7gmKH_a95vaDHA,85012,5.714285714285714
+416,City Cafe,0,Coffee,15,AVsZE_gMkuBmRLRiqmPqJQ,85004,7.142857142857143
+417,City Central Coffee,0,Coffee,15,DkHFktLYFrV1WylpRQiK_A,85004,0.0
+418,City Market Deli & Catering,0,Deli,16,n9LPozEQplfb6NBrhfpAmw,85016,6.428571428571429
+419,City Square Cafe,0,Breakfast,3,ptaEu7aKv1ThePlTk6fyAA,85012,5.357142857142857
+420,City Square Deli & Grill,0,Burger,4,_MI20v3QRDrCVXgpzje-Ag,85027,6.428571428571429
+421,CJ's Talley's Pub,0,Burger,4,UNtyzcZySio-7DphgQu2cw,85020,15.142857142857142
+422,Claim Jumper,0,Coffee,15,WKWxHzaMC2ZXCaGBscLppA,85027,10.785714285714286
+423,Clamatos La Cruda,0,Mexican,0,8XNpKETQcSLUPAROULyrOg,85008,8.571428571428571
+424,Classic Cakes And Confections,0,Bakery,17,_sNcfFBWvMOwOSUzZPDHNw,85028,0.0
+425,Classic Crust Pizza,0,Pizza,5,HSoKTWnsu7f3yvywWvBQ4w,85022,9.714285714285714
+426,Club Dwntwn,0,Other,1,Weq4BL3SgtxWOOxCrOds_w,85004,2.0714285714285716
+427,CMYE: Yelp's Sweet Bake-In at La Grande Orange Bake Shop,0,Other,1,goCVJTi2Emfy791wz2Xxjg,85018,0.0
+428,Coach & Willies,0,Bar,2,FcvWRrwhjIqktji6iLpaUA,85004,11.857142857142858
+429,Coach's Corner Grill,0,Bar,2,YbOhR475lR0xsNJjoAmMXQ,85004,12.571428571428571
+430,Coco's Family Restaurant,0,Bakery,17,LJM2jAOEnCIV2RqtC23ApA,85032,0.0
+431,Coco's Restaurant,0,Other,1,wsZbtXGBb1QwycUppFJoCA,85018,0.0
+432,Coffee Bean & Tea Leaf,0,Coffee,15,pjU3gFUGaeNvEM_Q__NjtQ,85028,14.214285714285714
+433,Coffee Lady,0,Coffee,15,XLW0mQo0QZLCiqNwzWIEMA,85018,6.571428571428571
+434,Coffee Plantation,0,Coffee,15,Licd1Zdur5G4PCdzJ5bl2g,85016,0.0
+435,Coffee Plantation,0,Coffee,15,mtSPx0N7fVF0NfZ2oCNbeQ,85016,12.571428571428571
+436,Cold Beers & Cheeseburgers,0,Burger,4,VRTQMh7wVgmzg96YttL3mQ,85014,13.571428571428571
+437,Cold Stone Creamery,0,Bar,2,36psxeiUa-zB0XiOoFXubA,85004,11.142857142857142
+438,Cold Stone Creamery,0,Ice Cream,12,Y9xXCBRs1HWRBjhR7JYP7A,85032,11.285714285714286
+439,Cold Stone Creamery,0,Ice Cream,12,xjT7ZajXAITENyJgftjbcg,85029,10.285714285714286
+440,Cold Stone Creamery,0,Ice Cream,12,SgFJaawsw9ATzuUmS7ho_w,85016,11.285714285714286
+441,Cold Stone Creamery,0,Ice Cream,12,MJKe6zchLbIfsBTQCIzOVg,85018,9.5
+442,Cold Stone Creamery,0,Ice Cream,12,EeSTRZ2F3ZSlRpm1AT4YtQ,85022,11.285714285714286
+443,Combo Express Mexican Food,0,Mexican,0,4XEIN-KPGAMugwJdhgjfGQ,85032,0.0
+444,Community Cuisine,0,Vegetarian,7,BOMFEp6rhfREWwia0AhVdg,85034,0.8571428571428571
+445,Compass Arizona Grill,0,Bar,2,cQNGkOyCvnIqs78vO8SGJQ,85004,6.0
+446,Coneheads,0,Ice Cream,12,gTKeGz7nHb0Qz-6CrFs7jA,85032,8.142857142857142
+447,Cookies In Bloom,0,Bakery,17,y-eclyvMD0SZVrWdGdT6Aw,85018,6.0
+448,Copper Door,0,Other,1,y43u5SPsQ3coLrIFi6hTeA,85004,0.0
+449,Copper Kettle Curry House,0,Indian,18,Hgo9WB-uyx_iD3Vjk2lZnA,85008,0.0
+450,Copper Plate,0,Diner,10,yH83tf58E9jrME5U4HGAMg,85034,0.0
+451,Copper Square Cafe,0,Coffee,15,XKulwXWzC_C1Q4k3qlvi6w,85004,5.714285714285714
+452,Copper Square Kitchen: Creative Catering,0,Other,1,yy6dHAylgM7TRdVygarrvQ,85004,17.0
+453,Coppers Sports Grill,0,Bar,2,N_1aKgseCRqjBRwIgNOjQw,85032,0.0
+454,CoR Tapas & Wine,0,Bar,2,Jk2XwkySutg0glHVcv1_Pw,85014,3.7142857142857144
+455,Corazon Mexican Cocina,0,Mexican,0,bxLmrsMdjAyz8QEqWml1CA,85008,12.285714285714286
+456,Corbin Bar & Grill,0,Bar,2,BvTU8s3v-qfTtsSKV6Y16A,85020,11.285714285714286
+457,Corduroy,0,Burger,4,CYWRPE-1IHPBb-zfFO6KRg,85004,11.0
+458,Cork & Bottle,0,Bar,2,X8sgCwr1xIkmTItsxYrsyw,85008,19.0
+459,Cork'n Cleaver,0,Coffee,15,yZV1UkPLnfD-GNpJmIqaoQ,85018,0.0
+460,Corleone's,0,Burger,4,UWuB3vikQmf0-x2ZXjxdmg,85028,9.857142857142858
+461,Corner Bakery Cafe,0,Breakfast,3,axZSFXdaJ0KE5auPwBllRQ,85004,10.857142857142858
+462,Corner Bakery Cafe,0,Breakfast,3,jZVqBJhpmBwUKsfAEnvjcQ,85016,8.0
+463,Corner Market,0,Bar,2,qjM9CxBUHeuC0Paj_qnNEA,85016,10.571428571428571
+464,Corona Urban Cantina,0,Mexican,0,q9GRVuEPoFhvA3NoscW0ow,85018,0.0
+465,Corridors Cafe,0,Breakfast,3,EWo5usxVpjAs25NFBbsITQ,85027,5.357142857142857
+466,Costco Food Court,0,Other,1,u0jzS6QgwHQILSVeTlqjgA,85032,0.0
+467,Costco Food Court,0,FastFood,11,AD2y1pqC1Z3lZTYBcALPxA,85027,9.857142857142858
+468,Costco Gasoline,0,Other,1,MrJm9UOEVOVzMHuxNyh0vg,85008,14.142857142857142
+469,Country Boys Restaurant,0,Burger,4,MxHow1YklEAsmtlq2BRNmQ,85032,0.0
+470,Country Boys Restaurant #110,0,Diner,10,1PnhX9SNMX71LPFD7-IqXg,85029,0.0
+471,Coup Des Tartes,0,French,6,8ciT6qjI18x9EPtOb-gqYQ,85016,3.2142857142857144
+472,Coup Des Tartes,0,French,6,9iy6scMRbs5ue41XRLGEkw,85016,4.428571428571429
+473,Cowboy Ciao,0,Diner,10,xImiQIhC2ZBDEy7LhpQ4nQ,85034,16.0
+474,Cowboy Lookout Grill,0,Burger,4,etHpVlLpnePJnJPrH5j4RA,85022,15.0
+475,Cracker Barrel Old Country Store,0,Breakfast,3,A6upLxml9nNaVT_V3oIUkg,85027,16.285714285714285
+476,Craft Beer Hop Stop,0,Bar,2,21-o20t8YPSXrryoNBIq6Q,85027,10.0
+477,Cranberry Hills Eatery & Catering,0,Breakfast,3,R_6ZdYGyq7W1EE2fXML30w,85012,6.071428571428571
+478,Crave Sandwich Cafe & Catering,0,Sandwiches,13,EFdfBcpAkBIvDW4RolgEiw,85004,7.0
+479,Creamistry,0,Ice Cream,12,jY2RWYyP42EhEtmhfQrnPQ,85012,10.285714285714286
+480,Creamistry,0,Ice Cream,12,RazK5AssZZ9l_W6h-bTkUw,85018,10.285714285714286
+481,Crown China Super Buffet,0,Chinese,9,8Sbs3VDs3KQnawJZR-77MA,85014,0.0
+482,Crown Liquor,0,Bar,2,Tm2DFUUmtgGDqTbrlI--tA,85014,0.0
+483,Crudo,0,Italian,8,EEGajOchS2BIZNvJcPK3uw,85018,4.142857142857143
+484,Cruisin' 7th,0,Bar,2,ioz31pzpbpJI7Hbmrayv1Q,85014,20.0
+485,crunch50,0,Breakfast,3,WiqmuzPxWGiWDPxdSuVCXw,85022,10.0
+486,Crust Pizzeria & Ristorante,0,Pizza,5,VsHhy9ixEze-AxNYt6UxLA,85032,9.0
+487,Cuban Foods Bakery & Restaurant,0,Mexican,0,SWDxTrwU_qlEcJp36IYquw,85029,9.0
+488,Cucina Cucina Modern Italian,0,Italian,8,5jYYHTRka2SMS7zBOuN9RA,85004,10.0
+489,Culinary Dropout,0,Bar,2,9yESUcIVarhYEabIMj844Q,85014,12.714285714285714
+490,Culver's,0,Burger,4,poX-2lODvtmkR6pve8FXFA,85014,13.285714285714286
+491,Culver's,0,Burger,4,Yk8WiriuHOkAXufUqGZMyg,85027,12.0
+492,Culver's,0,Burger,4,3Alq2Er28QVsdxGJlQgVkg,85032,0.0
+493,Cupcakes By Design,0,Bakery,17,w8cKLWoulCsuf_AD2mQ-jw,85014,6.571428571428571
+494,Curry Leaf Indian Grill,0,Indian,18,IaJ8ZCKxKFzgNoIFNCc0YQ,85044,7.857142857142857
+495,Custom Food Service,0,Deli,16,PimM2W3rLX0nwSBHAypb8g,85034,0.0
+496,Cut Above Cafe,0,Coffee,15,SCNlX_q7vVRkoR1OgNpyPg,85004,5.714285714285714
+497,Cycle,0,Other,1,lcarrupLCJ-a9LGkTUtMIw,85004,0.0
+498,Cyprus Grill of Phoenix,0,Other,1,9tKSEjLCJowSkxze0NiFig,85016,11.0
+499,Da Burger Shack,0,Burger,4,txOOuDuj6m2fW-ietZRw0w,85016,7.285714285714286
+500,Da Chicago Dog & Subs,0,FastFood,11,K0bATHPukH_xjjphVhNGjg,85018,0.0
+501,Da Valley Grill,0,Other,1,URa75T-A1QvjMUFNIPyukQ,85027,8.214285714285714
+502,Daawat Indian Cuisine,0,Indian,18,PvufhE6-sy2pCTQu9yvjiw,85027,11.285714285714286
+503,Daddy O's Grill,0,Bar,2,ALonfg58V5r4BOwxiGZcfg,85029,19.0
+504,Dagwoods,0,Sandwiches,13,8xsos7GhHO7C5YjRxOYGsA,85016,0.0
+505,Dagwood's,0,Sandwiches,13,s9n4QJcwjmKAtncXTq35fw,85018,0.0
+506,Daily Bistro,0,Other,1,Gra55w4glYeli9KmK_Id8w,85018,7.285714285714286
+507,Daily Dose Midtown,0,Bar,2,kne4oWWLq0FFHLA-gWuqoQ,85016,8.0
+508,Dairy Queen,1,FastFood,11,Q5fzK17mAGIj4VC9QlaB1Q,85016,0.0
+509,Dairy Queen,1,Ice Cream,12,k1bwHg1izaXnUz67pSx_zQ,85012,0.0
+510,Dairy Queen,1,Ice Cream,12,1JmSxEQZQn1AitoNHxvHBQ,85044,12.071428571428571
+511,Dairy Queen,1,Ice Cream,12,h4U3h1RbgLvHl0fKSSUhPA,85032,0.0
+512,Dairy Queen,1,Ice Cream,12,DkNJFy9cEM606nsgfs494g,85029,9.571428571428571
+513,Dairy Queen,1,Ice Cream,12,EjQOE5UZgqC0O9KSErZXIw,85022,0.0
+514,Dalia's Mexican Food,0,Mexican,0,urIrpc65a9q1UgendPq0QA,85008,6.0
+515,Danky's Bar-B-Q,0,Bar,2,JrEMvvNR1rUVkAMvPPZYkg,85032,9.142857142857142
+516,Deemos American Grill,0,Other,1,6tl_UiTs8uqZO3iSfdMZmA,85016,0.0
+517,Deer Valley Airport Restaurant,0,Other,1,UddEGVfbnmXxK6t2mXyicQ,85027,14.5
+518,Del Frisco's Grille,0,Breakfast,3,H7_yu7MgzSXB0vb959yXdA,85016,6.285714285714286
+519,Del Taco,0,Mexican,0,G81PxmvajV-M-fZWopK4kg,85008,0.0
+520,Del Taco,0,Mexican,0,6VZ4T_BnTl8swN-g06ZVYg,85027,16.714285714285715
+521,Del Taco,0,Mexican,0,xFuyA5is_lLo28-fTUQjPA,85012,0.0
+522,Del Taco,0,Mexican,0,xvrkd0c5E7sl9KuY-IMHIA,85032,0.0
+523,Deliciosoraspados,0,Ice Cream,12,C0v4jYVejTlkSyMDugXXnw,85016,11.285714285714286
+524,Delux,0,Burger,4,NJ0RzuWd5xDqfJejYQZ65g,85016,15.0
+525,Deluxburger Express,0,Burger,4,AE80fzfVnsyeHiiVhwSGMw,85034,0.0
+526,Denise is Cooking,0,Deli,16,ygTI0aVpnWq7SrmR3pqgOQ,85004,0.0
+527,Denny's,1,Diner,10,UW-i_Pqv4HX1NVWC4yShHA,85022,0.0
+528,Denny's,1,Diner,10,AkKZ8bK9KoRUlAU08X9xrA,85032,0.0
+529,Denny's,1,Diner,10,ZRdHKIjiIa0k5-ufCLyIaQ,85027,0.0
+530,Denny's,1,Diner,10,rMtphJbzFYA3eLx-AT62vA,85014,0.0
+531,Desert Jade,0,Chinese,9,tFcmrGLZNEymSnijoTPmqw,85018,8.857142857142858
+532,Desert Song Healing Arts Center,0,Other,1,nCEomY3N-sYkoUhIrlMbzQ,85016,7.857142857142857
+533,Desert Springs Brewing Company,0,Other,1,QylMuwQjVHo5ElzNLw9gpg,85034,0.0
+534,Dessert-a-Licious,0,Bakery,17,ILJxAc9zH6GrVTjSuLqsWg,85044,0.0
+535,Desserts By Rondi,0,Bakery,17,MvInPiLnnL8eca8LWFsOQA,85032,7.714285714285714
+536,Devil's Greens,0,Vegetarian,7,Lv2V5KqRlCl7_S6LKWkGlg,85004,4.285714285714286
+537,Di Vito's Pizza,0,Pizza,5,vre_Ga2KJCypcP6XMn8Y7g,85018,9.857142857142858
+538,Diamond Lounge,0,Bar,2,xZ_KRwSABOAXSUHbHmYE3Q,85008,1.2857142857142858
+539,Diamond Plate Restaurant,0,Other,1,WZAENeqQHGRIjSD7VTAmyQ,85034,18.785714285714285
+540,Dickey's Barbecue Pit,0,Bar,2,6g-ufVkF3gQjqfBjEzWPJw,85016,10.0
+541,Dickey's Barbecue Pit,0,Bar,2,TokUo_IctQ_z9sZWP5zxZA,85029,10.0
+542,Dickey's Barbecue Pit,0,Bar,2,mX2L5zlPzXbXtmOggTMpuQ,85022,10.0
+543,Dickey's Barbecue Pit,0,Bar,2,Erbz-7a640y96r2oOjSf4g,85032,10.0
+544,Dick's Hideaway,0,Mexican,0,jsuUmIEefPjV__ads62Z5w,85014,16.285714285714285
+545,Dieci,0,Italian,8,znH36RmIAI4wcHy9WiEO5Q,85016,8.285714285714286
+546,Different Pointe of View,0,Italian,8,RQTatUj2f9Nz9JViTH4aAQ,85020,3.7142857142857144
+547,Dillon's On Top of Central,0,Bar,2,TQ-FgDYJbJhIXTvSdv-jUw,85020,0.0
+548,Dilly Dally Lounge,0,Bar,2,zzwaS0xn1MVEPEf0hNLjew,85018,12.428571428571429
+549,Dilly's Deli,0,Sandwiches,13,MSs0wl1az48XdhtuBEAp9w,85034,0.0
+550,Dino's Ristorante,0,Pizza,5,kplbTXzOaUJqP2BwanoYjw,85032,9.571428571428571
+551,Dipstick Waffles & Bakery,0,FastFood,11,ffd-VdnMtiKtWsfWYHZ9TQ,85004,0.0
+552,Dirty Drummer,0,Bar,2,aEs7Qle2Ah49dwaf3QNU1w,85008,15.0
+553,Dirty Martini Bistro & Bar,0,Bar,2,LUrdDBRqkV2tPj2xnEoG4A,85034,6.0
+554,Discount Nutrition,0,Other,1,DDHT5ui2j7iHdnmgbkDguQ,85022,11.785714285714286
+555,District American Kitchen and Wine Bar,0,Bar,2,VEe-_Yc1fbEtUjkACEjLpA,85004,15.0
+556,Dizzy's Sports Pub,0,Bar,2,89o4F_z8W7U8jk_JVHOnJQ,85020,0.0
+557,DK Dogs,0,FastFood,11,VXOmtsBy1QnMXY34M6qeMQ,85014,7.857142857142857
+558,D'lite Healthy On The Go,0,Breakfast,3,xhXZYjdlV_f7eklYZs5vcQ,85018,9.714285714285714
+559,DO Drop In,0,Bar,2,35Wqe_TEWHbEREc3afJ9ZQ,85020,19.285714285714285
+560,Doc's Place,0,Other,1,wEzCHxfm-lHLmb-dVexMuQ,85012,0.0
+561,Dodey's Bar,0,Bar,2,2K8AMc9xKWMj5TldD4eW2Q,85032,19.0
+562,Dodeys Central,0,Bar,2,GrtS9Rw8dWY3XIoCjRbESQ,85020,16.0
+563,Dolce Espresso Video Coffee Bar,0,Italian,8,fRyHe8SUsZ3kNZbbn2P2GQ,85014,14.285714285714286
+564,Dollar Tree Stores,1,Other,1,YAE258i_wX21UEJ1L1BvEA,85029,0.0
+565,Domino's Pizza,1,Pizza,5,qjcxNsGEcFn8Eh4IPjURoQ,85016,14.571428571428571
+566,Domino's Pizza,1,Pizza,5,sYmGrCydqABvGmundtZ6gg,85004,14.571428571428571
+567,Domino's Pizza,1,Pizza,5,KqSWho4bavZzNH0qQ5GnQA,85032,14.571428571428571
+568,Domino's Pizza,1,Pizza,5,4_Ye_9x3dyMK-cfCBZrBRg,85018,14.928571428571429
+569,Domino's Pizza,1,Pizza,5,D0VxKGcR19vKkoycyrNrHQ,85020,14.571428571428571
+570,Domino's Pizza,1,Pizza,5,XzgHOo2rZWQN289mM8JYnQ,85044,14.571428571428571
+571,Domino's Pizza,1,Pizza,5,U8CnzJzi54gkveXx9xnVYQ,85014,14.571428571428571
+572,Domino's Pizza,1,Pizza,5,ocBcfqDqY7KMib-lRx2wng,85032,14.571428571428571
+573,Don Jose Mexican Food,0,Mexican,0,8Syk4yZRivDlVUdXxIPutQ,85018,11.214285714285714
+574,Donna's Bakery Cafe,0,Coffee,15,rk1qMV30IgioAzoLL8_kKw,85008,0.0
+575,Donovan's Steak & Chop House,0,Bar,2,7jl9EJQCGBiTyXTDXMsRIw,85016,5.142857142857143
+576,Dora's Kitchen,0,Mexican,0,JdSF_NucmJZcl1eNlNXZ0Q,85034,7.142857142857143
+577,Double Headers,0,Burger,4,9ugldqLxU4IfRO-EG4WrQQ,85004,0.0
+578,Doughbird,0,Pizza,5,oo-kGk1BEWpuDvSE4gfmgQ,85018,10.642857142857142
+579,Down South Restaurant,0,Other,1,fbUKZMGNdzQbb3zksGlQXg,85034,0.0
+580,Downtown,0,Other,1,f1WlOrlBsaGKj7u_X-eTaQ,85004,0.0
+581,Downtown Pizza Lounge,0,Pizza,5,szeG61Jn4dFrLqhZy0m_ug,85004,0.0
+582,Dragon Palace,0,Chinese,9,fnaDx7UD4MiodQlgYHDwsQ,85032,5.0
+583,Dragonfly Tea Company,0,Coffee,15,BDV4499NWVKQgQQ5FjPd8w,85016,7.428571428571429
+584,Draw 10 Bar & Grill,0,Burger,4,HJFKqzhV4n4ZWepneOzFhQ,85034,15.285714285714286
+585,D'Shrimp & More,0,Other,1,KwnxHbWO8jw60fnzEawFdw,85034,7.285714285714286
+586,Dubliner,0,Bar,2,-0tgMGl7D9B10YjSN2ujLA,85032,15.285714285714286
+587,Duck & Decanter,0,Bar,2,98-glq_UhUwYwx9SBVi2_A,85004,7.857142857142857
+588,Duck & Decanter,0,Sandwiches,13,58r0y-4rDHtyCW4t8HfUsQ,85012,5.714285714285714
+589,Dunkin Donuts,1,Donuts,21,5JHujF737wC4eZ9G3dhDNw,85004,0.0
+590,Dunkin' Donuts,1,Coffee,15,GlgwAS4tDzB36Q7JlBr7fw,85032,16.714285714285715
+591,Dunkin' Donuts,1,Coffee,15,p7FBqdHN2nzS0S4wGlqanQ,85032,0.0
+592,Dunkin' Donuts,1,Coffee,15,qTpQ75ewNY8jADWMuGkX-A,85027,15.857142857142858
+593,Dunkin' Donuts,1,Coffee,15,C8NpFLiHQftMKMPk1y0dCg,85027,15.285714285714286
+594,Dunkin' Donuts,1,Coffee,15,4SwG1ugTObHNStiahy9ZUA,85018,0.0
+595,Dunkin' Donuts,1,Donuts,21,pMKyuQD2YP9-DPPoPJysIw,85032,17.0
+596,Dunkin' Donuts,1,Donuts,21,BHuvNbEh9VsaPPBnk4CosQ,85016,0.0
+597,Dunkin' Donuts,1,Donuts,21,o0fwMTRq6idC6l9Qgg8Z7Q,85032,0.0
+598,Dunkin' Donuts,1,Donuts,21,XbVsOg5_5zSjWPaxMQgKIg,85018,0.0
+599,Dunkin' Donuts,1,Donuts,21,XGLGvB8S6-Anmt7gZkPLkQ,85014,17.857142857142858
+600,Dunkin' Donuts,1,Donuts,21,_xxwKeiIYty0O4odYQNyhw,85016,0.0
+601,Dunkin' Donuts,1,Donuts,21,GYYi8zeccDoKYRYkCDzN0A,85022,0.0
+602,Durant's,0,Burger,4,_DPJ_PHJnXsuhYhsgBA0Xw,85004,6.071428571428571
+603,Dust Cutter,0,Bar,2,KvlI2QK-HZYv1dqd31eE7Q,85004,13.0
+604,Dutch Bros Coffee,0,Bar,2,tvwDuDypJDl16icfZDpULg,85032,17.071428571428573
+605,Dutch Bros Coffee,0,Bar,2,v-0NDqyGihfhGczt2u-gpw,85016,17.285714285714285
+606,Dutch Bros Coffee,0,Coffee,15,OIalqVuYn_VHFt3pVEsQFA,85020,17.285714285714285
+607,Dutch Bros Coffee,0,Coffee,15,OLrcJhNki2C-XzPYNB-BaQ,85032,17.285714285714285
+608,Dye Carbonic,0,Other,1,xy_3G9_7T6jhXAYybd3FNQ,85034,0.0
+609,Eagle,0,Bar,2,2uoOIQfQZpV9vtOKRdvKKg,85032,0.0
+610,Eastern Buffet,0,Chinese,9,lKFSRJ5tC0OIETgpzTB5kg,85016,0.0
+611,Eat By Stacey Weber,0,Vegetarian,7,fg69aogbeD-GKjmr_4cN4w,85028,8.714285714285714
+612,Eat This!,0,Deli,16,BpugveMre-_-CnNdo7UeUA,85029,8.0
+613,Eddie Matney's,0,Other,1,08AqwKb4NlV43qCYLuiVIQ,85016,0.0
+614,Eddie's Tavern,0,Bar,2,dXhFBJ7OfCY3E_RqZOlcyw,85032,19.571428571428573
+615,Edelweiss German Deli,0,Deli,16,3KrZFsROpOTUdPz8MwXPuA,85022,5.785714285714286
+616,Eden's Grill Inn,0,Other,1,G8k2E3oYHHl2o4lNJQwR-g,85032,8.285714285714286
+617,Edible Arrangements,0,Other,1,waVXnh1aPKddtREw5Pe_QA,85032,9.571428571428571
+618,Einstein Bros Bagels,0,Breakfast,3,sm_GANEfgouoVPsNKXNzDA,85032,0.0
+619,Einstein Bros Bagels,0,Breakfast,3,QSCDR9RBTVyTw7p_Nbq1Xg,85004,11.142857142857142
+620,Einstein Bros Bagels,0,Breakfast,3,5E_1xb3o97ZWQJiZJMVRmQ,85004,9.0
+621,Einstein Bros Bagels,0,Breakfast,3,8XZ4X5WUyM1sWscObramwQ,85022,0.0
+622,Einstein Bros Bagels,0,Breakfast,3,ZiTaYmacCUOzaYQ4DSygiw,85016,0.0
+623,Einstein Bros Bagels,0,Breakfast,3,7FLmfV1Ena0xE0Ew82C2Xg,85034,0.0
+624,Einstein Bros Bagels,0,Sandwiches,13,m45sH6c22jlIS-a3ZjckwQ,85018,11.285714285714286
+625,Einstein Bros Bagels,0,Deli,16,xGzKRIUAuqDrT9eYthGqKw,85044,11.285714285714286
+626,Einsteins Bagels,0,Coffee,15,wu9cORtxQWyVNrr0q7pLgw,85028,0.0
+627,El Amigo Mexican Food,0,Mexican,0,Gkhi0IkGAIls6YgXBSdZqQ,85029,0.0
+628,El Asadero,0,Mexican,0,Jid9PshqheUXFtouXBA7lQ,85020,0.0
+629,El Bravo Mexican Food,0,Mexican,0,U21YaTK4PVlfNHQSyBkJUg,85020,8.857142857142858
+630,El Bravo Sky Harbor,0,Mexican,0,xceERetY6Q9Pu_BQ32xpeA,85034,8.857142857142858
+631,El Conquistador,0,Mexican,0,v04EmZIqReWVD_Ri3rofUA,85022,0.0
+632,El Farol Peruvian Cuisine,0,Other,1,6ATqm_JXesXAdKKjeuQj7w,85018,7.285714285714286
+633,El Nopalito,0,Mexican,0,2xMKHQP1TVGB-_62gDOzDg,85008,11.285714285714286
+634,El Nuevo Taquito,0,Mexican,0,ju1jDr9nF0YCeTNKMYXPVA,85008,0.0
+635,El Pacifico Restaurante Y Pescaderia,0,Mexican,0,1DdkhCSmKDgFmilXS9SZEA,85016,12.0
+636,El Patron,0,Mexican,0,UN2MzY7bZUF29gvEcp3oYg,85027,0.0
+637,El Pollo Loco,0,Mexican,0,RzTnVmiDPChwkPnQAIGUUw,85020,12.0
+638,El Pollo Loco,0,Mexican,0,PpreEj90GJUDm7LHI6kPOA,85018,13.285714285714286
+639,El Pollo Loco,0,Mexican,0,zsl5aN9J7gTu_s3UVVJ8aQ,85044,13.0
+640,El Pollo Loco,0,Mexican,0,XfUoM-27iPHkbewPXepmFQ,85022,13.0
+641,El Portal,0,Mexican,0,JqMjfqxTffrHMabizYbVPA,85004,0.0
+642,El Rinconcito Mexican Food,0,Mexican,0,RKX755uAGPMerCWueEpevQ,85020,11.0
+643,El Super,0,Deli,16,WrNuRG-tbOzcn3e8ECA43Q,85016,16.0
+644,Eliana's Restaurant,0,Latin Food,20,adTbcC7JgvzYg7AD_Ga-rg,85008,0.0
+645,Elie's Deli,0,Sandwiches,13,w6dNSvbLNdYkwp1xwYj6Pg,85018,7.571428571428571
+646,Elly's Brunch & Cafe,0,Coffee,15,8AWnAA7aUk8OO5oLz8yvQQ,85012,9.0
+647,Empire Cafe,0,Coffee,15,4Ej5FiDtDluJlz4O6pZkDQ,85016,5.357142857142857
+648,Empire Discount Liquors,0,Bar,2,UoLOE3b3iL_J-D1b8C-QfQ,85018,0.0
+649,Enjoy Sushi,0,Japanese,22,eLTPBSiovhvWPMhnGK1ndQ,85004,0.0
+650,Eribertos Mexican Food,0,Mexican,0,daLsASi-J8zee8cpZSnqjQ,85022,0.0
+651,E-san Sab Sab Thai Cuisine,0,Thai,19,iq50qr2p5d68f2TO3OA9BA,85020,3.2142857142857144
+652,Escobar Mexican Kitchen,0,Mexican,0,vGDhK2Lc4Np5iZYZ7FG0QA,85020,9.428571428571429
+653,Essence Bakery Cafe,0,Breakfast,3,mj_E2SThbggt-FyUaE1DQg,85018,8.5
+654,Ethiopian Famous Restaurant & Coffee,0,Other,1,8kMq3UEGOTlOI-lmClK1Qw,85008,10.714285714285714
+655,Europa Pastry Cafe,0,Bakery,17,E7XMQjuNhU2v31JMwHDciA,85016,8.357142857142858
+656,Even Stevens Sandwiches,0,Breakfast,3,yP8jTCU6L9T1ZseLvcskYg,85018,13.857142857142858
+657,Everything Bagels,1,Breakfast,3,lbYpsLbIXxU86KPNj8AOgQ,85016,5.285714285714286
+658,E-Z Buffet,0,Chinese,9,z01_gDUfmedOuX2UZYF33w,85032,11.0
+659,Ezekiel's,0,Other,1,e8e3eXloyNaVkkDZ6nDXMA,85044,8.428571428571429
+660,Ezekiel's,0,Sandwiches,13,RZWx7pIsINH6nVqW7ys9cg,85044,7.285714285714286
+661,Famous Ray's Pizza,0,Pizza,5,DZfFFSVFVJVxs3vfFVVf0w,85022,12.785714285714286
+662,Famous Uncle Al's Hot Dogs and Grille,0,FastFood,11,z0GwhlBflcCnVdACU9tQxQ,85032,7.714285714285714
+663,Fanatic's Bar & Grill,0,Bar,2,uQcS6OcgXNHej5AJ-ICkbw,85032,0.0
+664,Fat Ass Burger,0,Burger,4,_S9wayPpSGUthFzBJ-IVYQ,85014,0.0
+665,Fat Freddy's Catering,0,Other,1,qk6GznRuKZZIzGuFN8YTTw,85027,0.0
+666,Fatburger,0,Burger,4,SZxNQQiFzvS9qgodVWNcog,85029,10.571428571428571
+667,Fatso's Pizza,0,Pizza,5,wXXqG4igJeJwL9o5sjyMXQ,85032,9.5
+668,Fazoli's,0,Italian,8,70lJWlEwoW09T0S97dffQQ,85018,0.0
+669,Federal Pizza,0,Pizza,5,Tw3miGKZHtmxmaQZIYFRrA,85012,12.142857142857142
+670,Federicos Mexican Food,0,Mexican,0,E4POatW_bg-T0MzD4DuLeg,85028,0.0
+671,Federico's Mexican Food,0,Mexican,0,ZLRI8ZjrzEm5fRW-ahGz_g,85034,18.0
+672,Feeney's Restaurant and Bar,0,Bar,2,tcgmfbWugkHI3FRrjlH6lQ,85014,10.142857142857142
+673,Fenix Eatery & Bar,0,French,6,diw9UvW8mE24RGs-NXB_Tw,85018,0.0
+674,FEZ,0,Bar,2,PVTfzxu7of57zo1jZwEzkg,85012,13.571428571428571
+675,Filibertos Mexican Food,0,Mexican,0,EGzsR_Tyd0QOaZ6g7wPl-w,85020,0.0
+676,Filiberto's Mexican Food,0,Mexican,0,xFN8mRubo3G0oIzJwc8XBA,85016,0.0
+677,Filiberto's Mexican Food,0,Mexican,0,Ysd8pj0sZpfPq0xNQd8fXA,85034,0.0
+678,Filiberto's Mexican Food,0,Mexican,0,BNzcfz3jmBo_1wUB5YIsXg,85022,0.0
+679,Filiberto's Mexican Food,0,Mexican,0,4g3IsMpBLReHDA5JatpPzw,85029,15.857142857142858
+680,Filiberto's Mexican Food,0,Mexican,0,mcXRNuN1MsgXYt8B2MWz2Q,85032,0.0
+681,Filiberto's Mexican Food,0,Mexican,0,7yMtQ3nlre2Tr9C3UTQY-g,85034,0.0
+682,Filiberto's Mexican Rest,0,Mexican,0,to2cGMKdaw7ZHbXMzpfhlA,85008,0.0
+683,Fillmore Coffee,0,Breakfast,3,MZkP-I91Df4XgmVelGBGng,85004,14.714285714285714
+684,Fired Pie,0,Pizza,5,gBsrs7a3w6g1YXJL2uwixw,85044,10.142857142857142
+685,Fired Pie,0,Pizza,5,ghpFh6XpH1TYZhjAGdx-xw,85012,10.0
+686,Fired Pie,0,Pizza,5,cXgXRqB40CGHEMKQgxLDTg,85027,10.642857142857142
+687,Fired Pie,0,Pizza,5,PmROyaqye5gch5av2oSveA,85004,9.714285714285714
+688,Firehouse Subs,0,Sandwiches,13,Znh1IeGT1EbiQsZqg2Acpg,85032,11.0
+689,Firehouse Subs,0,Sandwiches,13,OvG9pbudLhmLkjrttGvhAQ,85016,11.0
+690,First Watch,0,Breakfast,3,mp-PSmM2ZN2vYBUVUFnMbw,85004,0.0
+691,"First Watch - Breakfast, Brunch & Lunch",0,Breakfast,3,GkF0aKUFrmVQhDCfWetG3Q,85012,7.5
+692,"First Watch - Breakfast, Brunch & Lunch",0,Breakfast,3,yXj1P-pc6CGDFSta-45L5Q,85018,7.5
+693,Fish Market Restaurant,0,Japanese,22,dAvcyy08flqhFIzOIdg2UA,85016,10.571428571428571
+694,Five Guys,1,Burger,4,YwLZ6RDKKhPAoAOP5m_elA,85044,12.0
+695,Five Guys,1,Burger,4,pOtdsa2yiFeNs4VdoAGGqA,85028,12.0
+696,Five Guys,1,Burger,4,2vu5RPLxvAqY0PK5olT7QQ,85032,12.0
+697,Five Guys,1,Burger,4,du9_QFb75sxzKnLLQwSkMw,85022,12.0
+698,Five Guys,1,Burger,4,01xXe2m_z048W5gcBFpoJA,85008,12.0
+699,Five Guys Burgers and Fries,0,Burger,4,a7GomHLPBvkDzmH1D3e8vA,85016,11.0
+700,Five Star Cafe,0,Burger,4,lW9A4aqJOj74Fwu_CHMWaw,85004,5.714285714285714
+701,Flame Broiler,0,FastFood,11,9wxQFibHhvh8yNWQQlOi6g,85022,11.5
+702,Flamingo Palace,0,Chinese,9,rgTcICdtCXoNXc71Z7-t5g,85022,9.214285714285714
+703,Flavor Chalet,0,Indian,18,3lnfKVlzB7tbAtQsEvMQbQ,85004,0.0
+704,Flavors of India,0,Indian,18,eJab5373h0eZiOYnMPG4dg,85016,3.4285714285714284
+705,Fleur De Lis Unforgettable Cakes,0,Bakery,17,rOJw9MYbjFEGedxOP7OAIA,85020,6.857142857142857
+706,Flo's Shanghai Cafe,0,Chinese,9,LKTx0oPOrn_81n6DJpNk5g,85034,0.0
+707,Flower Child,0,Vegetarian,7,m506zjQ67j0msTfANwB6RA,85012,10.571428571428571
+708,Flower Child,0,Vegetarian,7,urkODQ1jX0qQzgbqsQjWVQ,85018,10.0
+709,Flowers Craft Beer & Wine,0,Deli,16,EwqExeH9wkG3NaUHV-OtBQ,85004,10.0
+710,Floyd's Kitchen,0,Other,1,YiuI4YHJnrl9898gE50_ow,85032,11.714285714285714
+711,Focaccia Fiorentina,0,Pizza,5,h96UFhWMM6k2xGgvmMoszg,85004,6.571428571428571
+712,Focaccia Fiorentina,0,Sandwiches,13,J8mVsADcV_YvK3Mbw5Zfpg,85034,0.0
+713,Fontanas Pizzeria,0,Pizza,5,nRsBQYkrsNQ_q78HTefNVQ,85032,0.0
+714,Food City,0,Other,1,cHa74FO5t8hNYGwq2IQW7w,85032,17.0
+715,Food Truck Friday,0,FastFood,11,CQdX7UXvOC_ld0bdr17EvQ,85004,0.35714285714285715
+716,Foodies Catering,0,Deli,16,BJKhJTF1Lz_DbL10BMd2EQ,85044,6.857142857142857
+717,Forge Pizza,0,Pizza,5,QAuQV01Yz2Gl89ZN6c1F4w,85016,9.142857142857142
+718,Forno 301,0,Pizza,5,wWDNwNb6ygJorKujOuifhA,85004,11.0
+719,Foundry On First,0,Other,1,F-id6q0mNM4XwHT_nhee1A,85004,0.0
+720,Four Peaks Brewing Company,0,Burger,4,OeQUmob9q5sbEixK2-Tozw,85034,17.5
+721,Fox News Sky Box,0,Bar,2,FTA3Qoa7C4aTx_KE75nJ4Q,85034,0.0
+722,Fox Sports Grill,0,Other,1,bROfsCS_9L7PaDn84scvhA,85034,0.0
+723,Frank & Albert's,0,Breakfast,3,x8_NelKV1JY5S5bN7mWJuQ,85016,15.5
+724,Franks A Lot,0,Burger,4,kqZwCJyVXZl9OHDbr2a4Fg,85034,4.285714285714286
+725,Frank's Pizza & Wings,0,Pizza,5,lKIDHvxHpyhruR_J9P42wg,85016,12.285714285714286
+726,Franks Premium Cheesecakes,0,Other,1,XLqK6WH21Jl4IZw-Ut8BNA,85032,0.0
+727,Frasher's Smokehouse,0,Bar,2,N3GQ4GhQviglogQR1dPNgg,85018,9.0
+728,Frenchys Caribbean Dogs,0,FastFood,11,pIeCFuUn7NWay1Ti0JzHtw,85004,3.5714285714285716
+729,Fresh & Easy,0,Bakery,17,LwENhk9uo2P3rLRlX_CGfQ,85020,18.0
+730,Fresh & Easy,0,Bakery,17,fcEz2QzOhJ0OzUZfbqohEw,85018,0.0
+731,Fresh & Easy,0,Bakery,17,RSPwUnX0iOJMu5ScQemLnw,85044,18.0
+732,Fresh & Easy Neighborhood Market,0,Other,1,kCKQqLTxm-997NUeG7i4cg,85032,14.0
+733,Fresh Gourmet To Go,0,Deli,16,NnG4PRtVOEIduL1Re-yHpQ,85004,10.857142857142858
+734,Fresh Vitamins,0,Bar,2,ekU_rOucAP9RPJ1yrCUcFQ,85032,9.142857142857142
+735,Fresko A Mediterranean Kitchen,0,Sandwiches,13,_eKvk2GoGKb3CoYolHgRlg,85044,8.857142857142858
+736,Friday's Front Row Sports Grill,0,Other,1,pPNcs_59jNiQSs0Yq13bGw,85004,11.0
+737,Fried Ice & Bubble Tea,0,Ice Cream,12,Tbq7eiTMZ4vRY0IrQ0Pn3Q,85014,10.0
+738,Friends,0,Bar,2,SWmIqR3MUynDKBrPuNv6EQ,85014,0.0
+739,Frost Gelato,0,Ice Cream,12,xDAjrXQ54-cLj0zYMkT03A,85016,11.285714285714286
+740,Fruttia Fresh Fruit Frozen Yogurt,0,Ice Cream,12,6omudJvy0bBSBAVCbUOpPw,85044,0.0
+741,Fry's,0,Other,1,sLYqkdCk3EKLuG8aFe6uZg,85027,0.0
+742,Fry's & Fry's Marketplace,0,Other,1,yyUSGaDGC_IIIDhXIKpoMA,85032,18.0
+743,Fry's Food Store,0,Deli,16,hHx3Z8O9_R_ymK4mbvK7AQ,85018,19.0
+744,Fry's Food Stores,0,Other,1,TQFSeGjKMukrnjJbTc00aA,85016,0.0
+745,Fry's Food Stores,0,Other,1,6QaJkNUxgAfLeQ8hrKAC5Q,85016,20.0
+746,Frys Marketplace,0,Bakery,17,1ZUszwN0CVPMcLuGe0UAMg,85022,18.0
+747,Fuddruckers,0,Burger,4,CZ1ENA7FLjJpMAi2WlTmhw,85016,0.0
+748,Fuego Bistro,0,Latin Food,20,HGvNE87fvK5PwKMZBDkTbA,85014,4.285714285714286
+749,Fuego Cantina,0,Bar,2,fu8ZdJMcX6GSVf3BbWOsgg,85022,0.0
+750,Fuego CityScape,0,Mexican,0,Ls1NqcogI-szYoQ7tLh4Og,85004,8.571428571428571
+751,Fuego Del Mar,0,Latin Food,20,eEJo-37wnSEXk9vvac7nOQ,85016,8.571428571428571
+752,Fuego Taco Shop,0,Mexican,0,yb7ZtgMWSZboG_sSUx9g2A,85032,6.857142857142857
+753,Fuego Tacos,0,Latin Food,20,yHBhLawYmIthUPLbUXK5kw,85016,7.428571428571429
+754,Fuel to Fit,0,Deli,16,Ar7lMMYZIo1ND3AUzhW-Gw,85034,0.0
+755,Fuji Buffet,0,Other,1,FrXqoFcQqh0UYCvHQTfu-w,85014,0.0
+756,Full Belly Deli,0,Sandwiches,13,joCTjsILsL_gz4JP1xqT8g,85027,6.428571428571429
+757,Fusilli's,0,Italian,8,SWS5gooAPjG3BITQyNj_Qg,85012,0.0
+758,FUTURO,0,Coffee,15,kxiDclm1rSAH0yvznmYtlw,85004,9.714285714285714
+759,Fuzzy's Taco Shop,0,Mexican,0,IQ3wDfQYvE7B5Dsq7NArjQ,85018,12.285714285714286
+760,Gadzooks Enchiladas & Soup,0,Mexican,0,fbQaKW0Lte0JQ_opbnjdKg,85014,13.714285714285714
+761,Gallagher's Sports Grill,0,Burger,4,5nWfU-qheLL-JzwYgHe_cQ,85020,13.857142857142858
+762,Game Seven Grill,0,Burger,4,-0WegMt6Cy966qlDKhu6jA,85034,0.0
+763,Gameday Sports Bar and Grill,0,Bar,2,r7ierYdGsRe11VitbtCakw,85032,0.0
+764,Garage Wine and Tap,0,Bar,2,hNsRj2nXuALlJS4Op-8MmA,85014,12.857142857142858
+765,Garbanzo Mediterranean Grill,0,Other,1,yNBVOKSZN_AIjSJdhF_rqA,85032,10.0
+766,Garcia's Mexican Restaurant,0,Mexican,0,Hgy5MrIKrwRJDXnwKaCpbA,85018,10.285714285714286
+767,Garcia's Mexican Restaurants,0,Mexican,0,OE6y1kddCOo9iQc7RTjTow,85018,0.0
+768,Garcia's Mexican Restaurants,0,Mexican,0,zwmps5SXn30g-f5wqg_r9A,85029,11.285714285714286
+769,Gasper's Casual Italian Dining and Pizzeria,0,Pizza,5,ZE1n6H-4qgq_7z67qa4yUA,85016,0.0
+770,Gateway Cafe,0,Breakfast,3,ntdNvA7W_rPoIcdPIZjHTg,85008,5.0
+771,Gelato Spot,0,Ice Cream,12,BT5CAwvOSYMsfBN8KCZaNQ,85032,9.285714285714286
+772,Genghis Grill,0,Other,1,HVyxN-G8NOfUHo2cEnilVw,85032,11.285714285714286
+773,Geordie's Steak,0,Breakfast,3,aiPRMFEM-DCMb-0J4D14mg,85016,3.4285714285714284
+774,George & Dragon Restaurant,0,Bar,2,UESdOMLsXn_7WcwOZt7I3A,85012,15.0
+775,George & Son's Asian Cuisine,0,Chinese,9,UUtWoDyREiy9MPdtTRFUYQ,85027,10.142857142857142
+776,George's Famous Gyros & Pasta,0,Other,1,cq6SQkWKVT3TH-6YzGFn4g,85027,7.0
+777,George's Kitchen,0,Pizza,5,3U__XOTBFptjhBeHrPGqrg,85016,10.285714285714286
+778,Georgio's Subs,0,Bar,2,z5cpyP28ZvCHxZkLXv0jBg,85029,10.714285714285714
+779,German Sausage,0,Other,1,kJlP5bSpVFaITDf7W9q3jA,85018,5.928571428571429
+780,Gertrude's,0,Breakfast,3,UNfiku8qEyvGYjPK7w_gxQ,85008,10.214285714285714
+781,Ghost Lounge,0,Bar,2,vWHKGoI4YnH1_Bju6Fm1OA,85004,8.857142857142858
+782,Giant Coffee,0,Coffee,15,qD_JdN9HpuuXtJv4C6jmCw,85004,12.0
+783,Giant Rustic Pizza,0,Pizza,5,ETTzxqOcPuxMqV37y1uhdg,85018,10.785714285714286
+784,Gigi's Cupcakes of Phoenix,0,Bakery,17,MKT77UstJ5PAWyLNTuWujQ,85044,9.428571428571429
+785,Gigi's Cupcakes of Phoenix,0,Bakery,17,46wGC_Xek4bWxx9dQvtlDQ,85018,8.571428571428571
+786,Gil's Taste of Taos,0,Mexican,0,rLTa-PztQLafDf70aKrNOA,85022,3.5714285714285716
+787,Gino's Coast To Coast,0,Other,1,gw6aVsdno8U8DEl0F404fg,85032,11.428571428571429
+788,Ginos East Chicago,0,Pizza,5,1muT5zEqoC4qp9ms08qJtQ,85018,11.285714285714286
+789,Giuseppe's on 28th,0,Italian,8,EUQoB_ph7_xIyj7JZGI3bg,85016,9.0
+790,Glai Baan,0,Thai,19,JWjL6WTeEIdGN0vOGNO9pQ,85016,4.714285714285714
+791,Glam,0,Other,1,PqscBHGvdQt5Bza1a2pCIQ,85016,0.0
+792,Gluten Free Creations Bakery,0,Bakery,17,F6rZDgYtqfjs9sQC6bv81w,85016,5.714285714285714
+793,GNC,1,Other,1,GBEra1Y2v-3RzMYgt2FYNg,85016,0.0
+794,Go Go China,0,Chinese,9,rBBAD_fHaYnqWC_APHO2SQ,85032,13.0
+795,Gojo Ethiopian Restaurant,0,Other,1,JnotDMU1KOYHm5kHHuPnyg,85016,13.0
+796,Golden Bowl Chinese Food,0,Chinese,9,nlU0Gp7KCN2hjIzcTdWy0w,85032,0.0
+797,Golden Buddha,0,Chinese,9,ropJyZdmv6NeDU2Vz1I_Hg,85008,11.285714285714286
+798,Golden Coin,0,Chinese,9,LjCrhp_Rys2bCIJHz5EGBA,85018,0.0
+799,Golden Phoenix Chinese Restaurant,0,Chinese,9,cI7k9zqs_pl3byUDE4cpdA,85016,9.0
+800,Golden Wok Chinese Restaurant,0,Chinese,9,uLUl_dMl6a9m774LGReDVA,85032,5.928571428571429
+801,Good Taste House,0,Chinese,9,QOmojzu24dTI2coPjOtu2Q,85020,12.857142857142858
+802,Goodcents Deli Fresh Subs,0,Sandwiches,13,u2_tsVD586yAzV643YP2eA,85032,0.0
+803,Gorditas El Tio,0,Mexican,0,2G8YLx7J8du260jFNjIjZQ,85032,0.0
+804,Grabbagreen Bell,0,Breakfast,3,qqW-vXEPKjP-IDr4A9X0Mw,85032,13.714285714285714
+805,Grady's,0,Bar,2,QMj2_aQU9gh4d6LXzbmDLg,85029,0.0
+806,Grassroots Kitchen & Tap,0,Bar,2,VSX3ixrqQFwwGBUf15s0EQ,85016,10.285714285714286
+807,Grateful Spoon Gelato,0,Ice Cream,12,Ao5E4Ppw0m5CNlRjg3mnjQ,85018,0.0
+808,Great American Grill,0,Other,1,oqEFEEKsESYuCjhDzrCuEg,85012,15.714285714285714
+809,Great Steak,0,Bar,2,ey3i64kDG-91Zqz6LCH14Q,85034,0.0
+810,Great Steak and Potato Co.,0,Sandwiches,13,mfBTgkK84bsYTC8xEkuBMw,85034,0.0
+811,Great Wall Buffet,0,Chinese,9,67sq73gTdgHN0atGtIgDtA,85029,0.0
+812,Great Wok,0,Chinese,9,R7-3MCD6_RL_VxN65yCh2Q,85044,10.285714285714286
+813,GreaterThan Coffee,0,Breakfast,3,yem1oUuZGl073Dlq_dMKIQ,85034,5.0
+814,Greek Patio,0,Other,1,ylC-mQfL-eAiuLmAGZrqKw,85027,0.0
+815,Greekfest Restaurant,0,Other,1,jZ_3vs_RtMrkZbol1U_U7Q,85016,9.428571428571429
+816,Greektown,0,Other,1,n2tiSHECXkFv47aIkxvSDA,85020,5.142857142857143
+817,Green Chile Grill,0,Mexican,0,Z0ojefRCqnvVLdNUjSYA1g,85027,1.4285714285714286
+818,Green New American Vegetarian,0,Vegetarian,7,S6TMBqrsi4PLRFoQFPScjQ,85004,8.571428571428571
+819,Greenway Village Cocktail Lounge,0,Bar,2,TuC9P7ujwWoWL2wlCqdCNA,85032,0.0
+820,Greka Pita,0,Other,1,uhyDNWYRSsom3VrFgOgP_w,85016,11.714285714285714
+821,Grinders Coffee,0,Breakfast,3,cMoAyO10kXgzNEGSnUUjCA,85020,10.571428571428571
+822,Guacamoles Fresh Mexican Grill,0,Mexican,0,CrwL7Y-jdzno4mmV7CN67A,85004,10.857142857142858
+823,Gypsy's Roadhouse,0,Burger,4,DYi6jJYhK3kTfaYn81tORQ,85008,16.0
+824,Gyro House,0,Other,1,GQxpWDw3MuCwAMV9BA-62w,85028,8.571428571428571
+825,Gyro House 32,0,Vegetarian,7,tT5kEAq2DFTKqc6mJ9ptCg,85032,9.714285714285714
+826,Gyros on Central,0,FastFood,11,p_-fGCrpUQZXSO6sGAs6Tg,85020,7.0
+827,Gyrosology,0,Other,1,7fPMKpEOH-uNnUd0OoSwdg,85022,7.571428571428571
+828,Haagen Dazs Shop,1,Bar,2,5Eay1KNn13hP4GHz7ATKEw,85016,0.0
+829,Habanero Fresh Mexican Grill,0,Mexican,0,4bfKtdnkkhq8qA21sjVXlg,85027,8.0
+830,Habanero's Mexican Grill,0,Mexican,0,utqMwgvfYPlWMaRkX09w1g,85004,11.5
+831,Hal O. Peno's Mexican Cafe,0,Mexican,0,eaKTE4Yo1dCxI9VLIY6HFg,85018,0.0
+832,Haldi Indian Cuisine,0,Indian,18,3K9u2FpHG9b7tWogqyEyWQ,85032,10.0
+833,Half Moon Sports Grill,0,Burger,4,iB9By3dVS6BydSUiDHxLyw,85016,15.0
+834,Hammered Hog BBQ Hall & Saloon,0,Bar,2,wltfqot_Et0r-DYaZDxWFA,85032,10.571428571428571
+835,Hammered Hog BBQ Hall & Saloon,0,Bar,2,Br2gGP58FkogY04rhdcDHQ,85032,10.571428571428571
+836,Hana Sushi,0,Japanese,22,bkZVphD4miecxL2PalLi8w,85027,6.571428571428571
+837,Hannah's Caramel Apples,0,Ice Cream,12,Dkg_c9Z7XiCztec5L8mpdg,85018,6.0
+838,Hanny's,0,Pizza,5,ALn_0f-Usn3n0a9WBcjhhg,85004,12.285714285714286
+839,Happy Buffet,0,Other,1,J7duBvni2oJVVGQxX0fJ0Q,85020,0.0
+840,Hap's Pit Barbecue,0,Bar,2,tbmYBmGY9C_-A52rXyHloQ,85034,6.857142857142857
+841,Hap's Pit Barbeque,0,Bar,2,PyHMu_9XyUDveR_82WzR2Q,85034,0.0
+842,Harem Lounge,0,Burger,4,cXy1NKi1cdsidlaT6dDFKw,85044,0.0
+843,Harvey's Wineburger,0,Burger,4,dnBQZpWTyJzTe0QJf7YK5w,85016,16.0
+844,Hava Java,0,Coffee,15,1JpfQCgLnmz6VU00O1XIPw,85016,14.357142857142858
+845,Havana Cafe,0,Latin Food,20,fskIA-YRflPnwHWL7Q8bLg,85018,9.857142857142858
+846,Hawg and Dawg Express,0,Bar,2,Ds7KCTQ4_uN4VCeEiwX7yg,85044,0.0
+847,Haymaker Sports Grill,0,Bar,2,ojI96R363pDCrdIlhVKTvQ,85032,12.0
+848,Hazelwoods First Place Sports Grill,0,Bar,2,wcNvlrB5xSxzXex2M3UyvQ,85018,15.0
+849,HB Hanratty's,0,Bar,2,Jm0o88tqhL0VvrJ83IZAow,85012,8.571428571428571
+850,Healthy Chinese Herbs,0,Other,1,kc8X_4tPF99QK9dAyNKrww,85008,6.857142857142857
+851,Heavenly Bites,0,Bakery,17,sze3rPuaB51f76RhJe7ilA,85004,7.571428571428571
+852,HEK Yeah BBQ,0,Bar,2,APXWKd1N-COyUdncd_FdyQ,85032,4.285714285714286
+853,Helio Basin Brewing,0,Mexican,0,aXiXvy5cBMeb6m2j7WFuzg,85018,10.0
+854,"Helpings Cafe, Market and Catering",0,Coffee,15,E3qxMkbKxQR6Aca36c53GA,85008,5.714285714285714
+855,Helton Brewing Company,0,Other,1,qraqnnpchUfx-vMiTfgcNw,85016,6.857142857142857
+856,Hempful Farms Cafe and Shop,0,Breakfast,3,ljkkLrW1j-tZtrJq9SFjVQ,85022,5.714285714285714
+857,Henry's Liquors,0,Bar,2,wBzDqG5KTZt390PObwZm4g,85029,0.0
+858,Hey Joe! Filipino Street Food Truck,0,FastFood,11,86AlQmjMfkxZgH5UquSOPg,85004,0.0
+859,Highside,0,Bar,2,QoSFxdlPCkiXNRQZpeg5sg,85020,8.285714285714286
+860,Hi-Health,0,Other,1,6yv8X9ayXUwGtsXtIE5OOg,85022,11.142857142857142
+861,Hi-Health Supermart,0,Other,1,t4qsuJVhJCtbFGKxPtyuig,85032,11.142857142857142
+862,Hi-Health Supermart,0,Other,1,8GHn7-g8u1Zi9rJcDF5fZw,85020,11.142857142857142
+863,Hi-Health Supermart - Arcadia,0,Other,1,FTP0ftOVhhWmCFR01aDf4g,85018,11.285714285714286
+864,Hilal Grill,0,Indian,18,muzZW1AqlfdWGMND0jf_kw,85008,8.428571428571429
+865,Hillside Spot,0,Burger,4,fKm6mfATDJRDDQH0PtZeeQ,85044,14.5
+866,Hillstone Restaurant,0,Bar,2,XC06xxb7FFYsXcI2E38IIw,85016,10.714285714285714
+867,Hobe Meats,0,Other,1,paWti26uib0RmBJIn6xL9w,85016,9.428571428571429
+868,Hog Wild Pit BBQ,0,Bar,2,lEgKurgXzZaMpExXtvBY7w,85018,10.0
+869,Hole-in-the-Wall,0,Bar,2,D-EUh2YgvWGNyhg4mJQcHg,85020,12.0
+870,Honey Bear's BBQ,0,Bar,2,RsREl3LkFGiwbt3kGIX4Eg,85004,10.285714285714286
+871,Honey Bear's BBQ,0,Bar,2,IQLnLQYcTwCjwt_ri9dqhA,85008,10.285714285714286
+872,HoneyBaked,0,Coffee,15,zqSfx9k2Pe33UDHmfa_fcg,85044,0.0
+873,HoneyBaked Ham,0,Coffee,15,A-apTF3JfkUPR_oeazZC1Q,85032,6.857142857142857
+874,Hong Kong Express,0,Chinese,9,rca1HN4qRsZfmpxmlFWNDQ,85008,10.5
+875,Honor Amongst Thieves,0,Breakfast,3,rVcavfM5BC4tvv9iHBo_CQ,85014,6.571428571428571
+876,Hookmeup Gourmet Sandwiches,0,Sandwiches,13,01cFftHZc98jNJfJrLEJ5g,85044,10.0
+877,Hooters,1,Bar,2,k4qx8DacgRbM9vpVbWc3zA,85004,0.0
+878,Hopdoddy Burger Bar,0,Burger,4,WXR0ND0KqbArMZDvFMA-bw,85016,10.285714285714286
+879,Hoppin' Jack's,0,Burger,4,anNJCzaHEGruOM9txX1SFQ,85034,0.0
+880,Hula's Modern Tiki,0,Latin Food,20,J07TDs6qnTIaxm48EL1cKQ,85012,12.142857142857142
+881,Humberto's Mexican Food,0,Mexican,0,Sav4EJZSG7p--09DTHt5mg,85032,15.0
+882,Humberto's Mexican Food,0,Mexican,0,oVdcOfPFUHae6vRnAEzFFg,85029,16.857142857142858
+883,Humble Pie,0,Pizza,5,6FO2DTcN7zqFfl090zf12g,85034,0.0
+884,Humble Pie,0,Pizza,5,0h5yI6np7weAVH0jsjHqPw,85034,10.857142857142858
+885,Humphrey's Kitchen & Koffee,0,Breakfast,3,e2DH7QQssuGqwLltAI5pEg,85016,5.285714285714286
+886,Hungry Howie's Pizza,0,Pizza,5,htNNxttBjRmRnP4d0XFl-w,85018,12.071428571428571
+887,Hurry 4 Curry,0,Indian,18,li6HgKl6mEhZpdMgAIQoOQ,85004,9.857142857142858
+888,Huss Brewing Co. Uptown Taproom,0,Other,1,xJ7UfCqbWHRB4vaIiy5PEw,85012,7.571428571428571
+889,Ice House Tavern,0,Bar,2,qv88BZd88Va7ZuMOkzbUUQ,85018,10.0
+890,Ice House Tavern,0,Bar,2,rqYOFPPrdwMYvSRpI4r3-g,85018,11.428571428571429
+891,Icepics Video Bar,0,Bar,2,aYTOwp3i1MpBt1dDfWp_YQ,85008,10.285714285714286
+892,Ichi Ban Japanese Restaurant & Sushi,0,Japanese,22,1C7mPT-9mFihyZq8-qLxgw,85004,3.5714285714285716
+893,ICON Lounge,0,Bar,2,500mXn_L5a4MI9GrOXvTeQ,85004,11.0
+894,IHOP,1,Breakfast,3,Vp9TrF9P4ifIRAMcte-ycw,85044,0.0
+895,IHOP,1,Breakfast,3,MJyKhCf7lu0XPhCbo-TnbQ,85032,0.0
+896,IHOP,1,Breakfast,3,3kVThNUM1mzz1lBtxdSJxw,85004,0.0
+897,IHOP,1,Diner,10,V0GHF8CkhOovDeQKCn7YQg,85008,0.0
+898,Il Primo Pizza & Wings,0,Pizza,5,3aJqrnY4u86F5-Fn_vAy-g,85032,0.0
+899,Imperial Garden Chinese Buffett,0,Chinese,9,aPXqM0otWirctn5d4HkTNQ,85014,0.0
+900,Imperial Kosher Market,0,Other,1,5PlbORAcmUAJ0QCMJRSmDw,85020,8.428571428571429
+901,Indian Delhi Palace,0,Indian,18,02EYqwh47uVxOaOKrnx8SQ,85008,10.5
+902,Indian Express,0,Indian,18,SaAtDmMKN_B5-8d-n5X86w,85027,3.4285714285714284
+903,Ingo's Tasty Food,0,Burger,4,mUVAMNN7BCQ9HGA9w_7C1g,85018,11.285714285714286
+904,In-N-Out Burger,1,Burger,4,1ku0t5u7dCAE0g-pZDQdAw,85016,14.642857142857142
+905,In-N-Out Burger,1,Burger,4,F9cXFXk60E2sz_YTSCFp_Q,85032,14.642857142857142
+906,In-N-Out Burger,1,Burger,4,udrIB4tIAtZQOGAiukQ2Rg,85027,14.642857142857142
+907,In-N-Out Burger,1,Burger,4,OdViVhR2ayppzkN2WtIScw,85029,14.642857142857142
+908,Iron Chef,0,Chinese,9,gBEWJ4b2OvUmN4Oh7ju3hw,85028,11.0
+909,Isa's Pizza,0,Pizza,5,mzvOKS2QFKGIMFdLusbjQg,85032,9.0
+910,Isa's Pizza,0,Pizza,5,65kCKrnO3SulNYEen0itGg,85022,9.0
+911,Island Loco,0,FastFood,11,PzItDWhnWrViLmAXQuMASQ,85034,0.0
+912,Islands Restaurant,0,Burger,4,nj8W3FI5Fwg7TA5duszeGw,85032,10.785714285714286
+913,Italian Spoon,0,Italian,8,i4Jb_b28YAphS9_jPPzwkQ,85014,10.285714285714286
+914,J.K. Sushi,0,Japanese,22,F6Xyqyoi_RCTc3mf00ip2Q,85022,10.357142857142858
+915,Jack In the Box,1,Burger,4,rbnu5j2ngn2EeKoqLtnB2g,85034,0.0
+916,Jack In the Box,1,Burger,4,efEzgGaHeuwQFtBvSsKoSw,85022,0.0
+917,Jack In the Box,1,FastFood,11,U2ZwdiUSZlK4PAhcQugLgA,85018,0.0
+918,Jack In the Box,1,FastFood,11,cwJtI1JyX06CU_mxqCU2rw,85027,0.0
+919,Jackalope Flats,0,Other,1,4r0Ho5rbAZ_BhXvpQmxbag,85034,0.0
+920,Jack-In-the Box,1,Burger,4,Zju9aNvftYAJULT3LGsZzA,85029,0.0
+921,Jack-In-the Box Drive Thru,1,FastFood,11,YNTHs8rCdorWWDa8NGQRgg,85008,0.0
+922,Jack-In-the Box Drive Thru,1,FastFood,11,FWlvgWQVsPrd8dFp6oBbsQ,85044,0.0
+923,Jack-In-the Box Drive Thru,1,FastFood,11,HXdPqrO27tANiLpbCe9BVA,85027,0.0
+924,Jack-In-the-Box,1,Burger,4,oyUtPCiEDlYiUE2kSeFq7A,85014,0.0
+925,Jack-In-the-Box,1,FastFood,11,tOUFYUVuhdvtHVSrYu2hwA,85012,0.0
+926,Jackson's On 3rd,0,Bar,2,MpvvsMZOjMME6aMDCnMjQw,85004,0.0
+927,Jacquee's Espresso,0,Deli,16,QcTTRBfrd0rMzzuCDec_Cw,85004,5.357142857142857
+928,Jake's Sports Bar and Grill,0,Bar,2,88cKxCOOHIonIa44yVPDmQ,85022,12.857142857142858
+929,Jamba Juice,1,Bar,2,gnVN5lzHX4n0Nd9ogoHQNA,85032,13.071428571428571
+930,Jamba Juice,1,Bar,2,RyVF3eJDJl6S4SFGSRU6Ow,85012,11.857142857142858
+931,Jamba Juice,1,Bar,2,ZXBrJx0Yd8lmvxZM5ZOIFw,85022,13.857142857142858
+932,Jamba Juice,1,Bar,2,qxDe7yciDZxImUZCKLkYIw,85016,14.571428571428571
+933,Jamba Juice,1,Bar,2,IespLu0QdmfmujunHYxVMg,85027,0.0
+934,Jamba Juice,1,Bar,2,snP8QGxG-YRNBL_uq1kiAQ,85044,12.357142857142858
+935,Jamie's Wine Bar,0,Bar,2,W4MGrorVjGwe-ioZF5ixjQ,85016,0.0
+936,Jana's Bakery,0,Bakery,17,5OWwRvNovyRg26J4aP4DTw,85022,7.0
+937,Jax Market,0,Bar,2,IR_Cyp59Eby30Y_OhCTouQ,85032,0.0
+938,Jennifer's Catering & Events,0,Other,1,m8qJtl3l6QXJMnNxN6LQRQ,85018,9.571428571428571
+939,Jerry's Restaurant,0,Diner,10,sFg3G8-oMGeiHYsVqKN7PQ,85016,0.0
+940,Jersey Mike's Subs,0,Breakfast,3,8JtnbHflEazfcLPd9ZjhnA,85012,11.0
+941,Jersey Mike's Subs,0,Sandwiches,13,prcrTVScKNTfSu0wcle0DA,85032,0.0
+942,Jersey Mike's Subs,0,Sandwiches,13,v1cbdKF5EjgWSwutjzg-WA,85016,11.0
+943,Jersey Mike's Subs,0,Sandwiches,13,v9ZRK2k85eFlZ6rLYVbMqQ,85032,0.0
+944,Jersey Mike's Subs,0,Sandwiches,13,cJTziG8b7bW-FSvgFeLi_Q,85022,11.0
+945,Jersey Mike's Subs,0,Sandwiches,13,Uxyc9jyxZ_h2awnz5bAVMA,85016,11.0
+946,Jesters Mexican Grill,0,Mexican,0,ZxO1vuGoiCzir1r9Ma3BfQ,85027,8.0
+947,Jetbox Market,0,Sandwiches,13,_fN2KAvWGIu54iuKMT6neg,85034,0.0
+948,Jet's Pizza,0,Pizza,5,sjiTzC2aoy13iPuIvk37Ew,85028,11.142857142857142
+949,Jewel's Bakery and Cafe,0,Breakfast,3,Q9is4jcGh5FT_1sAKilu6g,85018,7.0
+950,Jewel's Cupcakes,0,Coffee,15,sXb10GDdCLxS16iTrEzqOg,85014,0.0
+951,Jimmy & Joe's Pizzeria,0,Pizza,5,t7qvPH0G30w6xX5Q4lf8Jw,85044,10.785714285714286
+952,Jimmy G's Burgers,0,Burger,4,CJxRsR81ETN4QXQyB3YjQQ,85016,5.142857142857143
+953,Jimmy John's,0,Pizza,5,CxtzsoASybpq3afGYu4LYg,85020,11.0
+954,Jimmy John's,0,Italian,8,6xHAfmlqlpjm9retP20woQ,85016,11.0
+955,Jimmy John's,0,Sandwiches,13,jR5I8274KDF-5JC42jLyXQ,85004,11.0
+956,Jimmy John's,0,Sandwiches,13,k-NEUIXaPnXtrzCo1MeO7g,85032,12.5
+957,Jimmy John's,0,Sandwiches,13,BG_l5Fp-aBOAxudpl6wStQ,85032,0.0
+958,Jimmy John's,0,Sandwiches,13,KfWRe_yMC0tDDGBgoPB37g,85008,11.0
+959,Jimmy John's,0,Sandwiches,13,IPvzhUfrOukhT0i7oBeHkQ,85027,0.0
+960,Jimmy John's,0,Sandwiches,13,D5H_unBtIAOlnnUXo-GxyA,85022,0.0
+961,Jimmy V's Subs and wings,0,Burger,4,TDtrXAMabVffH1Yf-RLpnQ,85032,7.714285714285714
+962,JJ's Gyros,0,Other,1,Zp9RMGJKVc9Qkhj4QqyROw,85027,6.285714285714286
+963,JoBot Coffee & Diner,0,Coffee,15,dIqMQYs6tmowQUygS8sQ6A,85004,15.571428571428571
+964,Jody Maroni's Sausage Kingdom,0,FastFood,11,Q17zQBhfq9AKmvSmhDhjlA,85034,0.0
+965,Joe's Diner,0,Diner,10,53jjJCXpXSRaHfu_ZJePRA,85016,8.0
+966,Joe's Midnight Run,0,Bar,2,f30-DOoIxvoV9btiDvKMTw,85014,9.928571428571429
+967,Joes Real Bbq,0,Bar,2,k10rQp_ZRcXW63Fxxkojcw,85034,0.0
+968,Joey's California Bistro,0,Italian,8,FIr6iGroJz6OP1m9vo3f9w,85022,10.0
+969,Joeys of Chicago,0,Sandwiches,13,M4zq737gzO5GqIk91X0CYw,85018,10.285714285714286
+970,Johnnie's Chicago Style Pizza,0,Pizza,5,W36vefYka0IZAPWygxJtqg,85034,9.214285714285714
+971,Johnnie's Java Mobile Coffee Catering,0,Coffee,15,4dZ1OXJFADBrgN1850WGRQ,85029,5.714285714285714
+972,Johnny Rockets,1,Burger,4,lKvNwcSr8l2iGigLonP-jw,85027,10.785714285714286
+973,Johnny Rockets,1,Burger,4,E_wLJ3w5QTMN_Bz3O99ZYQ,85027,0.0
+974,Johnny's Uptown,0,Other,1,eUlZN4agALWmDSqCh9x_mw,85012,0.0
+975,Jordan's Mexican Food,0,Mexican,0,TZl7YBuzo5awZP8QJDLg_w,85014,10.0
+976,Jordan's Mexican Food,0,Mexican,0,bxPa15MkcQ8A1JtN0_dOIQ,85004,0.0
+977,Jose Roux,0,Other,1,hXPUQ_LixjhuUiD33mN6Vg,85034,0.0
+978,Joyride Taco House,0,Mexican,0,AhPmh0NaRDbEYyhd9egzLA,85012,12.142857142857142
+979,JP's Dog House,0,Bar,2,ecSkjwRS0Fn5NMkp-XwFuA,85016,1.0714285714285714
+980,Jr's Fish and Chips,0,Other,1,NOni-U-epTbgsbu7TNjqmg,85029,0.0
+981,JT's Bar & Grill,0,Burger,4,AyZePvrWz73d3B0hafFCKA,85018,10.428571428571429
+982,Juan's Authentic Mexican Food,0,Mexican,0,_6mvQX9x66oz046eS5ii8w,85014,9.285714285714286
+983,Juby True,0,Bar,2,mUhHdFHZ5X01unji5nlPIw,85018,10.428571428571429
+984,Jugheads,0,Other,1,XS92emti6SnkE99_cvCAfQ,85008,0.0
+985,Juicd Life,0,Bar,2,szlxlViCHJhC73hBAU38YQ,85016,8.0
+986,Julia Baker Confections,0,Coffee,15,GmLkyWb_zYrTEp1SpWxHIA,85016,9.714285714285714
+987,Julio G's Tatum,0,Mexican,0,2OkYkQRItlqbKw9Mz7flCA,85032,0.0
+988,Julioberto's,0,Mexican,0,Szcr-yMxq76zRaSTUapAcw,85016,0.0
+989,Julioberto's,0,Mexican,0,f3K2hJ2sJBCtyc1M6O2jpw,85029,0.0
+990,Julioberto's,0,Mexican,0,Nv1PVoMJjKSutxCnGRYbnA,85020,0.0
+991,Julioberto's,0,Mexican,0,jo1lQFFrqWS5HgOiyP6_sA,85020,0.0
+992,Julioberto's,0,Mexican,0,9WAo6J2-9mxMo8UQrA_G8A,85032,0.0
+993,Julioberto's,0,Mexican,0,qYNl7Qh-YetWdMQTzX-jZA,85016,0.0
+994,Julioberto's,0,Mexican,0,TPYcddUHyEF3zo5LJPM8vQ,85008,0.0
+995,Julio's Too,0,Mexican,0,T7Z309DN9kbkhFTCCXt1Ag,85032,0.0
+996,Kaleidoscope Juice,0,Bar,2,Z0PvhaSGgR5NsoXctsUa5A,85018,11.428571428571429
+997,Kaleidoscope Juice,0,Bar,2,91FlIjn-FabJYjJ819gwbQ,85004,10.428571428571429
+998,Karen Biscotti,0,Bakery,17,oLtckug5TThVlLkbhIy4NA,85004,0.0
+999,Karey's Kitchen,0,Bar,2,mIZRTk10-YmWRVaxhC1hjg,85018,6.928571428571429
+1000,Karim's Cobbler Shop & Deli,0,Deli,16,jvSaFzdXn9mtY-emdaoCSw,85004,0.0
+1001,Karl's Quality Bakery,0,Bakery,17,Ut4nk4AzlMX62Hy2_rqIew,85020,9.285714285714286
+1002,Karsh's Bakery,0,Bakery,17,a6fYAeP1VOBVUeY2SrHaDw,85014,8.571428571428571
+1003,Kat's,0,Bar,2,EpX9gqU02glDU874Tp22VA,85016,18.0
+1004,Katz Delicatessen & Sandwich Shop,0,Deli,16,6tewQ0ymGsSx56D-B-KPog,85012,0.0
+1005,Keegan's Grill,0,Bar,2,HEOhtDZgK0CFhwR9shDU_g,85016,12.285714285714286
+1006,Keegan's Grill & Taproom Foothills,0,Other,1,m1BRMnrel42nz_qIPSBO9w,85044,11.714285714285714
+1007,KFC,1,FastFood,11,02ooNKJDjsE50KfmL0Rqdw,85016,12.0
+1008,KFC,1,FastFood,11,AF-N6i0XCJRPFFOZKp1Pnw,85027,12.0
+1009,KFC,1,FastFood,11,x8Sp-h-oR5WdzoG5WEsHnQ,85032,11.5
+1010,KFC,1,FastFood,11,6c4AW8WTpTA_xZYOrJx3Eg,85044,11.642857142857142
+1011,KFC,1,FastFood,11,FysQmYPyBcIv0RSNhuVzAQ,85018,12.285714285714286
+1012,Khyber Halal,0,Indian,18,zNGYsFeG_7XEBodbtfux5Q,85016,8.142857142857142
+1013,Kick Ass Kakes,0,Bakery,17,TluU3vUwl5bIiAtFBJI9Hw,85016,9.428571428571429
+1014,Kimmyz Tatum Point,0,Burger,4,dQ8kST_dfWcZVcLlIk7yRA,85032,13.857142857142858
+1015,Kim's Chinese Kitchen,0,Chinese,9,atSfDP-SLY4GrvBlBPB31Q,85016,8.571428571428571
+1016,Kincaid's Classic American Dining,0,Coffee,15,nSrLMVCShkos5msyVaQAFg,85004,6.857142857142857
+1017,King Pin Grill & Pizza,0,Burger,4,E2iZCFnfu9Np8lABZKqMLA,85020,12.142857142857142
+1018,King Solomon's Pizza,0,Pizza,5,HCsceGqc3Y3SiUxcpzNuDA,85014,7.428571428571429
+1019,King Wong Chinese Food,0,Chinese,9,cJzv3fbd7jL2ZHyFosFkOw,85008,8.5
+1020,Kings Beer & Wine,0,Bar,2,ZQCu2fgGoatxA6aAm82axQ,85004,13.285714285714286
+1021,Kitchen 56,0,Other,1,4p6Wce7Ed707QS2-yQkvZw,85018,10.571428571428571
+1022,Kitchen on the Street,0,FastFood,11,woloTrsGyM5BK23ZryIZvQ,85027,0.0
+1023,Kloudz Hookah Lounge,0,Bar,2,ysspz_eE6b1BlJzdT4B58Q,85022,8.571428571428571
+1024,Kneaders,0,Coffee,15,qvBkj8tcLwv2QMF9jhH12A,85044,12.285714285714286
+1025,Kneaders Bakery & Cafe,0,Breakfast,3,FTdEGDDVRrDmVbzHmC91wQ,85022,12.857142857142858
+1026,Kneaders Bakery & Cafe,0,Coffee,15,DE_ctc1KSo7937A-kVBsEQ,85018,12.857142857142858
+1027,Knock Kneed Lobster,0,Seafood,14,3u4AsqA8glBmGuxtNx5mdQ,85034,10.5
+1028,Kobalt,0,Bar,2,x0TM2v8_A15NyA6Rm7AxFg,85012,15.285714285714286
+1029,Kodiak Fresh Produce,0,Other,1,Id8519Mcx35iKSKyu1RRXg,85034,6.571428571428571
+1030,Kokopeli Deli,0,Deli,16,Rl6-T4ys2Vq7t_bfyORiRw,85034,0.0
+1031,Kokopelli Mexican Grill,0,Mexican,0,pOJMqoyWtOVxtjB_dakVzw,85016,0.0
+1032,Koreana BBQ,0,Other,1,0S3x-ERLaR-ce1sJtS_OUA,85032,0.0
+1033,Kozy Cactus,0,Other,1,UcaLZaIwz5P0PXRT15AdeA,85032,0.0
+1034,Kream Coffee,0,Coffee,15,g0rTFoLeIR9-xj9bOUWQDQ,85012,7.857142857142857
+1035,Krispy Kreme,1,Donuts,21,oDzfxyhB0XIIcMQWl9S3HQ,85032,16.785714285714285
+1036,Krispy Kreme,1,Donuts,21,bQpWGrQAKT0Zy8BOIp_xGg,85016,13.5
+1037,Krispy Kreme Doughnuts,1,Donuts,21,uG4YxC4OA0bg6S_Yko2pMg,85004,0.0
+1038,Krispy Krunchy Chicken,0,Pizza,5,uCO6aHdTqWwcPAU7bYih3Q,85008,11.857142857142858
+1039,Krua Thai Cuisine,0,Thai,19,63bHLJUomC22Xdm3IjgBtw,85022,4.642857142857143
+1040,Kwality Ice Cream,0,Ice Cream,12,iWMtsDAmdGBqiEuTWwiSWA,85022,6.428571428571429
+1041,Kyoto Bowl,0,Japanese,22,hKQe1UsEbeo-qM1Vc8m23g,85016,0.0
+1042,Kyoto Bowl,0,Japanese,22,BcrTHaJULDlB1XuW4RIb_Q,85018,10.285714285714286
+1043,L&L Hawaiian BBQ,0,Bar,2,O1iooQB4W8uHKvnyl3ILHw,85027,11.857142857142858
+1044,La Canasta,0,Mexican,0,BOSRH5BwLs97xgtfgu4Plg,85029,0.0
+1045,La Casa Del Mariachi,0,Mexican,0,6AYMdVnWkFWTk1uEHGUmZg,85008,0.0
+1046,La Flor De Calabaza,0,Mexican,0,3-aEgS7X2jrbxA7sA1nARw,85004,9.285714285714286
+1047,La Fontanella Restaurant,0,Italian,8,-8JaNeG3etLgOVyg2gOIiA,85018,5.0
+1048,La Frontera,0,Mexican,0,4RV97YE8VEw05tu0WO425g,85034,17.571428571428573
+1049,La Grande Orange,0,Pizza,5,DkIEhR8behaIoSexekWV0Q,85034,0.0
+1050,La Grande Orange Grocery,0,Pizza,5,D3dAx-QW_uuClz4MambeHA,85018,15.5
+1051,La Grande Orange Pizzeria,0,Burger,4,7cK9uEV09iPmsTqOqmY3kQ,85018,8.142857142857142
+1052,La Madeleine Country French Cafe,0,Breakfast,3,ANHCo9X7zu0LdYecc9fk3Q,85034,0.0
+1053,La Madeleine French Bakery & Cafe,0,French,6,FgSFHWxlSDCbmSKmzKCYog,85016,0.0
+1054,La Madeleine PHX: Term 4 B19,0,Other,1,SO6Do3X3hVFXkNAIl5izzg,85034,0.0
+1055,La Parrilla Suiza,0,Mexican,0,kWvBsbALiMDOghpoBh-tAQ,85032,11.285714285714286
+1056,La Parrilla Suiza,0,Mexican,0,nsEO3MRzYLKfgtID7gvArw,85029,11.285714285714286
+1057,La Piazza PHX,0,Pizza,5,AN9sX6Dh8-QAoJssdyno8A,85004,4.142857142857143
+1058,La Purisima Bakery,0,Bakery,17,FxEJjLZj6UdsOCGcgEufeA,85016,11.285714285714286
+1059,La Reina Michoacana,0,Mexican,0,YV2nmpd7dz6VJiLQqBkECg,85008,0.0
+1060,La Salsita,0,Mexican,0,INuaxyGB7eE_6xMtYUersg,85018,14.571428571428571
+1061,La Tortotota,0,Mexican,0,KAmYlUNaGwEpEOLa1KJ33Q,85032,0.0
+1062,La Tradicion Restaurant,0,Mexican,0,FmZMn8-sjyTpOX7orjnt-g,85008,14.428571428571429
+1063,La Vigne,0,Bar,2,bmE5Yv3q5TF0wx6SmWgIUg,85044,0.0
+1064,LaBella Pizzeria and Restaurant,0,Pizza,5,Zps5RW0brl-s43OvlCgZAQ,85014,8.214285714285714
+1065,Ladera Taverna y Cocina,0,Mexican,0,rjlAUHT8B6KhKAmkZqS1xw,85020,9.428571428571429
+1066,Lakeside Hideout Cafe,0,Pizza,5,93ZUDaQQ_QLZ0G5ARjp2DA,85029,6.071428571428571
+1067,L'Amore Italian Restaurant,0,Italian,8,ZVtjS8Hvq2a6SxHxlehPGg,85016,8.571428571428571
+1068,Lao Ching Hing,0,Chinese,9,Zj3hKT7KlKSCAb4XCz4dgQ,85008,10.071428571428571
+1069,Las Brazas,0,Mexican,0,x-gCWVHofOLtiCtXC7y31w,85018,0.0
+1070,Latino Restaurant,0,Mexican,0,eWnlj6iTJBhz0wOpmnsD8Q,85020,13.785714285714286
+1071,Le Peep Restaurant On Central,0,Breakfast,3,bNn-D4ANDAjArEz1-QaSbw,85012,0.0
+1072,Left Coast Burrito,0,FastFood,11,dejlz35INXFt9fOJmjR_sg,85020,0.0
+1073,Left Seat Restaurant & Lounge,0,Other,1,ECVjFbvnzXs2LV7u3wi0vw,85034,0.0
+1074,Legends Sports Bar & Restaurant,0,Bar,2,wcbue65w2R8UYF5t1W9_dA,85004,10.714285714285714
+1075,Lenero Mexican Grill,0,Mexican,0,pJdPcHkqtaLF47pS0LxdYQ,85032,6.571428571428571
+1076,Lenny's Burger Shop,0,Burger,4,fZVkbNNWjMxuWzNi4Uvufg,85029,10.142857142857142
+1077,Lenny's Burger Shop,0,Burger,4,2FfZUyA82YhQCjWNiqDCzQ,85012,8.428571428571429
+1078,Leo's Ice Cream,0,Ice Cream,12,gWqFm3z-XWJJd7bQUyCbRw,85018,14.0
+1079,Les Gourmettes Cooking School,0,Other,1,BjvJYccHn0RY0n07vj9OmQ,85012,0.0
+1080,Let Them Eat Cake,0,Bakery,17,6-6s-ZBtAt-c64EQ8il0Zw,85018,5.142857142857143
+1081,Let's DO Lunch,0,Other,1,cLeH08WoBoozrRco89i9Nw,85029,5.714285714285714
+1082,Let's Make Noyze,0,Other,1,jg_O5iufW7GjCr9HMoAR8g,85032,15.0
+1083,Levi Catering,0,Coffee,15,ORWl-Sgc8QvdXqRnWN_8Jg,85028,4.285714285714286
+1084,Lifeboat Coffee,0,Coffee,15,hU-I172AdpBahJqP-GTSbA,85020,10.0
+1085,Lilac Bakery,0,Bakery,17,8K4BDHHXXBVGFqWQoMVQrQ,85016,6.857142857142857
+1086,Lilo's Coffee Haus,0,Coffee,15,9Flt2bgEjCDiP21101zUcg,85044,0.0
+1087,Lim's Chinese Buffet,0,Chinese,9,5z-kd3h50BnaE1Ee8GV5bg,85032,0.0
+1088,Linda's On Osborn,0,Diner,10,9vMQMbmfXl1qC8iJECEWjw,85016,0.0
+1089,Linger Longer Lounge,0,Bar,2,PfSW2cTJyx2-q6T39sevow,85016,10.0
+1090,Little Caesars,0,Other,1,6hfvVrOMmYapWGS1PN0b2w,85016,11.785714285714286
+1091,Little Caesars,0,Pizza,5,smdGDx5PS2Nt67FXYAQSUA,85032,11.642857142857142
+1092,Little Caesars,0,Pizza,5,2F2xrnxCJ_WdXfWGxJcn_g,85032,0.0
+1093,Little Caesars Pizza,0,Pizza,5,77FYW55qBiRAMZRxdIKApA,85020,0.0
+1094,Little Caesars Pizza,0,Pizza,5,zrKalMnWJY-lkl2KeQTelQ,85018,0.0
+1095,Little Caesars Pizza,0,Pizza,5,6SN1K-dWH5LoGHz4-SA1HQ,85008,11.5
+1096,Little Caesar's Pizza,0,Pizza,5,ePkouyI6uFc9ifEzvxD4jw,85027,0.0
+1097,Little Caeser's,0,Pizza,5,PepLYiTk-2j6Nb8JFVT9gQ,85016,0.0
+1098,Little Miss BBQ,0,Bar,2,Xg5qEQiB-7L6kGJ5F4K3bQ,85034,3.5714285714285716
+1099,Little Peking,0,Chinese,9,A2pHOVp0zh7grb1bbZxoBQ,85028,5.071428571428571
+1100,LMAO Phoenix,0,Other,1,59z-2yLWZuvIUbetMgvrtA,85008,0.0
+1101,Lola,0,Coffee,15,aQojV_Rap30A1SB7x31XCQ,85014,3.5714285714285716
+1102,Lola Coffee,0,Coffee,15,WQIvHDD4hNa8SDVxdQt56w,85012,12.142857142857142
+1103,Lola's,0,Bar,2,cILk7PnJBxNsMmGhQU2cyA,85014,16.285714285714285
+1104,Lo-lo's Chicken & Waffles,0,Other,1,IUMyUYOIR9UQ7XGIEQKOuA,85034,14.0
+1105,Lone Star Steakhouse,0,Coffee,15,U5P2sECeftfwaHos6h-2kQ,85016,11.0
+1106,Long John Silver's,0,FastFood,11,ubR4Ox0PTBFSPXzOc06p4g,85020,11.785714285714286
+1107,Long Wong's,0,Burger,4,OX0T9dWI8b7meu-ljTo22A,85016,12.0
+1108,Long Wong's North Phoenix,0,FastFood,11,656XUeBmMzyvU62yYHptxQ,85032,12.0
+1109,LongHorn Steakhouse,0,Bar,2,hgc-YJELr_899ExB92z6jw,85032,11.285714285714286
+1110,Loose Leaf Tea Market,0,Coffee,15,0sojfj-hw2WeXjkFwG-bVA,85016,8.571428571428571
+1111,Los Alamos Mexican Food,0,Mexican,0,IsGsZ95WHORUYy7vM_JYAw,85032,0.0
+1112,Los Armandos,0,Mexican,0,aYlZVqlqf8QRd9EW0iRC4w,85018,18.571428571428573
+1113,Los Betos Mexican Food,0,Mexican,0,jKndHanZV4fygbNHWK5Xnw,85032,0.0
+1114,Los Burritos,0,Mexican,0,o_uE7kjmI2K7dnKZkQoHTQ,85016,8.571428571428571
+1115,Los Cerritos,0,Mexican,0,MJjTgjRZJLnU0VHF1TeMGQ,85018,19.0
+1116,Los Diablos,0,Bar,2,S52kLuHEa8RCSoXQvZql0g,85014,11.285714285714286
+1117,Los Dos Molinos,0,Mexican,0,yIiply1esvaWxY36vdh3wA,85034,0.0
+1118,Los Dos Molinos,0,Mexican,0,b207RNqIAhTd4JsRsnXB1Q,85014,7.428571428571429
+1119,Los Jarritos Restaurant,0,Mexican,0,w96oa6oQk2kolYfy8Ja2Mw,85008,0.0
+1120,Los Kikos,0,Mexican,0,7obotzA7aLL9kAUIUWQcJg,85027,13.714285714285714
+1121,Los Mexican Friends,0,Mexican,0,HJEaoW2OUTeZuQcygYUpqQ,85034,14.0
+1122,Los Taquitos,0,Mexican,0,nwHd2MbIGz0SNG8GpFjekw,85020,11.857142857142858
+1123,Los Taquitos,0,Mexican,0,P8IsTiHq5Hesa6UPL604ww,85044,13.0
+1124,Los Taquitos,0,Mexican,0,R6cWq0FkVfV_Ee-YttlPyA,85034,0.0
+1125,Los Toritos,0,Mexican,0,TxWfwR6Rz7sHZAQmsWNriw,85008,0.0
+1126,Losbetos Mexican Food,0,Mexican,0,UmJU-v1Hoh8myeQmCwFI2A,85016,0.0
+1127,Lou Malnati's Pizzeria,0,Pizza,5,LA8KYt-SaeTpb_qQ5Wc4aQ,85018,8.428571428571429
+1128,Lou Malnati's Pizzeria,0,Pizza,5,N8uKQ5Vdb1LAh-qXT_25Rg,85012,12.285714285714286
+1129,Louisiana Fried Chicken,0,Other,1,aLaIaJM9LsETSRPV1pllhg,85018,10.0
+1130,Lovejoys Kansas City Bar-B-Q,0,Bar,2,Wwtm3govfxBQ040LKYQDeg,85022,0.0
+1131,Loving Hut,0,Chinese,9,drIFrAyZnyismS1ArZlmAg,85018,3.0714285714285716
+1132,Lowdown Cafe,0,Sandwiches,13,v-EcHg9QafgFVsDQDe4EKw,85016,0.0
+1133,Luci's at the Orchard,0,Breakfast,3,0CElIQnJdQYF2bmsAiWczg,85020,14.0
+1134,Luci's Healthy Marketplace,0,Coffee,15,fjapWp89YVCeKvW51KUDQw,85014,13.571428571428571
+1135,Lucky Boy Burger Shop,0,Burger,4,D4xv7_wwYpZEZar4DwwYYQ,85016,8.285714285714286
+1136,Lucky Wok,0,Chinese,9,oacm52KPpEpOBf_M2sARLA,85020,11.571428571428571
+1137,Luke's of Chicago's,0,Burger,4,-raUM9T-1dKPiB5_vRmFYA,85016,10.285714285714286
+1138,Luna Pizza & Restaurant,0,Pizza,5,Gow4sblC6N0K2F9cSTn51w,85027,11.285714285714286
+1139,Lunch At the Park,0,Burger,4,SZOvVtg0mGOQcNzzcH6Qow,85016,0.0
+1140,Lupita's Hot Dogs,0,FastFood,11,d6kfTFKpKJX93qAEPhBGAg,85032,5.857142857142857
+1141,Lustre Bar,0,Bar,2,yRvmDKX-Ocgd8zq_iMgujA,85004,11.571428571428571
+1142,Luu's Chicken Bowl,0,Japanese,22,FcEpsffXdHAr7_D8V5kCGw,85028,10.5
+1143,Luv A Sub,0,Sandwiches,13,sWtltZRuYgnINItStEesGg,85034,5.0
+1144,Luv Me Tender BBQ,0,Bar,2,pT6TCNUSRdswUZ8wQ5JEpA,85016,0.0
+1145,Lux Central,0,Breakfast,3,OgJ0KxwJcJ9R5bUK0ixCbg,85012,18.571428571428573
+1146,Macayo's,0,Mexican,0,b9kQOV8VK_ecGYVoIQiHrg,85004,0.0
+1147,Macayo's Mexican Restaurants,0,Mexican,0,jAsvKe4-SteA-ZgyfVPoTQ,85012,11.285714285714286
+1148,Macayo's Mexican Restaurants,0,Mexican,0,euL4wrPoczkOBkS93pxv5A,85044,11.0
+1149,Machete Azteca,0,Mexican,0,bo05yEhBVDA6YFOST_Gqlg,85029,9.0
+1150,Machetes & Mexican Food,0,Mexican,0,RWIavDLPCkzyP_ZpkeGtcA,85032,0.0
+1151,Madras Ananda Bhavan,0,Indian,18,K4isdrdwV3GbI52Bv2Wq6g,85032,3.7142857142857144
+1152,Maggiemoo's Ice Cream & Treatery,0,Ice Cream,12,xQmjRECNFVGWS93jUwvQwg,85044,0.0
+1153,Mahon's Sandwich Shop,0,Sandwiches,13,yDIpp2a3J9b0sgUNsTgAhA,85004,9.0
+1154,Maizie's Cafe & Bistro,0,Coffee,15,NPiLy71qqXzb45k9eQOgCQ,85012,12.428571428571429
+1155,Majerle's Sports Grill,0,Bar,2,kHpXJ2vciumu2KhNHg0hYA,85004,15.0
+1156,Mama Java's Coffee House,0,Coffee,15,2O_ec-By_tho2KeXvcnBuQ,85018,12.0
+1157,Mamma Mia,0,Pizza,5,ALwfJk1g56dz8ehgYJNrdg,85014,12.142857142857142
+1158,Mamma Mia Brick Oven Pizza & Pasta,0,Pizza,5,5aRyuqJZSGp1fNXHQHMLjg,85018,11.0
+1159,Mancuso's Restaurant,0,Italian,8,3awTUGMdUVrwEBkFFOxn9Q,85004,8.714285714285714
+1160,Mandy's Fish & Chips,0,Other,1,jIn4HPCS6fKywg2curShWQ,85034,10.5
+1161,Manhattan Pizzeria and Subshop,0,Pizza,5,WHrSxyaYLs1nI9lK9wwhzA,85014,10.571428571428571
+1162,Mantra Indian Cuisine,0,Indian,18,CNx_ie_OvjJHZLZ6yEO8UA,85022,4.5
+1163,Manuel's Mexican Restaurant,0,Mexican,0,6hRbVaaHX0DIKbxy2PFiiw,85022,0.0
+1164,Manuel's Mexican Restaurant & Cantina,0,Mexican,0,9d7N-I00hu-VkXFry4Da-g,85016,11.285714285714286
+1165,Marcelo Delivers,0,Deli,16,mOfmGrhxbzhiAcM-drXCRg,85029,0.0
+1166,Maria's Frybread & Mexican Food,0,Mexican,0,Cd2ERofxOeCbCi-0yDs0aw,85018,10.571428571428571
+1167,Marie Callender's Restaurants & Bakeries,0,Bakery,17,aom8XyA2yJeqDOJQPJCWIA,85032,0.0
+1168,Marigold Maison- Paradise Valley,0,Indian,18,iE71iwcSljg3xm2GB2Y9aA,85032,4.285714285714286
+1169,Mariscos Acapulco,0,Mexican,0,do6yub0lpn-vRF08Yhi3aQ,85008,13.428571428571429
+1170,Mariscos Camaron Pela'o,0,Mexican,0,xyrQByVfX47bstcmP_k1BA,85008,12.285714285714286
+1171,Mariscos Ensenada 7,0,Mexican,0,iUbDIvZ0FuATXmnCkk0KeQ,85029,0.0
+1172,Market Bistro,0,Pizza,5,lOYwF4VUJKe2BJ0i7zZeYQ,85022,10.0
+1173,Marshall's Fine Dining,0,Italian,8,R2GxA0LslohJIOEndoFXYw,85022,0.0
+1174,Marston's Cafe,0,Other,1,9enpsB9cGGzX0Log6Y8OrQ,85004,0.0
+1175,Martini Bistro,0,Bar,2,DQO_c9osfJDgbJ0_WdygLg,85034,0.0
+1176,Mary Coyle Ol' Fashion Ice Cream,0,Ice Cream,12,1r9xmPVZqsiTNQr_FAcs8w,85014,8.714285714285714
+1177,Maryland Deli & Liquor,0,Deli,16,iOWviig09i0U9YRDMwp1fg,85014,0.0
+1178,Masterpiece Donuts & Coffee,0,Coffee,15,jyosc8h4oI1f02YxuPrqIA,85018,10.0
+1179,Matt's Big Breakfast,0,Breakfast,3,-050d_XIor1NpCuWkbIVaQ,85004,11.428571428571429
+1180,Matt's Big Breakfast,0,Breakfast,3,24Td_CQH1bonWKff1rt2vg,85016,8.0
+1181,Matt's Big Breakfast,0,Breakfast,3,-1UMR00eXtwaeh59pEiDjA,85034,8.5
+1182,Matt's Big Breakfast,0,Breakfast,3,L2p0vO3fsS2LC6hhQo3CzA,85004,8.0
+1183,Maui Dog,0,FastFood,11,ViErpcikhbAjsDcpdAfwSQ,85018,7.714285714285714
+1184,Maui Wowi Hawaiian Coffees and Smoothies,0,Bar,2,Yv8VpV7fKZqVpwC3NBDd1A,85018,0.0
+1185,Max Store,0,Other,1,3fBafEQ1GPpfF2nT6euefg,85014,0.0
+1186,Maximillians Coyote Cafe,0,Diner,10,x3XQJ3f-UPR24jQ591R-Fw,85016,0.0
+1187,Maya Ice-Cream Rolls & Indian Food,0,Ice Cream,12,s7fROnWWGUzxCQ29JZQsZQ,85032,9.571428571428571
+1188,McCormick & Schmicks Seafood Restaurant,0,Other,1,-o0xWAEO-C2oqlyt9TO8qg,85016,8.714285714285714
+1189,McDonalds,1,FastFood,11,FKyDrTFQSvbn4KGsRFZYYQ,85034,0.0
+1190,McDonald's,1,Burger,4,wOfoU-QWGudP8kmBDNwQnA,85022,0.0
+1191,McDonald's,1,Burger,4,tcPVY5QCFL_roeouCY5SXQ,85027,0.0
+1192,McDonald's,1,Burger,4,PP9ZfC_JUufbrPRPHD7FJQ,85020,18.0
+1193,McDonald's,1,Burger,4,VEM9ddboePvhvucd3jAbVQ,85018,0.0
+1194,McDonald's,1,Burger,4,qdUCIK49pCS7BfDEClpdhQ,85027,0.0
+1195,McDonald's,1,Burger,4,bJeVUZ8vCVLGYGIaVbY4Xw,85028,18.214285714285715
+1196,McDonald's,1,Burger,4,gMWqOTN7MlPce2MyPwYeZg,85018,0.0
+1197,McDonald's,1,Burger,4,PnUIxpOR7eEY6NYOYQdY9g,85032,0.0
+1198,McDonald's,1,Burger,4,0hp3WtPSxvmJVk3BNTfhHQ,85016,0.0
+1199,McDonald's,1,Burger,4,rDMptJYWtnMhpQu_rRXHng,85022,0.0
+1200,McDonald's,1,Burger,4,HYBgmHPJSNVelYo6BfdHdQ,85012,0.0
+1201,McDonald's,1,Burger,4,q2PUogtjncgsNn-pLzw5HQ,85020,0.0
+1202,McDonald's,1,Burger,4,OH3baEaklANPe1farAKgRg,85044,0.0
+1203,McDonald's,1,Burger,4,eEPTTvCV5iHfoacwa43lBQ,85014,0.0
+1204,McDonald's,1,Burger,4,FecWyJGnrIk5AYrR7C67xg,85018,17.0
+1205,McDonald's,1,Burger,4,TB7bScfRFBJehXSu_1MMSw,85032,0.0
+1206,McDonald's,1,Burger,4,Cp7JVPbO5Vv_huCBxLtXWQ,85032,0.0
+1207,McDonald's,1,Burger,4,iPa__LOhse-hobC2Xmp-Kw,85016,18.0
+1208,McDonald's,1,Burger,4,p9uc6E8UR9Y3Bftj8g5AZA,85027,0.0
+1209,McDonald's,1,Burger,4,B-gmkfNy3SEvAZSxXtWACg,85032,0.0
+1210,McDonald's,1,Burger,4,4phaS0fEhzivVQ-Jyv1Azg,85012,0.0
+1211,McDonald's,1,Burger,4,dpywCoS-f8HcBiSTNcMJrw,85034,0.0
+1212,McDonald's,1,Burger,4,vEX-H92z50_krgEUQzrYfQ,85034,12.142857142857142
+1213,McDonald's,1,Burger,4,zLHOG9ty0OcXSQ6iy2BwwA,85004,0.0
+1214,McDonald's,1,Burger,4,Wv_qGcUKptXkapn8e3j6Kg,85029,0.0
+1215,McDonald's,1,Burger,4,orGCyrtYZl9JOV5XIgxJEg,85027,0.0
+1216,McDonald's,1,Burger,4,UPs9WWUl7PLZrCPKbC8NbA,85018,0.0
+1217,McDonald's,1,Burger,4,1Ds8V2c7LlwSAA3O-9f4cA,85004,18.285714285714285
+1218,Meatballz,0,Italian,8,yJR6hSqkeArLl50mLS7kDg,85027,0.0
+1219,Meatballz,0,Italian,8,f_MsP_ohwcNvHk6qGv5CdA,85016,0.0
+1220,Mediterranean Buffet,0,Other,1,cLL_FCIItPh1DH-h78cb4w,85014,0.0
+1221,Mediterranean House,0,Other,1,Z8rT-KsNYYRBVK8j6x35FQ,85014,0.0
+1222,Mejico Cocina Mejicana,0,Mexican,0,Auky7_gMsUdB91V0EAgbhA,85016,5.714285714285714
+1223,Melindas Alley,0,Bar,2,DE9IHqv0HbcHwa7Qipld2w,85004,1.4285714285714286
+1224,Melt,0,Ice Cream,12,3saG51hM2M14G5f-QwhGhg,85004,9.142857142857142
+1225,Melt Gelato and Crepe Cafe,0,Sandwiches,13,5l_rfMJ79mUpTafcB8URwA,85032,0.0
+1226,Menchies,0,Ice Cream,12,fqtHRygueZPT3lHOpCWWMw,85044,10.928571428571429
+1227,Menchie's Frozen Yogurt,0,Ice Cream,12,otlnxBQqCEmUmRONAB5elA,85029,10.285714285714286
+1228,Menuderia Guanajuato,0,Mexican,0,aKpFO1C0-1MlirhCffUt-w,85008,0.0
+1229,Menuderia Guanajuato,0,Mexican,0,kJc7XtQXYit7WNV8m4YDGA,85034,9.571428571428571
+1230,MercBar,0,Bar,2,dPFGRDC3Hsi1mDKxvKz_9Q,85016,9.142857142857142
+1231,Mi Amigo's Mexican Grill,0,Mexican,0,Jy40ercZIQaNcz2qV3qgow,85004,11.142857142857142
+1232,Miami Cafe,0,Pizza,5,ONeWWLO5lUiyTr3roQxN_Q,85004,13.142857142857142
+1233,Michaels at Park Central,0,Other,1,KjCEF8aEk1ZBCrJitRi7fA,85012,4.714285714285714
+1234,Michelina's,0,Italian,8,IQVka-wzJmN3jw2W70aCzw,85028,2.857142857142857
+1235,Mid City Kitchen,0,Burger,4,nZL3HK70R-WABMoS1T8quA,85034,0.0
+1236,Mid City Kitchen,0,FastFood,11,M2PjfyxzzfkCtRv7AJjXRg,85012,0.0
+1237,Middle Eastern Bakery & Deli,0,Bakery,17,Qb1amWCBTeBQQzQyrkyNAg,85014,10.428571428571429
+1238,Milagro Grill,0,Mexican,0,OfITr0B8bZU3vukSQJIrWQ,85018,11.142857142857142
+1239,Milano Espresso & Smoothies,0,Coffee,15,4i9CA7okUpwlbU2p4Ey0Jw,85029,0.0
+1240,Milk Bar,0,Bar,2,VBoyqq5lO_H-EJO6MTwIPA,85004,4.857142857142857
+1241,Mimi's Cafe,0,Breakfast,3,1Q_VjzXaq8Ad4rvSVOWpcg,85044,15.285714285714286
+1242,Mindfulmeals of Arizona,0,Deli,16,V9mROPxpAynGUVbglJePcw,85020,0.0
+1243,Ming's Pagoda,0,Chinese,9,1rbb8ntTOpSolQv60CGcsQ,85029,0.0
+1244,Miracle Mile Delicatessen,0,Breakfast,3,nfdNvM0HFCDmnJ5eHMnuNg,85016,10.5
+1245,Miracle Mile Delicatessen,0,Sandwiches,13,3sOS8wKatd_Uoa9VEJHhrw,85016,10.5
+1246,Mister Wong,0,Chinese,9,CGgUHkAKU0QBsdGvXxfMuw,85029,9.714285714285714
+1247,MJ's BBQ - Chicken & Fish,0,Bar,2,eNcYNWN1e5zgIwxebVV6PA,85034,10.0
+1248,Mocha Bianca,0,Breakfast,3,4cTawmoz0rrw3cl1fJd6eQ,85032,0.0
+1249,Mod,0,Coffee,15,E7wKP-BVnWlxnbQM3StOxg,85004,6.785714285714286
+1250,MOD Pizza,0,Pizza,5,DHwG62oZACWX80Y74m1cyw,85018,11.785714285714286
+1251,MOD Pizza,0,Pizza,5,wx7fvfCq53tNFieI4FiBWg,85029,11.785714285714286
+1252,Modern  Grove,0,Burger,4,yX0pOWG_Be9TjGnm0aihVA,85032,13.642857142857142
+1253,Modern Burger,0,Burger,4,xtJ9ELoKVMbRwZ0ktbVTlA,85034,0.0
+1254,Modern Market Eatery,0,Breakfast,3,cUGyI6ZrMXOAMn5EIiHhtw,85044,0.0
+1255,Modern Tortilla Food Truck and Catering,0,Mexican,0,jlviy68buL1X2UADI-Lnlw,85016,0.0
+1256,Moga Crepes,0,French,6,8NMf2dCmEGGKYR3SbMcnNA,85032,9.571428571428571
+1257,Moira Sushi Bar & Kitchen,0,Japanese,22,vC23Fq8lMkNiZ4F8yh3ukQ,85004,6.0
+1258,Mojo Yogurt,0,Ice Cream,12,3HVbyqNpCbKWZ5ZNRIpO-A,85016,12.285714285714286
+1259,Momenti,0,Pizza,5,_GKMtL4zFOlNc0U3gljT0w,85028,11.428571428571429
+1260,Moon Valley Cafe,0,Breakfast,3,bVqNtwcwIz2gAacHWYF2lw,85022,9.285714285714286
+1261,Moon Valley Grill,0,Burger,4,NUh5L9ZX-YrM5uAKhKQXoQ,85022,13.0
+1262,Mora Italian,0,Pizza,5,fzxvmA3Ygu3yrQQ6-cEpTw,85014,6.142857142857143
+1263,Morton's The Steakhouse,0,Coffee,15,OE1emTl3wuvxy01ufROBtw,85016,5.857142857142857
+1264,Mo's Pizza,0,Pizza,5,cbq_hs6zYd7tfWI6EnG_0g,85028,0.0
+1265,Most Wanted Taco Shop,0,Mexican,0,jIzygnVmajEXYmfsBNY_Gw,85020,10.714285714285714
+1266,Moto Sushi,0,Bar,2,kblFxfo_xnMUZF0U0aGXQw,85016,10.285714285714286
+1267,Mr Submarine,0,Sandwiches,13,1YBpnyR_VlJNjrUzNVXYDQ,85016,10.571428571428571
+1268,Mr Submarine,0,Sandwiches,13,L6Jnx7zUHDxBZ5e-OYSqLQ,85016,0.0
+1269,Mr. Cooks Chinese Cuisine,0,Chinese,9,9ULcHyUTN1O16Vr8KUMQew,85032,10.142857142857142
+1270,Mr. Triny Sonora Hot Dogs,0,Mexican,0,PtQsrkpKmRBVRmWjax6eKQ,85020,6.0
+1271,Mrs White's Golden Rule Cafe,0,Other,1,E25-2ssHwsajyGtsllMXaA,85034,8.5
+1272,Mucha Lucha Taco Shop,0,Mexican,0,rydwhaJPcQhxHlHO0PMZMQ,85032,10.428571428571429
+1273,Mucha Lucha Taco Shop,0,Mexican,0,VtKYA6Fu1jTDrEhDHRlUvg,85020,9.571428571428571
+1274,My Big Fat Greek Restaurant,0,Other,1,JJbuI-4R8yzllBIwjKafjg,85004,0.0
+1275,My Big Fat Greek Restaurant,0,Other,1,kpv7LVLJrbawoXOJNAnd0w,85028,11.285714285714286
+1276,My Big Fat Greek Restaurant,0,Other,1,XmlWSizK65GHqF8O6o8H4Q,85016,0.0
+1277,My Big Fat Greek Restaurant,0,Pizza,5,kNTOkEtBVW14RpFEUREzEw,85004,0.0
+1278,My Greek Corner,0,Other,1,r7p-8e89IVunsNElJRjFBQ,85027,10.785714285714286
+1279,My Pie Pizza,0,Pizza,5,PJVjfGtVc71M0XlUr83teQ,85032,10.142857142857142
+1280,My Slice Of The Pie Pizzeria,0,Pizza,5,NeDqVEiin0q-FxCvOKiERw,85018,10.142857142857142
+1281,Nachobot,0,Mexican,0,sdKB_8mv4f0Vd4GKfQmqBQ,85004,6.285714285714286
+1282,Naked Pizza,0,Pizza,5,wVnTsX7yDWI7pjED4xa9Dg,85044,11.785714285714286
+1283,Namaste Veg Kitchen,0,Indian,18,jb0-JZMt-6Khsh-VwsDtLQ,85032,2.5714285714285716
+1284,Nathans Famous Hotdogs,0,FastFood,11,cQMhOnD_92IUwu9QaGIbrQ,85034,0.0
+1285,Native Grill & Wings,0,Bar,2,vX5ma5Nwrzqwdz949AmVVg,85044,13.0
+1286,Native Grill and Wings,0,Bar,2,jqv3JbLv6K9Sgukf5fijOw,85032,12.0
+1287,Naturally Sweet,0,FastFood,11,_-j3yamOlHAL1b13zICDhA,85004,16.0
+1288,Neapolitan Wood Fired Italian,0,Italian,8,rZvBlC4yHQZtodZBsxb3nw,85027,0.0
+1289,Nee House Chinese Restaurant,0,Chinese,9,44YFU284Z3KDEy25QyVoUw,85032,10.214285714285714
+1290,Nekter Juice Bar,0,Bar,2,_7u6Cdgoo65xqUNOuRX4Ew,85018,11.714285714285714
+1291,Nekter Juice Bar,0,Bar,2,pV0eHAVd-guPjogXLnJ_Sg,85016,11.714285714285714
+1292,Nekter Juice Bar,0,Bar,2,Ta7ALiHKasliwVxieOJEnA,85012,11.714285714285714
+1293,Nellos Pizza,0,Pizza,5,TVYJx5iUkLJFiuiXc8rxEQ,85044,8.571428571428571
+1294,Networks Bar & Grill,0,Burger,4,R3B_ibZvlrgzch_UkYQkrg,85004,13.0
+1295,New Bamboo,0,Chinese,9,uTlDVK8-7VwpLhHnCRTCLg,85022,10.0
+1296,New China Buffet,0,Chinese,9,pdWnWH3SnjTTkRZx0y2wSw,85016,0.0
+1297,New Garden Restaurant,0,Chinese,9,TdjydrOFUSMUsTKdlXW6aQ,85004,10.428571428571429
+1298,New Hong Kong,0,Chinese,9,bj6Km1RvgD6oyppCe5yDog,85016,8.714285714285714
+1299,New North China,0,Chinese,9,RJKbewB0SzRZpIvQmiF-dQ,85022,0.0
+1300,New Orleans Sno Ball,0,Ice Cream,12,FdrZJQL_FYKqR96L05gzcg,85014,0.0
+1301,New York Pizza Department,0,Pizza,5,fr6ojHDZYrpUQl7kVGuVJQ,85034,0.0
+1302,New York Pizza Dept,0,Pizza,5,OW8ZTM0Bd6R0BH6u-6Wkag,85034,0.0
+1303,nextDOOR,0,Bar,2,wv7YhunEKc8-5xRCCGIk4Q,85004,0.0
+1304,Nibblers Catering,0,Other,1,2bvA58QRFzl_pis2R9WNcw,85034,7.0
+1305,Niccoli's Italian Grocery & Deli,0,Pizza,5,XPgurhZwZgNAwHcrpoe3Zg,85016,7.642857142857143
+1306,Nick and Willy's Take & Bake,0,Pizza,5,9KzLFQrA_tSBGVDNeZrB8Q,85022,0.0
+1307,Nick's,0,Italian,8,mYlNFkIiFY3SyDl-nPWR5g,85028,8.857142857142858
+1308,Ninja Bowl,0,Chinese,9,qIbXdUmyiKsSAnsTuIe_1A,85027,6.857142857142857
+1309,Nino's Greek Cafe,0,Burger,4,0obhg2Jv22z6Mkvl3zGaiQ,85016,9.714285714285714
+1310,Niro's Gyros,0,Other,1,ylxqmxh2gO1yCpQkIk6o3A,85044,9.0
+1311,Nixon's,0,Bar,2,AssSdHSVWbPtN8upTLWFVg,85016,0.0
+1312,Noble Bread,0,Bakery,17,1l5gk5IN82olKq48NsOqGg,85016,3.2142857142857144
+1313,Noble Eatery,0,Coffee,15,AZQ6eiVqhMalpVL9Bbq6Iw,85016,3.2142857142857144
+1314,Nobuo At Teeter House,0,Coffee,15,0Buxoc0cRqjpvkezo3bqog,85004,3.0714285714285716
+1315,noca,0,Thai,19,aD-YA02i2xAqLBDon1tzIQ,85016,8.0
+1316,Nocawich,0,Breakfast,3,VaEqjAeKAm_iUnOpaktyMg,85034,0.0
+1317,Noche de Gourmet,0,Other,1,g8tAv5mwpKRTHeWG_yucBQ,85016,0.0
+1318,Nogales Hot Dogs,0,FastFood,11,mBdm6in8L0UvtAN-Gv7dcg,85016,5.785714285714286
+1319,Noodle & Rice,0,Chinese,9,cXdQ3H0GqcIzRgrvBEaBxw,85022,4.5
+1320,Noodles & Company,0,FastFood,11,8gW7VRKF_U0piIO9cWee_w,85044,0.0
+1321,Nook Kitchen,0,Pizza,5,hTsZSiftorNUFb1VaHCHHg,85018,6.285714285714286
+1322,Nook Kitchen,0,Pizza,5,PxTKXsdYqoFHWAG2amz0XQ,85004,5.571428571428571
+1323,North Central Sports Bar,0,Bar,2,hPUGNTYAwuwKkHBKmcKCmQ,85020,15.142857142857142
+1324,North Italia,0,Pizza,5,wTjvgkUJMVWrYed9mXdQjg,85018,11.571428571428571
+1325,North Mountain Brewing,0,Other,1,QzrtN3EjGp-kSCzg8uj1oA,85020,9.428571428571429
+1326,North Mountain Grille,0,Other,1,OeBbc-LqnAPhYmJw5gzBww,85022,8.714285714285714
+1327,North Star Lounge & Restaurant,0,Bar,2,z42ByZ6dXpW7hkNfJw2HFQ,85032,15.0
+1328,Northern Perks Doughnuts & Coffee,0,Donuts,21,adnAevmPxjh9MtS6e4aSbw,85020,6.714285714285714
+1329,Nothing Bundt Cakes,0,Bakery,17,xlz4aHKAPT_jHMIUpxXmUg,85018,9.142857142857142
+1330,Nu Towne Saloon,0,Bar,2,Zrcq-z36hoxiP9-6qPNgHA,85008,0.0
+1331,Nutrition 51,0,Coffee,15,7CVoVNkEAremQ7JTjx_02A,85032,0.0
+1332,NY Bagels and Deli,0,Breakfast,3,5o6qOFzZ4NrJ6bJ39ohCtA,85027,7.142857142857143
+1333,Nypd Pizza,0,Pizza,5,5KAy9aeb4z2hSrPcMg3K0g,85034,0.0
+1334,O Bar & Grill,0,Bar,2,Vq36oaAd0wljJtRj8cgU3w,85016,12.0
+1335,O to Go Coffee Bar,0,Breakfast,3,ehPtiTNRxZYCv0wjAWMXew,85012,8.0
+1336,O.H.S.O. Brewery Sky Harbor,0,Other,1,QTF2Vgd_I1uuS5398qdkQQ,85034,20.714285714285715
+1337,Oakville Grocery,0,Other,1,SRI-Nv1D0reNJayNntaXYw,85004,0.0
+1338,Oasis Raspados,0,Mexican,0,5UCUIK-O6m7tSpi02B6F5g,85032,9.0
+1339,Oaxaca Restaurant,0,Mexican,0,4P6hZh7aieaZJXShzP3JQg,85020,0.0
+1340,Oaxaca Sky Harbor,0,Mexican,0,v44bpuCu4vM4AmD0_2K1QQ,85034,0.0
+1341,Ocean Poke Co,0,Other,1,EhplcymNbSX5TvPgGilL7Q,85018,10.285714285714286
+1342,Ocotillo,0,Mexican,0,ElWzx5_fU8S2G45OnM-HpA,85012,10.642857142857142
+1343,Ocotillo Sun,0,Bar,2,dMnaB67cC4AIWtQvnbYjTQ,85034,0.0
+1344,Odelay Bagel,0,Coffee,15,yTTEhnUOirRjGjxkObQTVw,85044,10.714285714285714
+1345,OHSO Brewery - Paradise Valley,0,Burger,4,042IHd5KjHiMuBtGtugO_g,85028,14.0
+1346,OHSO Brewery- Arcadia,0,Breakfast,3,mnwRtuVQEsIUomBchu0gwg,85018,14.214285714285714
+1347,Okra Cookhouse & Cocktails,0,Italian,8,AueEbb9kao4lt6CYt06hqw,85014,6.428571428571429
+1348,Old Heidelberg German Bakery,0,Bakery,17,AzYkEcENi7I1DsR2iushEg,85016,5.928571428571429
+1349,Old World Brewery,0,Bar,2,xAX1G5JpxU146-N7ZHraqg,85027,5.285714285714286
+1350,Olive & Ivy,0,Breakfast,3,48FexP3dPCIKi144-kYHGQ,85034,0.0
+1351,Olive Tree Market & Grill,0,Coffee,15,OfLdWSqZ4HM_-B5khUtS8w,85027,9.857142857142858
+1352,Oliver's Sophisticated Bean,0,Coffee,15,dja9beNvdd_SmXxn8At5aQ,85004,13.0
+1353,Olives Mediterranean Grill,0,Vegetarian,7,ksZfCKQHYdCu0e8KbMuBDg,85032,10.142857142857142
+1354,Olympic Flame,0,Other,1,kxlBJj6zXKeWJPq4FqyIUA,85018,0.0
+1355,Olympic Gyros,0,Other,1,RCPHBbYAXRghejIdSVW4Rw,85016,9.214285714285714
+1356,OM Indian Bistro,0,Indian,18,MJlq5AuCkRjz31sKspxp1g,85027,5.714285714285714
+1357,Omaha Steakhouse,0,Coffee,15,Bm-xgK5r4pCGcC1xZCvixg,85016,0.0
+1358,Omoide Sushi & Noodle Bar,0,Bar,2,NM3iiGNrwoyNKWXiRT-nKA,85004,9.428571428571429
+1359,On The Border Mexican Grill & Cantina,0,Mexican,0,GqGVAE3kbEW46FU1LydVUg,85044,12.5
+1360,On The Grill,0,Other,1,QkTnoDfl7-cLQEAW9TqMQQ,85018,10.0
+1361,One Coffee Co,0,Coffee,15,eDHI182_jkKnJSFDjUlK-g,85004,9.285714285714286
+1362,One Eighty Q,0,Bar,2,y_aqDIAW9Nv0E7OI8tnPZQ,85020,0.0
+1363,One Stop Nutrition,0,Bar,2,i57pboNTvHTaIyKOx2p-9Q,85032,9.428571428571429
+1364,One Stop Nutrition,0,Bar,2,6WQQF4j_ISvLbU07nxX4_g,85044,12.142857142857142
+1365,One Stop Nutrition,0,Bar,2,0lSeS_GwMP6x57_Eu2pkfw,85018,12.285714285714286
+1366,One Stop Nutrition,0,Bar,2,CE_j157x1tDRxMwnM_7qlg,85022,13.0
+1367,Ono Hawaiian BBQ,0,Bar,2,70umoFq_Wa24Nr78UOsilQ,85018,10.142857142857142
+1368,Orange Leaf Frozen Yogurt,0,Ice Cream,12,ndZKdqywuXD7mOm60URmEw,85032,0.0
+1369,Orange Leaf Frozen Yogurt,0,Ice Cream,12,6fTdlEv1t81gsMlqOg99Cg,85032,0.0
+1370,Orange Leaf Frozen Yogurt,0,Ice Cream,12,bIV_3C8_deLgAxulAH0RhA,85044,11.142857142857142
+1371,Oregano's Pizza Bistro,0,Pizza,5,dUffgo9Lh_Vk9TLuFR5ywg,85014,11.0
+1372,Oregano's Pizza Bistro,0,Pizza,5,fbLYRHIZAt3q839whhaBUg,85032,11.0
+1373,Oriental Express,0,Chinese,9,r9x6Pvgh7SH7TInybHtl0A,85027,0.0
+1374,Original Breakfast House,0,Burger,4,E4JyAzB5_2quptwtemyhYA,85032,7.5
+1375,Original ChopShop,0,Breakfast,3,52glsmQhUatwEZ_5vvWMQQ,85028,13.857142857142858
+1376,Original Gravity,0,Burger,4,mhMhYsmJB4t0-ok1ABvNBg,85014,9.428571428571429
+1377,Osaka Japan,0,Japanese,22,BzChPcJYsg1guEhyDMgVxg,85032,0.0
+1378,Oscar Taylor's,0,Burger,4,Z4BcYjHzz9qXCmhxT6k6nA,85016,8.857142857142858
+1379,Otro Cafe,0,Mexican,0,zJGtD3y-pAIGNId4codEEg,85014,13.714285714285714
+1380,Our Gang Sports Saloon & Grill,0,Other,1,hnCd1VSLYdb2-eHO7iB9xQ,85020,14.714285714285714
+1381,Our Place,0,Bar,2,F8KqiFInqBTIG1lBuaB-Ew,85029,16.0
+1382,Outback Steakhouse,0,Coffee,15,wfxmuA7LbKZKVLV58EiWBw,85032,10.785714285714286
+1383,Outrageous Olive Oils & Vinegars,0,Other,1,dcn63lRC9QWO9cXZyiFBqQ,85032,9.428571428571429
+1384,Oven Fresh Challah,0,Bakery,17,zGGk1Urh7YxMtUry3z43Iw,85016,0.0
+1385,Over Easy,0,Breakfast,3,8R_oemw4rNjJL6sd40O_oQ,85018,7.5
+1386,Over Easy,0,Breakfast,3,V6ncIv5oqZK6_b_O77W1NA,85016,8.0
+1387,Over Under Sports Grill,0,Bar,2,d_z8xew4Le3l9nc832rDpg,85032,15.0
+1388,Ox Sports Bar,0,Bar,2,zJd73MwVAoPILBIJUevIHA,85018,0.0
+1389,Pacific Gardens,0,Japanese,22,H2RgkjPs3W-CxbyygCJJew,85044,6.071428571428571
+1390,Padre's Modern Mexican Cuisine,0,Mexican,0,GpX1PmgplBrG_DLiJVDC-g,85014,9.428571428571429
+1391,Pak Afghan Halal Restaurant & Catering,0,Indian,18,_nmOWqgx_KdLrj5pehDQmg,85008,9.357142857142858
+1392,Palabra Coffee,0,Coffee,15,OwMvIRdt3OVzuiQdaT-dbQ,85004,0.0
+1393,Palazzo,0,Bar,2,Et8ugiOsV-4-bdo3DXZPgw,85004,0.0
+1394,Pallets Food and Bar,0,Chinese,9,ESinwiCgoJNG-tMWxVQhqQ,85004,7.428571428571429
+1395,Palms Restaurant and Market,0,Other,1,ee5Y3CUhsgCwQIEgXOOixg,85032,6.857142857142857
+1396,Pan Y Pasteleria San Sebastian,0,Mexican,0,9EkpAzQGQuIguaV12Zxn-A,85020,0.0
+1397,Panaderia Y Tortilleria,0,Mexican,0,l683preTG0GIk9XMaHAUNA,85008,0.0
+1398,Pancho's Mexican Buffet,0,Mexican,0,X6cRW_TVuYhhHx8eaIk8Sw,85014,0.0
+1399,Panda Express,1,Chinese,9,1F4T9e6bRFwL11wnNxW4Ng,85018,12.5
+1400,Panda Express,1,Chinese,9,7wgNlcLTfQq8CHBob7AGHg,85032,11.5
+1401,Panda Express,1,Chinese,9,LpdW1vh1AVm5QznEL5j03g,85014,12.142857142857142
+1402,Panda Express,1,Chinese,9,n1S7XnZfCCDIWlMZ8yUvEw,85027,11.571428571428571
+1403,Panda Express,1,Chinese,9,caBiQN3OwW4P3hfUFm2vQw,85022,11.928571428571429
+1404,Panda Express,1,Chinese,9,4NfjvMzUG5rbkxtPg-8pkw,85020,12.285714285714286
+1405,Panda Express,1,Chinese,9,wZ3MABp8WcSHfZrlEQa5dw,85028,11.071428571428571
+1406,Panda Express,1,Chinese,9,ej45GszF63f15OmzDaKfZQ,85032,10.428571428571429
+1407,Panda Express,1,Chinese,9,ygKRVzf8aOwqh78pbuRBgg,85034,16.5
+1408,Panda Garden,0,Chinese,9,dHTGzM4_3kKEiQvab9mi9A,85044,9.428571428571429
+1409,Pane Bianco,0,Pizza,5,lgWB0yGXpZvupYREWxtV7g,85012,6.571428571428571
+1410,Panera Bread,0,Sandwiches,13,TT68Q6iHmIe3zdETNKRC6A,85012,14.714285714285714
+1411,Panera Bread,0,Sandwiches,13,BQHbrLQVB6l1GqX93JIQ2w,85020,14.714285714285714
+1412,Panera Bread,0,Sandwiches,13,Iyoew2PXUR9vM_atU9iqDw,85032,15.0
+1413,Panera Bread,0,Sandwiches,13,RE4QDOrYgLYsj2TgygjyyA,85016,14.0
+1414,Panera Bread,0,Sandwiches,13,oL-TGyXWfpgr2YR0uTc0Zg,85034,0.0
+1415,Panera Bread,0,Sandwiches,13,lsTDUrYbsLHrEEkwOEZanA,85022,15.285714285714286
+1416,Panini Cafe & Bakery,0,Bakery,17,JOGxap8yWFhyvai88YVezg,85020,7.285714285714286
+1417,Papa Chevo's Taco Shop,0,Mexican,0,JlNeaOymdVbE6_bubqjohg,85044,16.571428571428573
+1418,Papa Christo's,0,Pizza,5,Tl7V8AztDY8s6Jr8yJNKcw,85004,8.5
+1419,Papa John's Pizza,1,Pizza,5,iGvnkEz2efD9q-Z7ZcasWQ,85016,0.0
+1420,Papa John's Pizza,1,Pizza,5,DQDeGKxYVOwwaqN6Jh2HZw,85032,0.0
+1421,Papa John's Pizza,1,Pizza,5,BNLFEPZTyhNObVzXsTT0iw,85044,0.0
+1422,Papa John's Pizza,1,Pizza,5,VLcKamUwc65ETV_FIsfr9Q,85020,12.785714285714286
+1423,Papa John's Pizza,1,Pizza,5,wonQ-ZsUKzCMF9Er3uGF8A,85032,0.0
+1424,Papa John's Pizza,1,Pizza,5,dRb2Xq8jorJV6tDCgmaQUg,85022,0.0
+1425,Papa John's Pizza,1,Pizza,5,e9QjTA0wa0s6UvLPTnu4cw,85022,13.785714285714286
+1426,Papa John's Pizza,1,Pizza,5,urgviU4CGLGVLKTahwuzVg,85018,11.5
+1427,Papa Murphy's,0,Pizza,5,2_jWcWOew5DA6wR7_eH36Q,85016,9.285714285714286
+1428,Pappadeaux Seafood Kitchen,0,Other,1,whAwdYVty-jSNRhrYT2zHA,85029,11.285714285714286
+1429,Pappy's Sports Bar & Grill,0,Bar,2,YVqVrgl-xSWYEnk1ohgr3g,85029,15.0
+1430,Paquime- Street Food of Mexico,0,Mexican,0,KMxOoHyRKP74PgosuRkkdg,85020,13.0
+1431,Paradies Shops,0,Other,1,X4MKwWxoXczOyU7yAQ7GMw,85034,0.0
+1432,Paradise Bakery,0,Breakfast,3,NSKiLZls0KbA_MxY-wIc-Q,85004,0.0
+1433,Paradise Bakery,0,Sandwiches,13,nDSNoz5PBwn0djGqrppj2g,85004,0.0
+1434,Paradise Bakery,0,Coffee,15,B9E9X8mm_k2Ry-lHx9wEDw,85028,14.857142857142858
+1435,Paradise Bakery,0,Bakery,17,ATpYld8anPooG-j2_EU-5Q,85032,13.428571428571429
+1436,Paradise Bakery & Cafe,0,Bar,2,__aKnGBedQ51_hEc3D9ARw,85016,15.0
+1437,Paradise Bakery & Cafe,0,Breakfast,3,ux6FCssPmLx5LrWzTHvxWg,85034,0.0
+1438,Paradise Bakery & Cafe,0,Sandwiches,13,XbHi0EQ7hckNV2K_6jutrA,85032,0.0
+1439,Paradise Bakery & Cafe,0,Coffee,15,ycAmQ9kRi5iB9OyJONacBQ,85034,0.0
+1440,Paradise Bakery & Cafe,0,Coffee,15,FUfhU3aUnzTycLjRvImZBg,85034,0.0
+1441,Paradise Bakery and Cafe,0,Breakfast,3,BUcyHikUyo4U12-3RvDKlg,85022,14.571428571428571
+1442,Paradise Juice,0,Bar,2,9p0jhBSwTPXyUbaZe_1bTA,85028,11.571428571428571
+1443,Paradise Lounge,0,Bar,2,HFikJM7Dhksg-5FpxdxPuQ,85032,12.0
+1444,Paradise Melts,0,Sandwiches,13,DuI8BlpnRRwsmmVMt7Yiww,85018,17.0
+1445,Paradise Valley Burger Company,0,Burger,4,7m1Oa1VYV98UUuo_6i0EZg,85032,9.285714285714286
+1446,Paradise Valley Pizza Company,0,Pizza,5,9umA26_aWjEuVe4QW7axtw,85032,10.0
+1447,Park Central Deli,0,Burger,4,DvY_J2gFxudK9HC8kjI3NA,85012,5.142857142857143
+1448,Pasta and Sugo,0,Italian,8,oWboXKe_xk6Vcr2gBEuxuw,85018,5.571428571428571
+1449,Pasta Pomodoro,0,Italian,8,wgN6K4bQh1c_TNDkJ4BbcA,85032,0.0
+1450,PastaBAR,0,Italian,8,xsFeeqZS6PoVvwseEefzEw,85004,0.0
+1451,Pastries N Chaat,0,Indian,18,g9gAuOEXBbWnLlu2uOftwA,85032,4.785714285714286
+1452,Pat Murphy's,0,Bar,2,NB50l6eae-PtSXqdXVk6kg,85018,0.0
+1453,Pat's Pizza Plus,0,Pizza,5,_MHUEErH3KW_KvVSOjyYhg,85020,10.142857142857142
+1454,Paws Plus Dog Day Care,0,Pizza,5,R83kD9NnaSjb9j3TrrZfOA,85044,7.571428571428571
+1455,Paz Cantina,0,Mexican,0,3qlqzQrwh8hjBltlgFgsJQ,85004,14.428571428571429
+1456,Paz Cantina,0,Mexican,0,F2L2f-ITjnHlqKRFQVFsVg,85004,12.714285714285714
+1457,Paz Cantina Food Truck,0,Mexican,0,BC2ZUxbSmQV6LZMS2rhw-g,85004,0.0
+1458,Peets Coffee And Tea,1,Coffee,15,1e6Xtmd4BetTnsoRCK3J5g,85034,17.0
+1459,Peet's Coffee and Tea,1,Coffee,15,twJ3I6X_KFpMT7mVjtknsw,85008,0.0
+1460,Pei Wei,0,Other,1,VRhFa6FzRUaPSayVfdLs4Q,85034,0.0
+1461,Pei Wei,0,Chinese,9,ecn5dq7bFA6wCeeNnXxSzw,85020,10.785714285714286
+1462,Pei Wei,0,Japanese,22,WzrMNz9eUF78RgZGDTS8xg,85018,10.642857142857142
+1463,Pei Wei Asian Diner,0,Chinese,9,3nzK3K-Dfo1L6mpB8FTKkw,85034,0.0
+1464,Pepe El Toro Mexican Food,0,Mexican,0,IUKQ4IUooZQWRhSQdGQI5Q,85020,0.0
+1465,Persian King,0,Indian,18,Oh_mShbdmaoRX8iZVdE0vw,85032,10.857142857142858
+1466,Personal Touch Catering,0,Other,1,DIvqWWQr8yBi_s6f_lDURA,85034,19.0
+1467,Peter Piper Pizza,0,Pizza,5,CgCp4FAVXFnEuDavxicrfQ,85044,11.428571428571429
+1468,Peter Piper Pizza,0,Pizza,5,c-XMctLK6QAy1NjLSkcLRA,85032,0.0
+1469,Peter Piper Pizza,0,Pizza,5,IvovJ3sfYrjHKH_hS5XrNA,85022,11.428571428571429
+1470,Peter Piper Pizza,0,Pizza,5,H45fQ69_8DpWz-yB9oPhhw,85018,11.428571428571429
+1471,Petes Fish & Chips,0,Seafood,14,_MeGxn_23d51eOyk-0XuHg,85034,0.0
+1472,Pete's Fish & Chips,0,Seafood,14,vh3ymzbLEkqPHw0-IouMEw,85008,0.0
+1473,Pete's Fish And Chips,0,Seafood,14,itNoMqRVItV-1gR8zS-uaQ,85018,13.285714285714286
+1474,Phil the Grill,0,Deli,16,QOY3Tpm_-7-8px8jqibz4A,85034,5.142857142857143
+1475,Philly's Sports Grill,0,Bar,2,iQAwmfMPmOaCr5aeahV1ug,85044,15.0
+1476,Philthy Phil's,0,Bar,2,VxaCuwGg0IxGF7bsk8b4EA,85016,14.0
+1477,Pho A.V,0,Vietnamese,23,i3MWkfRgwqPYMKyL9Mk_Pg,85032,9.857142857142858
+1478,Pho House,0,Vietnamese,23,o0Sf-45xsWv3odbEC1XMbg,85008,7.5
+1479,Pho Lee,0,Chinese,9,yy27y9vFs2-W7jigzAky0g,85027,11.285714285714286
+1480,Phoenix All-stars Sports Bar & Grill,0,Bar,2,9JTkh1D7u9fRBohglQRL0w,85034,15.0
+1481,Phoenix Blue Fin,0,Bar,2,oMBNvB6tHlwW3UwGBYqljw,85004,5.714285714285714
+1482,Phoenix City Grille,0,Breakfast,3,5Ktv5ZmJI0CN4L0KxDWJvw,85016,10.857142857142858
+1483,Phoenix Greyhound Park,0,Other,1,frhhyWjSCYJFAy-waxWdPw,85034,0.0
+1484,Phoenix House Of Pizza And Subs,0,Pizza,5,yBfNLAYCaPE4QlejNCWrDg,85008,4.285714285714286
+1485,Phoenix Produce Company,0,Other,1,6a7ulS_jjmwkYOHW_-3BFA,85004,6.857142857142857
+1486,Phoenix Public Market,0,Bar,2,_guNmxJd4Ep6S3pBZdAjGA,85004,13.571428571428571
+1487,Phoenix Public Market Cafe,0,Breakfast,3,N5B7OBTyNGgwU_Y2fwNcyw,85004,15.0
+1488,Phoenix Roadhouse Diner 66,0,Bar,2,kngIF45nfGkNdoFEbFdZ-A,85034,0.0
+1489,Phoenix Wine Parties,0,Bar,2,liV3Ka7IdUVvPC92wjUrUw,85018,11.0
+1490,PHX Night Club,0,Bar,2,yMF2JD14qCTg1a9mmNL23Q,85004,0.0
+1491,Phx Sports Grill,0,Bar,2,StzNuzqg25fLRWIzvpwaJA,85014,9.428571428571429
+1492,PHX Vegan Food Festival,0,Vegetarian,7,dk4Pp6kCZ-17Rf4A5n6dIQ,85004,0.0
+1493,Picazzo's Healthy Italian Kitchen,0,Pizza,5,Kykw3ho8wHtLV6gr9qbWTg,85032,10.285714285714286
+1494,Pick Up Stix,0,Chinese,9,yzfp-WYIfcwRwcuMc6Uelw,85022,0.0
+1495,Pick Up Stix,0,Chinese,9,hKFF8inOc_bK0P7bZBv37g,85028,0.0
+1496,Pick Up Stix,0,Chinese,9,cRCYeQOWjveBc0-SHwXCPg,85016,0.0
+1497,Pieology Pizzeria,0,Pizza,5,WWWufR135GEXKynwYjLdGg,85022,10.571428571428571
+1498,PikFly,0,Deli,16,atqk5izgQJYRCLIb5SEqbg,85004,14.142857142857142
+1499,Pink Lotus Express,0,Chinese,9,SaTA8vxwlX-IYKRRRQbxFw,85027,8.0
+1500,Pink Pepper Thai Cuisine,0,Thai,19,KdBFybvUi0P6wPvustHB-w,85022,0.0
+1501,Pink Rhino Cabaret,0,Bar,2,B-Xud89SnMAv68ng90BG4g,85008,15.428571428571429
+1502,Pinky's Cafe,0,Diner,10,4jBn52rNf9CG3uHbFEFaVg,85022,0.0
+1503,Pinoy's Coffee and Boba,0,Bar,2,y_Paq1wErnU7kEUdgtyKMw,85032,11.428571428571429
+1504,Pita Bistro,0,Bar,2,ABDFv4oIBA72UkNwVI_uBw,85012,7.428571428571429
+1505,Pita Jungle,0,Vegetarian,7,3x45Q9c5G6VBicedNKrXxQ,85044,11.642857142857142
+1506,Pita Jungle,0,Vegetarian,7,BgthHqiXot2s4Sd_xcI6DQ,85018,11.5
+1507,Pita Jungle,0,Vegetarian,7,s0UcfGpvOwoGERpvMGSi8w,85014,11.5
+1508,Pita Pit,0,Sandwiches,13,AOuutv1P01CW07qmzpj9vA,85044,9.0
+1509,Pitic Restaurant,0,Mexican,0,SgPfkKWoG-23WMWQCT8ymg,85034,13.571428571428571
+1510,Pittsburgh Pizza Company,0,Pizza,5,PvAOQjUxoWlWqNbiO2tthQ,85022,9.5
+1511,Pizza & Krispy Krunchy Chicken,0,Pizza,5,_yxPEM0oxih1H0SoHJ-k5w,85008,11.714285714285714
+1512,Pizza Divino,0,Pizza,5,niqIaJy9UXu-DS7BIUvUoA,85029,11.0
+1513,Pizza Fresh,0,Pizza,5,YEVN6-6z7PL5cDeWx9I8OQ,85022,9.285714285714286
+1514,Pizza Heaven Bistro,0,Pizza,5,7eQoxWr9RzyCB9IFvqHUPA,85014,10.714285714285714
+1515,Pizza Hut,1,Pizza,5,uUIYh3iKyYKzbhl7ORYxVA,85028,12.785714285714286
+1516,Pizza Hut,1,Pizza,5,yNF9FqGJIJGqKmQfYALr_Q,85016,0.0
+1517,Pizza Hut,1,Pizza,5,_LNVUUb8bTvOxfUNABf0xA,85044,0.0
+1518,Pizza Hut,1,Pizza,5,VMXqRzR3-SSVDVcP6VY4ag,85022,14.285714285714286
+1519,Pizza Hut,1,Pizza,5,sCGN3Wfhhrzika8FadZ3QA,85027,0.0
+1520,Pizza Hut,1,Pizza,5,5pObrGpv1Is5WLDeOFSDIQ,85004,14.285714285714286
+1521,Pizza Hut,1,Pizza,5,6kZ5oQALI1NsP-y6H3cKWQ,85029,14.285714285714286
+1522,Pizza Hut,1,Pizza,5,uO7KbFyiMhhgFJNEDX_new,85018,14.285714285714286
+1523,Pizza Hut,1,Pizza,5,JPjckeTpc-Y4dXEPS17JiA,85028,0.0
+1524,Pizza Hut,1,Pizza,5,9yH1SL2paauMMuxHnV6cBA,85032,0.0
+1525,Pizza Hut,1,Pizza,5,TqFqZBdad2N0Kgf-NRKL9g,85022,0.0
+1526,Pizza Italia,0,Pizza,5,wwjkBRfPIzyP9pvi94cH8A,85032,6.0
+1527,Pizza on 40th,0,Pizza,5,83cVpTJNyzv9lJ20vzBgdg,85018,11.285714285714286
+1528,Pizza People Food Truck,0,Pizza,5,scoJNOqcw2peNlO31UYTaA,85004,0.0
+1529,Pizza People Pub,0,Burger,4,_JZ7hXqOZ_MngjPWFgER0w,85004,11.142857142857142
+1530,Pizzeria Bianco,0,Pizza,5,cs1qJvnWUg_f8g020z_3PQ,85016,10.285714285714286
+1531,Pizzeria Bianco,0,Pizza,5,pSQFynH1VxkfSmehRXlZWw,85004,9.571428571428571
+1532,Pizzeria Uno,0,Pizza,5,VfaxW4igH57KHsIHR-W7Nw,85004,0.0
+1533,Plaza Cafe & Grill,0,Breakfast,3,hZgxNlArGoN0mWZvfCQWvA,85012,6.428571428571429
+1534,Plazma,0,Bar,2,B4t9umS5dCUrfTfrdf15Kg,85014,0.0
+1535,Pocho's,0,Burger,4,D7-T6DRpjApGNBQZ3Hq-fQ,85008,10.0
+1536,Poke Bar,0,Japanese,22,aNoJLiE3RGalv0WZU3jpZA,85027,10.0
+1537,Poki Bar Central,0,Bar,2,0kD9yJIB2cmvOh8-WbcO_w,85016,9.928571428571429
+1538,Pok-U,0,Bar,2,aNCLPEsrgB_gGwULOpYpqw,85034,9.285714285714286
+1539,Polish Goodies,0,Other,1,f1KTr8efZfDUZcxG32kKIw,85020,5.857142857142857
+1540,Pollo Sabroso,0,FastFood,11,u3WKEGTyfRgxx-PDotWmaQ,85034,0.0
+1541,Pomelo,0,Pizza,5,dThrFTK_bqo1woPvUgY70g,85020,10.714285714285714
+1542,Pomeroy's,0,Bar,2,atzWErG0uIvjpAvXhjPOIg,85014,15.571428571428571
+1543,Pomo Pizzeria - Phoenix,0,Pizza,5,pjpUOlJLlkIxBZ5BquA2PA,85004,4.571428571428571
+1544,Pop The Soda Shop,0,Bar,2,XAILRNmf0p-P_KRqdc0S7w,85029,7.0
+1545,Popeyes Louisiana Kitchen,0,FastFood,11,vVOoL5H8Fr-qlQv-_DdoMA,85020,16.0
+1546,Popeyes Louisiana Kitchen,0,FastFood,11,M_AuwEJTLUEIejktqmDWlg,85016,16.0
+1547,Pork on a Fork,0,Bar,2,orypdwCu2oSEJv3YNTSAhw,85016,9.857142857142858
+1548,Port of Subs,0,Sandwiches,13,NihPkBRdA1AixuE_98tIrg,85012,10.142857142857142
+1549,Port of Subs,0,Sandwiches,13,NAigH4SqnuuQip8lekq7GQ,85027,8.571428571428571
+1550,Postino Arcadia,0,Italian,8,u-SJ5QUwrNquL9VnXwl8cg,85018,12.714285714285714
+1551,Postino Central,0,Italian,8,FogTa-wmjhVnJCoTiaxvZA,85012,12.714285714285714
+1552,Potbelly Sandwich Shop,1,Breakfast,3,5d8oCuD4TlaDjBGMnDD0HQ,85016,12.285714285714286
+1553,Potbelly Sandwich Shop,1,Sandwiches,13,w-zZEx0WWguQApPmFN7PYQ,85029,9.857142857142858
+1554,Potbelly Sandwich Shop,1,Sandwiches,13,CXAC3Pfo7jaEciXZ2Bjgow,85004,9.928571428571429
+1555,Pour Masters Bar Service,0,Bar,2,D0pOQq__SzBet7MyZ7Zd7g,85027,6.428571428571429
+1556,Pozoleria Mexican Food,0,Mexican,0,LV63vo4iBHIo7gjiz-Oqgg,85008,9.714285714285714
+1557,Premium Burger,0,Burger,4,pVcaSUJ0IcHvwKwETawT5A,85032,10.428571428571429
+1558,Press Coffee,0,Breakfast,3,09LYxY5D4GcKc0Tvs4K_gw,85004,12.142857142857142
+1559,Press Coffee Food & Wine,0,Coffee,15,0-CXwwVL-u0tc0FOuSExWQ,85034,13.0
+1560,Press Italian Street Food,0,Italian,8,vclxHtRUZja24QFmsXdKTg,85008,0.0
+1561,Pronto Pizza,0,Pizza,5,5cFGfnrVgmK-jqQWlq1Xrg,85022,12.0
+1562,ProteinHouse Phoenix,0,Bar,2,BCE_A21lEUEeEU9sKCjLmA,85016,14.0
+1563,Province Urban Kitchen & Bar,0,Burger,4,06lCNuSrCnaU6eq0EV4PYg,85004,15.714285714285714
+1564,Public House Garage,0,Bar,2,6AgvdkMHPvAGpxs7gdx38Q,85044,13.857142857142858
+1565,Pueblo Viejo,0,Other,1,JL42sdCzD5WV_gkNWublxA,85032,0.0
+1566,Pugzie's,0,Sandwiches,13,C1aGdueHoFXKcy-yaLoUWw,85016,0.0
+1567,Pumphouse II,0,Bar,2,YuWCzdnHRihl0q6gfQtKTQ,85008,0.0
+1568,Pure Sushi Colony,0,Bar,2,SIBaomIYVvsMU0GTuqX4vQ,85014,11.142857142857142
+1569,Puro Gelato,0,Ice Cream,12,iX6t9oXOXbdyLUDcWLM9nQ,85032,0.0
+1570,Qdoba Mexican Grill,0,Mexican,0,OFacUbdk0t-GJ83GQ83LOw,85012,9.428571428571429
+1571,Qdoba Mexican Grill,0,Mexican,0,cbm9sq6Wis6T_WmbiFy8Ag,85020,0.0
+1572,Qdoba Mexican Grill,0,Mexican,0,1ePxLE7eU4kRoags_ytAAg,85028,0.0
+1573,Q-tsie,0,Other,1,TsfR-Gw1V6erD-8vsQ5ZIg,85008,10.0
+1574,Queen Creek Olive Mill Marketplace,0,Other,1,raciFGOzIYTVUwt54iZH9g,85016,8.0
+1575,Queen Creek Olive Mill Trattoria,0,Bar,2,j-6MgWWlotFZAQ23LZrTPQ,85016,6.571428571428571
+1576,QuikTrip,0,Other,1,m_72eIu-gFJI8s17AJrsWQ,85016,0.0
+1577,QuikTrip,0,Other,1,Sjvq8el5UkA0A60hh3NVUQ,85016,0.0
+1578,QuikTrip,0,Other,1,LTzyf22IWvaZOsx0FGISRw,85032,0.0
+1579,QuikTrip,0,Other,1,FrLWavzAYOzUEp5RPMG9Sw,85016,0.0
+1580,Quiznos,1,Sandwiches,13,UNCGZu8sPnPdZSV9CaWMnw,85034,0.0
+1581,Quiznos,1,Sandwiches,13,PUBa8BIIgkfhgE1aucXl3w,85029,0.0
+1582,RA Sushi Bar Restaurant,0,Bar,2,wN2zNgEK-QizEA_NKAHj6Q,85044,13.285714285714286
+1583,Rack Shack BBQ,0,Bar,2,r0byBoB7y_IH8uicEvyCqQ,85014,0.0
+1584,Radish,0,Bar,2,aPSRMtV2V7MPXi6DU_UlRA,85004,9.857142857142858
+1585,Rainbow Cactus Saloon,0,Bar,2,5gHXxYyqO2N7fxxhrvNCQQ,85032,11.571428571428571
+1586,Rainbow Donuts,0,Bar,2,WxytQiQ5Cl1Gotk9cXeILg,85029,16.0
+1587,Rainbow Donuts,0,Breakfast,3,48ka6XH8WWANuHwqL2mZUA,85020,7.0
+1588,Rainbow Donuts Bakery and Cafe,0,Breakfast,3,wYGILr1x6erxRzWZIZDEvg,85027,10.0
+1589,Rainbow Donuts Cafe and Deli,0,Breakfast,3,GLVahCssTKPBY_06LzUGQA,85032,13.0
+1590,Raising Cane's,0,FastFood,11,52sY8-9al5LJi475nNJkyQ,85029,15.0
+1591,Raising Cane's,0,FastFood,11,TT2bNjvnVNFOanDNYnAffQ,85018,15.0
+1592,Raising Cane's,0,FastFood,11,bSbAq9ylam6RInhbm2aZKA,85032,15.0
+1593,Raising Cane's Chicken Fingers,0,FastFood,11,TmByhkKxWQa2Bfvyk3Aqxg,85022,15.0
+1594,Rally's Hamburgers,0,Burger,4,ps8lgiZlaV3pir3T0qVOyg,85034,15.571428571428571
+1595,Ranch Burger,0,Burger,4,3AR0coEEReWxcbMxgS2DQg,85016,0.0
+1596,Ranch House Grille,0,Burger,4,n8RVrpWpcd3HprzEnJ3RxA,85018,8.0
+1597,Raspados el Tarasco,0,Ice Cream,12,cnXyideAGnrIjKjLjOZcHA,85029,10.0
+1598,Raspados Solaris,0,Ice Cream,12,EsJ_iCNSHu_8N--XsK9Rjg,85020,7.142857142857143
+1599,Ray's Pizza,0,Pizza,5,_4n7K_UdRSEMw4vJdsU9jQ,85027,10.714285714285714
+1600,Ray's Pizza,0,Pizza,5,c33m1IMz1N7S1-sqTbsqRA,85027,9.428571428571429
+1601,RBG Bar & Grill,0,Coffee,15,kvyHTYU1Qlhobr-p7C_pgQ,85008,16.0
+1602,Reathrey Sekong,0,Bar,2,kBJfBVaXJtPEKLTov1hJdQ,85014,10.142857142857142
+1603,Red Devil Italian Restaurant & Pizzeria,0,Pizza,5,qvQ-i1HgSloSJLkGnXsfhw,85008,10.428571428571429
+1604,Red Devil Italian Restaurant & Pizzeria,0,Pizza,5,8xyRFdmF_9boBaPx0jBhHQ,85032,11.0
+1605,Red Hut Coffee,0,Coffee,15,_USpC2WmwI8TkYqdgB6Q9A,85004,0.0
+1606,Red Onion Lounge & Restaurant,0,Burger,4,gU8H-yYJEByT7b8ZvHs16g,85032,14.857142857142858
+1607,Red River BBQ,0,Pizza,5,S6TP_aHo6d7AkkBBKe249A,85022,10.0
+1608,Red Thai,0,Thai,19,hVcnr0TMi500pJvghwnSOQ,85020,5.142857142857143
+1609,Red Tomato,0,Burger,4,haOul3OT2DSGwZ04OTVyqg,85018,0.0
+1610,Red Wok Buffet,0,Chinese,9,AMM3qOH9DUQzJHm9Q3vHag,85018,0.0
+1611,Redz Urban Table,0,Breakfast,3,8g5wu4oJx54wpsvdDIas4Q,85018,0.0
+1612,Regio's Mexican Food,0,Mexican,0,OPFoX64eLMA9QZDjOLLVQg,85016,18.0
+1613,Reign Of Thai,0,Thai,19,rnvsL0oFZpzpO61GXqBF6g,85020,3.142857142857143
+1614,Rennick's Restaurant,0,Other,1,fKxdy5SiWcSvYrLdxtYdmA,85034,5.142857142857143
+1615,Revo Burrito,0,Mexican,0,JJhnw7WJDuMHtK5i30EpGQ,85016,12.5
+1616,Rice Paper Vietnamese Cuisine & Bar,0,Vietnamese,23,DJcvnN7BCiqOUAra35xYuA,85004,9.714285714285714
+1617,Richardson's,0,Mexican,0,YauBkH-HEx148jC0pv4Hcg,85016,16.428571428571427
+1618,Richardson's Cuisine of New Mexico,0,Mexican,0,spnbqpkQsY79i5dL5qiRUg,85014,13.571428571428571
+1619,Ricky's Big Philly,0,Sandwiches,13,W6GuGdmaArR98U0y6fvNVQ,85018,0.0
+1620,Rico's American Grill,0,Burger,4,pu7maVMRHbIUv2x3B_xMHQ,85020,15.0
+1621,Ric's Smokehouse BBQ & Grill,0,Bar,2,0CZ4opKkec9yAS8qmXoWdA,85027,0.0
+1622,Rimrock Bar & Grille,0,Bar,2,tvpWoW2jMU5K-BrJTJnIpg,85034,13.0
+1623,Rinaldi's Italian Deli,0,Italian,8,ltQ-ilKwrlBtub7b_7gKww,85027,11.0
+1624,Rips Bar,0,Bar,2,k346E5EyDnBrqOwrP8xf8g,85016,20.0
+1625,Rita's Italian Ice,0,Ice Cream,12,HbzO-ZpnoR1hkOaygZPKYA,85032,9.285714285714286
+1626,Rita's Italian Ice,0,Ice Cream,12,Hv_F1yErD0slkYCI1V9SPw,85018,9.285714285714286
+1627,RiteWay Catering & Food Truck,0,Other,1,JuMtRdolJCRXZDvA-1Thwg,85004,0.0
+1628,Ritz Asia,0,Japanese,22,fofvWyHAEq6Yew-Je4bcgw,85032,11.0
+1629,River City Pockets,0,Bar,2,ivYu1ClwoOorgbVMUp22yQ,85022,16.0
+1630,RJ's Sports Grill,0,Bar,2,dbON86OzaGmMeSVoy-R1qg,85032,0.0
+1631,Robeks Juice,0,Bar,2,DR0iJomEwOItwYmuUTCdLw,85029,0.0
+1632,Robeks Smoothies,0,Bar,2,brMQVzeWvX4gwiJbLC5fEg,85016,0.0
+1633,Roberto's Mexican Food,0,Mexican,0,Rqf6LuH8i0Y8UaSgEzsQTg,85027,0.0
+1634,Rock and Roll Patio,0,Burger,4,3IWgxsZ8E49hNsY3qSvdZw,85020,6.857142857142857
+1635,Rock Bottom Restaurant & Brewery,0,Other,1,NX3HG_RhT6eI78A9ZaVm-A,85044,8.428571428571429
+1636,Rock-n-Taco,0,Mexican,0,rntzNd_3Cnr_-hIhxZGXXg,85008,0.0
+1637,Rocky Mountain Chocolate Factory,0,Other,1,5jODaUMwuk8SeJz6oIXIkQ,85027,9.857142857142858
+1638,"Rocky's Eastside Pizza, Subs & Wings",0,Pizza,5,iHQoddqWSJxh61Xp2srj1g,85016,0.0
+1639,Rodehouse Restaurant,0,Bar,2,fJOtZILwb801Gf0bayCzhA,85034,0.0
+1640,Rodibertos Mexican Food,0,Mexican,0,WSiQKl0qOL9Pl83mJzgE7g,85004,13.642857142857142
+1641,Rokerij,0,Mexican,0,_WtxQbDK7B-ExGdeG-2j6Q,85016,13.571428571428571
+1642,Rolando's Mexican Food,0,Mexican,0,URwrgfuyfpVqgnKwkawlHw,85029,18.857142857142858
+1643,Rolberto's,0,Mexican,0,_ikylomPLdTgVtE0xWR_1Q,85014,0.0
+1644,Rolberto's Taco Shop,0,Mexican,0,Gn06kr2XLQo_sIxzGkjIGg,85032,0.0
+1645,Rolberto's Taco Shop,0,Mexican,0,zsNEni7cr4lRnjd4AcO4kA,85022,0.0
+1646,Roliberto's Mexican Food,0,Mexican,0,9zclqTtkncm_ayNJ58iJbg,85027,15.857142857142858
+1647,Roma Garden Ristorante,0,Italian,8,n8fGqb4CCheGyWtr9KM6qw,85032,5.285714285714286
+1648,Romano's Macaroni Grill,0,Italian,8,Bs8AvNO3xWoURWpqiGd_4w,85027,11.285714285714286
+1649,Romano's Macaroni Grill,0,Italian,8,kdnIIKSd3NY3Eo22MXK8Xg,85044,11.285714285714286
+1650,Roosters Kountry Kitchen,0,FastFood,11,Kq2H4quaTxiya7xCZelsRg,85004,0.0
+1651,Rosati's Pizza,0,Pizza,5,53BSdnhzcCBfBH_6TgX63Q,85018,13.357142857142858
+1652,Rosati's Pizza,0,Pizza,5,vhKUBKcOm8zOLxeS3XM9iA,85032,10.285714285714286
+1653,Roscoes On Seventh,0,Bar,2,FTRKltZ9x7Q6oj-apyrrGw,85014,11.428571428571429
+1654,Rosie McCaffrey's Irish Pub & Restaurant,0,Bar,2,rW5N-fiNhqb-fR3bGqyPdg,85014,15.0
+1655,Rotana,0,Other,1,3l5TusofKjr8rk6-DDtuoQ,85022,5.857142857142857
+1656,Rotana,0,Bar,2,SMkMBsGy6oAkv4r1boTCKQ,85022,10.857142857142858
+1657,Rott n' Grapes Wine & Beer Bar,0,Bar,2,hhhHgSaSl6GLtuDoDrMUZQ,85012,10.142857142857142
+1658,Round Table Pizza,0,Pizza,5,JrWDbaSUYVBuTeELOWmRCQ,85034,0.0
+1659,Royal At The Market,0,Coffee,15,P_8w8zNsJVAGueCaDJTpGg,85004,9.428571428571429
+1660,Royal Coffee Bar,0,Coffee,15,6-nEqEheFPDowGl_UXz71Q,85016,10.714285714285714
+1661,Royal Coffee Bar,0,Coffee,15,wn42xn0SUdKfbdjUJabL-A,85004,6.0
+1662,Rubio's,0,Mexican,0,rMCKv9puuu2NkYISHnwyWg,85032,10.428571428571429
+1663,Rubio's,0,Mexican,0,XVN0Mg7oABOWAWO3t9tXpw,85044,10.571428571428571
+1664,Rubio's,0,Mexican,0,fYLCKglfKHjgzcOeo4ZDaw,85018,10.428571428571429
+1665,Rubio's Fresh Mexican Grill,0,Mexican,0,ktcMeKIoDA0Dk11Wcpx9xg,85027,11.071428571428571
+1666,Ruby Tuesday,0,Other,1,bVnghr_J0iXtAowceuAdlg,85032,0.0
+1667,Ruby Tuesday,0,Burger,4,QfG4JZvFoFpRbAxU2Fn-UQ,85034,11.0
+1668,Rum Runner's,0,Bar,2,IgnwXUy5o5A4rb76zZeUng,85020,0.0
+1669,Rumbi Island Grill,0,Latin Food,20,g-neBWSgkVEKVVUwl3iXwg,85018,0.0
+1670,Rusconi's American Kitchen,0,Breakfast,3,m2zASwlOL2vecCKHfmGAnQ,85028,4.857142857142857
+1671,Rustler's Rooste,0,Coffee,15,KFAJsmQ6GnHxyfmv16s9VA,85044,5.0
+1672,Ruth's Chris Steak House,0,Coffee,15,8_7CQB7SzLoN-rOp4Aws0Q,85016,5.214285714285714
+1673,SaBai Modern Thai,0,Thai,19,NUT7tou1Uvjh0GB4I41Qig,85018,10.285714285714286
+1674,Saba's Mediterranean Kitchen,0,Sandwiches,13,len2nrEtgD9bjnoYSyLPjA,85032,8.571428571428571
+1675,Sabroso Fresh Mexican Grill,0,Mexican,0,feXaud0exONNXlUu1m9DZg,85022,0.0
+1676,Sacred Hogan Navajo Frybread,0,Other,1,mJHoOJH10A-cjtRdQCV6ow,85014,7.857142857142857
+1677,Safeway,0,Other,1,mk_OXeS7_zcfYlaEEFYWvA,85022,19.0
+1678,Safeway,0,Other,1,PmpIoK_i_-xz8RUsJT1kGQ,85044,0.0
+1679,Safeway,0,Other,1,wMc9OCRrfhEMzONtNgpS9Q,85004,11.0
+1680,Safeway,0,Bakery,17,H58PLS04PXaNdBxyE4yDWw,85016,0.0
+1681,Safeway Food & Drug,0,Other,1,rdgMBpMVzjgpdZNazZlfJQ,85022,0.0
+1682,Safeway Food & Drug,0,Deli,16,oSpCbTguOIcpi-kg6xstUg,85018,19.0
+1683,Sagasta Salon & Coffee Bar,0,Coffee,15,c6nX38LoVfc6Wf0G8B9nZA,85016,0.0
+1684,Sage Kitchen,0,Vegetarian,7,tGLz8WfLwSi221wgNh-0qw,85016,8.857142857142858
+1685,Sakana Sushi & Grill,0,Bar,2,jOJaJatp88cqnkVo8D8RJg,85044,5.714285714285714
+1686,Sakura Sushi,0,Bar,2,Cs8YvyehNELsgOsf5Us4Dg,85044,10.142857142857142
+1687,Sala Thai,0,Bar,2,5DT2qxCkXxUKW7z_4kOXmA,85028,5.428571428571429
+1688,Salad and Go,0,Bar,2,Ljknr0VF5Ia2DlTzELg-Kg,85027,14.071428571428571
+1689,Salad and Go,0,FastFood,11,tIOjJWfu4Dqz-FIzXHRvCg,85014,14.071428571428571
+1690,Salsa Y Mas,0,Mexican,0,UurE194rrdpdSllt0cVZxQ,85014,0.0
+1691,Salute Ristorante Italiano,0,Bar,2,14O6gNqpd3bcnIAHPFT58g,85022,4.0
+1692,Sammy's Gourmet Sandwiches,0,Pizza,5,yZweDoo2mcHxjojylN58OA,85044,8.642857142857142
+1693,Sam's Cafe,0,Mexican,0,0HwrX6P6lh92F0f-A_QzjA,85016,10.714285714285714
+1694,Sam's Deli Mart,0,Sandwiches,13,JcsZvx-4yovFgCXOfd6KMg,85012,0.0
+1695,Sam's Gyros,0,FastFood,11,W-5cdzVAeRv0EtAeed4tqw,85020,7.0
+1696,Samurai Sam's,0,Japanese,22,TBai-x2Cl5ByfctML7q08g,85034,5.0
+1697,Samurai Sam's,0,Japanese,22,L7rjzj2g2EEbHfee9V-X2Q,85027,10.571428571428571
+1698,Samurai Sam's,0,Japanese,22,zo4bIWOI9dDwHK5utgRF-A,85029,10.285714285714286
+1699,Samurai Sam's,0,Japanese,22,KuDmCggBq6zwxc8CSJxLdQ,85034,8.214285714285714
+1700,Samurai Sam's,0,Japanese,22,rTicAE1mbLnyMuUrUFD6WA,85032,10.714285714285714
+1701,Santa Madre Taco Shop,0,Mexican,0,2z7xERz1Nonyw8Kjr4SffA,85018,9.857142857142858
+1702,Sara Lee Bakery Store,0,Bakery,17,GGdRtmvI2CbRRlk93ZbO7Q,85016,9.285714285714286
+1703,Sardella's Pizza & Wings,0,Pizza,5,8EvgKu_VpVXJ0KUvrxS7BA,85027,11.285714285714286
+1704,Sardella's Pizza & Wings,0,Pizza,5,a8OWfQTA1TqoMEu8Qk9owA,85032,11.285714285714286
+1705,Sardella's Pizza & Wings,0,Pizza,5,tuYk6HQgY3eYliiOUgNFqg,85029,11.285714285714286
+1706,Sassy Cakes By Nina,0,Bakery,17,0N98aH5-d3JWorzd3ivXiA,85016,5.714285714285714
+1707,Satisfied Frog On Bell,0,Bar,2,vtGwb-yl69LT96mHVllWeA,85032,11.142857142857142
+1708,Sauce Pizza & Wine,0,Pizza,5,d-wvSnFt6JAZBzqMiGpvyQ,85034,0.0
+1709,Sauce Pizza and Wine,0,Pizza,5,y8zlR75tcmvkg49dqdLGDg,85012,10.285714285714286
+1710,Savor Flavor Asia,0,Vietnamese,23,mRubgo8WfjraJkE5Bvbf6w,85044,10.142857142857142
+1711,SC Meal Prep,0,Deli,16,h1VTkQnZ7CSb3jl_MdsFhg,85034,13.0
+1712,Scala's Italian Ice,0,Ice Cream,12,rLXSWOjluLND6llTf2z2tA,85032,0.0
+1713,Schlotzsky's,0,Sandwiches,13,b5OTjiOjEg_UkmObTVnf2A,85018,13.571428571428571
+1714,Schlotzskys Deli,0,Sandwiches,13,_iKCtDTYEUasLkzmhCgv3w,85004,13.285714285714286
+1715,Schreiner's Fine Sausage,0,Other,1,smIOUyPwm3Nu8vxH66La9A,85014,5.428571428571429
+1716,Scott's Generations Restaurant & Delicatessen,0,Breakfast,3,gHutuGMMMH-5Qv9DbemLFw,85020,10.857142857142858
+1717,Scott's Generations Restaurant & Delicatessen,0,Breakfast,3,T45K4FeSLlOX_TjEvMImzg,85020,10.857142857142858
+1718,Scramble A Breakfast Joint,0,Pizza,5,8Zqh2jwtncA3N4fWEMTvZQ,85020,8.0
+1719,Scratch,0,French,6,OZC42gnhlJ_auXduDRfMoQ,85004,14.857142857142858
+1720,Seasons 52,0,Bar,2,DMyoxEaTGTakZxWgh1D5bw,85016,11.285714285714286
+1721,Seattle Espresso,0,Coffee,15,Z4xN2eedRYHELXcQEg0c1Q,85044,0.0
+1722,Seay's,0,Other,1,CfgV4H_ytJTRKrUoBGI5CA,85012,0.0
+1723,Seed Cafe,0,Bar,2,rgZjPYSdZtS4xSTrx45PLQ,85018,12.714285714285714
+1724,See's Candies,0,Other,1,oubCbnF9Ugh1vIGjRxQaVg,85012,7.714285714285714
+1725,Segal's Oasis Grill,0,Chinese,9,KCVnCb6TvTzoDp4t-Qf4wQ,85014,9.571428571428571
+1726,Semiramis Restaurant & Cafe,0,Other,1,hCeDhb2p5L7Nkvgn7WeRCw,85032,0.0
+1727,Sens Asian Tapas & Sake Bar,0,Other,1,QsMR_Fp9YRtDegThsOgFLA,85004,7.285714285714286
+1728,Seoulphx,0,Bar,2,cvu61K0_g7ZIpaEPCiaNcA,85029,11.285714285714286
+1729,Shady's,0,Bar,2,_jTULkoQIqb9nvitg2dIXg,85016,14.0
+1730,Shake Shack,1,Burger,4,PQicuLOZ3uNJKn4PtayjlQ,85012,11.0
+1731,Shangri-La Chinese,0,Chinese,9,n62dcL1e8BQA1_kUEYrldQ,85029,11.0
+1732,Shea Cafe Espresso & More,0,Coffee,15,Ou753thvsug_rr1jAfzfXg,85028,0.0
+1733,Shell,0,Other,1,YhKcOW9-lmdKrQcyt8elCw,85014,0.0
+1734,Shell,0,Other,1,AqvZ-zcrE-EvcC5o-QOmjg,85022,0.0
+1735,Shell,0,Other,1,_3Gev_tV3WUKGMjccBACfA,85018,0.0
+1736,Shiro Japanese Restaurant,0,Bar,2,XmBsvLh_4a7K6CgAfougMw,85028,0.0
+1737,Shogun,0,Bar,2,dc6sPg9kNliz_Cy2yX19tw,85032,4.285714285714286
+1738,Short Leash Hot Dogs,0,FastFood,11,HQVzGJRnXnKnbC-7tfx-xg,85016,7.714285714285714
+1739,Short Leash Hot Dogs Food Truck,0,FastFood,11,9Cq_NVvWZOEAzmE7tqJgmg,85004,12.142857142857142
+1740,Sierra Bonita Grill,0,Burger,4,J5ebC7fKqrSF8KuS8d6hgw,85014,10.714285714285714
+1741,Silver Spoon Cafe,0,Other,1,j5wcbhFqxEF-YtayK2fTjQ,85004,0.0
+1742,Silver Wine & Martini Bar,0,Bar,2,os--iprvNkEH_B1zXDid5A,85004,0.0
+1743,Simply Bread,0,Bakery,17,IT7MuZDoU9p3Vmje8i9WFA,85008,5.714285714285714
+1744,Sinaloa,0,Mexican,0,0Wysm_99sHXrftxGZrJc3Q,85032,0.0
+1745,Sip Coffee & Beer Garage,0,Bar,2,5A_sjC9ULLt4UkDNtr9dkw,85018,16.142857142857142
+1746,Sips and Sweets,0,Other,1,PPieQ9lrjC_aka7Fwe6b2A,85004,0.0
+1747,Sir Veza's Taco Garage,0,Mexican,0,prdA1r8XP03oD-PYvZJ5AA,85034,0.0
+1748,Siu Wok,0,Chinese,9,eZQbDYQTZk0_cBroVxnPWg,85012,8.714285714285714
+1749,Sky Lounge,0,Other,1,P_ilOWgHj2DMSSZSDtvzbg,85004,10.285714285714286
+1750,Slade Grove Creative Gourmet,0,Bakery,17,PZhV6pekrY43XyXrfMjohg,85012,5.0
+1751,Slice of Sicily,0,Pizza,5,LLD_tG7_Dyg7AsTJoQ4ZNA,85014,7.714285714285714
+1752,Slice of Sicily,0,Pizza,5,pl0KAXaQbYN6B2CV_Y3vnw,85018,7.928571428571429
+1753,Sliders American Grill,0,Bar,2,JME1sO6i5sOu-Dw_I_PD8Q,85004,0.0
+1754,Smallcakes Cupcakery and Creamery,0,Ice Cream,12,xfadwwQ7RICcAeinHz5YVQ,85044,8.0
+1755,Smart Cookie,0,Other,1,cUFf5LSP0xN3JRTS91QC2Q,85004,0.7142857142857143
+1756,Smashburger,0,Burger,4,gxEkxkqQrrK62DJnXxXDLg,85016,11.642857142857142
+1757,Smashburger,0,Burger,4,0yHY4FHCTOIshPiPc9EYBQ,85034,15.0
+1758,Smashburger,0,Burger,4,_VHOD-pcrAZFKNinI7GCUQ,85018,11.142857142857142
+1759,Smashburger,0,Burger,4,ZCC2rUvs2ydCzR6MjwnOQg,85029,11.142857142857142
+1760,Smashburger,0,Burger,4,58ZoYIdM9trgdQgXLwszqw,85018,10.642857142857142
+1761,Smoke Dem Bones BBQ,0,Bar,2,npoCLZID4WNKV5RtJijAKg,85016,8.571428571428571
+1762,Smokehouse Bar & Grill,0,Mexican,0,gpyNcwOZhz3FUsjhgU30hQ,85032,13.571428571428571
+1763,Smoothie King,0,Bar,2,bjvjXLLAUIIvUrMb6aU3EQ,85004,12.857142857142858
+1764,Smoothie King,0,Bar,2,UiLrSPbrlY94Gwyymy1-hw,85018,13.428571428571429
+1765,Smoothie King,0,Bar,2,m4_qthbDlYptibVQ1SCvNA,85032,12.142857142857142
+1766,Snoh Ice Shavery,0,Chinese,9,I_a74zmgR-X03LsKISWPcg,85014,9.285714285714286
+1767,Snoh Ice Shavery - Downtown,0,Ice Cream,12,g38NqtZvSJ3lHt1APN13aw,85004,9.142857142857142
+1768,Snooze An AM Eatery,0,Breakfast,3,utIA0LyQmwP-9DRyxUe6qQ,85016,8.0
+1769,Snooze An AM Eatery,0,Breakfast,3,0go_co5nVtlbu4HgUyUIOQ,85044,8.0
+1770,Sochu House,0,Bar,2,raVyoZbWWuN7JcFUdT7k2g,85004,13.285714285714286
+1771,SOLO Trattoria,0,Pizza,5,cOWXtCz7F9GQhPIks8gm6Q,85016,8.0
+1772,Soma Cafe,0,Burger,4,LsaSrbOcV7M24Yc8nemdsA,85034,13.928571428571429
+1773,Soma Express,0,Bar,2,WTbT0t3BDM_3FYSh2aowgA,85018,0.0
+1774,Sona Chaandi,0,Other,1,12-0RrF2Sq8gnTNUW4ypLw,85032,10.428571428571429
+1775,Songbird Coffee & Tea House,0,Breakfast,3,qaPSbg690KaX5av6xsSV4Q,85004,0.0
+1776,Songbird Coffee & Tea House,0,Bakery,17,ogW-9p7lcXQYTPymXy9KXw,85004,13.428571428571429
+1777,Sonic Drive-In,1,Burger,4,ltWlvxGu8iKjyYxLIZAYXw,85022,17.142857142857142
+1778,Sonic Drive-In,1,FastFood,11,88yIboxl9p7sPy9ifh_s4A,85008,17.142857142857142
+1779,Sonic Drive-In,1,FastFood,11,zusXbyXnJfS1Q-pZE9elmQ,85027,17.142857142857142
+1780,Sonic Drive-In,1,FastFood,11,YhdWKWt3sx6YgMIILfh_Xw,85027,17.142857142857142
+1781,Sonic Drive-In,1,FastFood,11,MOi64A9mDpK9zUB8546L8Q,85032,17.142857142857142
+1782,Sonic Drive-In,1,FastFood,11,j7LCI60GYN1KxXRiy_LMkA,85018,17.142857142857142
+1783,Sonny's Steakhouse,0,Bar,2,7K6FmmVrwK_CkVMsqhU7bQ,85032,9.0
+1784,Sonora Mesquite Grill,0,Mexican,0,VoTi4yVhTVyFdmxUpoyUsg,85018,7.285714285714286
+1785,Sonora Taco Shop,0,Mexican,0,CFyPbqZaxoBTjOmVjSn_8Q,85034,9.428571428571429
+1786,Sophie's French Bistro,0,Bar,2,0B_aEPeZjrXs6T7vS3arrA,85016,0.0
+1787,Soup & Sausage Bistro,0,Other,1,U5Ow3ffmrG4MmTZLK6jd-g,85022,6.428571428571429
+1788,Souper Salad,0,Other,1,gTp2D6nicDdWjKJH8EI-sA,85016,0.0
+1789,Souper Salad,0,Other,1,1k53JbU9dNU0NvyBYKLhNw,85032,0.0
+1790,Souper Salad,0,Other,1,CvGfyePXPjKt3btUj1h9uQ,85008,9.25
+1791,Souvia Tea,0,Coffee,15,roXz-d4ma5vtnVj1Z88AFA,85022,6.142857142857143
+1792,Spartan Pita & Gyro,0,FastFood,11,rYI_Dvw8ixOE-Hud-PWzbQ,85018,10.285714285714286
+1793,Spasso Pizza & Mozzarella Bar,0,Pizza,5,WaTXG26xbOGffSscvyr-wQ,85016,9.428571428571429
+1794,Speedy Street Tacos,0,Mexican,0,Tc1ly-0VLk3AaoMb7CrlVA,85008,0.0
+1795,Spice Restaurant,0,Other,1,3qrotwyf69IpNqwsZN8U7A,85029,22.285714285714285
+1796,Spinato's Pizza,0,Pizza,5,TolwZ3L28or4E8SVTZUf6Q,85020,8.571428571428571
+1797,Spinato's Pizzeria,0,Pizza,5,_mg5bYknpZgaWSfjQVmrJQ,85014,10.0
+1798,Spinato's Pizzeria,0,Pizza,5,6We2O5X62J_gduXU7jvf8w,85044,10.0
+1799,Splurge,0,Ice Cream,12,nLX43e5KVb5wultBpWvYLw,85020,9.785714285714286
+1800,Spoke & Wheel - Phoenix,0,Burger,4,ku9ak9cQnIGBCXBtRd61tQ,85020,10.571428571428571
+1801,SpoonZ Cafe,0,Breakfast,3,ZAfrdSLNrJOe2fMPJuHJPw,85004,6.785714285714286
+1802,SpoonZ Cafe,0,Breakfast,3,wTKMQD3nOwEKGZmtiiiGXA,85004,6.785714285714286
+1803,Sport Peppers Grill,0,Bar,2,6KJIdXznNpUCun0Ky2Ltjg,85022,0.0
+1804,Sprouts Farmers Market,0,Other,1,S-B-ak8Kq0DrkLfE7k3DGg,85016,15.0
+1805,Sprouts Farmers Market,0,Other,1,O7R1GSR7FXQ2tlqESut0Yg,85044,15.0
+1806,Sprouts Farmers Market,0,Other,1,u0Gx6NbiLTDkK5UQqYfOYg,85032,15.0
+1807,Sprouts Farmers Market,0,Bakery,17,vn6L2cywiesnogJF_3o7PA,85020,15.0
+1808,Squash Blossom,0,Breakfast,3,k4jX-Xe9dFu2pmdnlrcwgA,85004,5.142857142857143
+1809,Squaw Peak Cafe,0,Pizza,5,tylsscXmLq03-DzGI36bIA,85016,0.0
+1810,Squid Ink,0,Bar,2,gSPqD1DR3lzgoaifIhdF_w,85004,13.571428571428571
+1811,St. Francis Restaurant,0,Other,1,z6-reuC5BYf_Rth9gMBfgQ,85012,5.142857142857143
+1812,Stackers Restaurant,0,Bar,2,AcjO26DmOhqWlfo2s5DUow,85029,14.428571428571429
+1813,Stacy's Smoke Dem Bones Pit Stop BBQ,0,Bar,2,3nEtb-rn9yW0ocC90geMKg,85016,9.285714285714286
+1814,Stacy's Smokehouse,0,Bar,2,bVv7r8emubqxWAnAk3abGw,85016,8.571428571428571
+1815,Starbucks,1,Coffee,15,GqlcI-T5pK17Q932PimsAg,85014,15.857142857142858
+1816,Starbucks,1,Coffee,15,5ab4zTLxouz8v7Nhkd3Png,85016,12.0
+1817,Starbucks,1,Coffee,15,t6SfYTEvg0o_cfJddsqEcg,85016,0.0
+1818,Starbucks,1,Coffee,15,gojqK2LbOCCQhGACXeTAsA,85016,0.0
+1819,Starbucks,1,Coffee,15,kxZAnsPao8c3JDqiR0v2ew,85027,18.071428571428573
+1820,Starbucks,1,Coffee,15,A3hwreijrD8HcjDI7PIAgg,85008,17.5
+1821,Starbucks,1,Coffee,15,25PtpM0IfG_2IIQWCj-n5Q,85016,15.0
+1822,Starbucks,1,Coffee,15,pOOqM-VIRFQrai15OBRxsA,85027,0.0
+1823,Starbucks,1,Coffee,15,YXdR7AR-9rFGvTt5pkO5pg,85012,14.714285714285714
+1824,Starbucks,1,Coffee,15,oDuilCKr--xMW7RTIHk-cQ,85016,16.357142857142858
+1825,Starbucks,1,Coffee,15,wkMAYHXHj_vuVJFcSHBt3w,85032,0.0
+1826,Starbucks,1,Coffee,15,zHAGfBguJRgwEiAQG8B50g,85004,0.0
+1827,Starbucks,1,Coffee,15,dDfkHPMICXOaBXQ9RhZgBg,85022,16.571428571428573
+1828,Starbucks,1,Coffee,15,7DBu4i4sN9I8HWS3YaxArA,85032,15.0
+1829,Starbucks,1,Coffee,15,5rFXq7AGqJJeNn48PHfEtA,85028,0.0
+1830,Starbucks,1,Coffee,15,dN2j7NLXmYaTsckj384biw,85032,16.5
+1831,Starbucks,1,Coffee,15,Mx8NzQJYOCA74eO3Jveknw,85028,0.0
+1832,Starbucks,1,Coffee,15,OWw5_o8eLkWs5pJLCfjWeQ,85004,8.571428571428571
+1833,Starbucks,1,Coffee,15,kcpu_H4BaMY0dqHY8khoGQ,85022,17.357142857142858
+1834,Starbucks,1,Coffee,15,vK8_0DjWQ4WXUxCgsn7yBg,85034,17.0
+1835,Starbucks,1,Coffee,15,ko-nF92l4JHBZG7JcmOEYw,85044,17.857142857142858
+1836,Starbucks,1,Coffee,15,TaH_zUFjBl81NiZeUqJQrQ,85032,17.285714285714285
+1837,Starbucks,1,Coffee,15,3G4oBmMbsljuOydzmUhOuA,85032,16.714285714285715
+1838,Starbucks,1,Coffee,15,FG-0gu-R0XFkQNZ_ldJ5jg,85029,0.0
+1839,Starbucks,1,Coffee,15,_YHMJ_bFgSoZbiZ6MDf2kw,85016,19.357142857142858
+1840,Starbucks,1,Coffee,15,X3qrbOkhdCjm0NTBX7T80Q,85032,0.0
+1841,Starbucks,1,Coffee,15,1VQJyXwDakcHa-RZUCUe9w,85027,16.357142857142858
+1842,Starbucks,1,Coffee,15,N38Sv1e4DF1nsHdZfbcv6w,85004,14.714285714285714
+1843,Starbucks,1,Coffee,15,xhVxf5HSlCAqpyG8OuNptg,85018,15.5
+1844,Starbucks,1,Coffee,15,UkFztgWFkut6fCmfNMuivQ,85032,0.0
+1845,Starbucks,1,Coffee,15,WB_lzC2LExQAgV6JmZWyuQ,85032,12.285714285714286
+1846,Starbucks,1,Coffee,15,VcJUwtuimI07KQwOc1wEcQ,85022,14.0
+1847,Starbucks,1,Coffee,15,YHkKvAYwH85Nze5l9JuOdg,85004,13.5
+1848,Starbucks,1,Coffee,15,kHsxuM7B2ZS8dtJIaTnUSQ,85004,15.0
+1849,Starbucks,1,Coffee,15,zb7cwfZK3SxWb-4V_QuS6Q,85034,0.0
+1850,Starbucks,1,Coffee,15,Pg-KfFD3GcWDtJv5J3yvmw,85044,15.0
+1851,Starbucks,1,Coffee,15,pTW_ftmlevgZzUpWztP0Cg,85004,0.0
+1852,Starbucks,1,Coffee,15,w0ILJ3DokhvBOevp_zNnDQ,85022,17.571428571428573
+1853,Starbucks,1,Coffee,15,CtI7MMRF-arzGJxA1nJccQ,85014,16.0
+1854,Starbucks,1,Coffee,15,6QH_LPrn4CrCjtiVwGDoEQ,85018,0.0
+1855,Starbucks,1,Coffee,15,Sqhue_kRrNXmp0gw_Kjy3A,85016,0.0
+1856,Starbucks,1,Coffee,15,L89gTBsMuEUzSex9Hcpdng,85016,12.928571428571429
+1857,Starbucks,1,Coffee,15,OReE7XFVe8-S8EBU8R3etQ,85004,0.0
+1858,Starbucks,1,Coffee,15,tVVFXukrk_rzLhv00jhKDQ,85029,14.428571428571429
+1859,Starbucks,1,Coffee,15,MT14X3-S3hUGVwIGI6WIYQ,85028,16.5
+1860,Steak 44,0,Bar,2,ukCTLs6T8LY1eUBXiAlmCg,85018,5.285714285714286
+1861,Steamers Genuine Seafood,0,Other,1,gpjvSxIQZsgaEqmQ8RUqvw,85016,10.142857142857142
+1862,Stella,0,Italian,8,2gzB4EE7B_QEFWZtJTG4dA,85016,8.0
+1863,Steve's Greenhouse Grill,0,Burger,4,vyDW7_CHhDUJshMqaSjj0g,85004,16.071428571428573
+1864,Stingray Sushi,0,Japanese,22,H3Gastz2T6iiSRGmlbtoXQ,85016,11.785714285714286
+1865,Stock & Stable,0,Italian,8,kz7O0_o6WrDQk1Kl8dKeHQ,85014,9.0
+1866,Stockyards Restaurant,0,Coffee,15,jZ8ogksrNzUmREJggc1YOQ,85034,3.857142857142857
+1867,Stoudemire's Downtown,0,Other,1,mXuxTKtDR49msFrNGXUaTw,85004,0.0
+1868,Streets of New York,0,Pizza,5,I-vvqRaszKlLjn3Wicyw6w,85032,10.714285714285714
+1869,Streets of New York,0,Pizza,5,swi7mi1ixWpu5-tZO2mtsg,85012,11.214285714285714
+1870,Streets of New York,0,Pizza,5,bHqJQxPF-VL95tjAUYtK6w,85020,10.714285714285714
+1871,Streets of New York,0,Pizza,5,GarQqqVFnqe5DjKK0JL9sQ,85032,10.714285714285714
+1872,Streets of New York,0,Pizza,5,EosF_LUsz19yvqkAMYLltA,85018,10.714285714285714
+1873,Streets of New York,0,Pizza,5,2IHmggMLM-hDq4dFmwgzDw,85022,11.214285714285714
+1874,Stumpy's Pizza & Subs,0,Pizza,5,pCWg4B0R5gauQR4SJ9VDmw,85020,9.428571428571429
+1875,Sub Factory,0,Sandwiches,13,_likkCtISrdc6OnUO6wpCA,85016,10.428571428571429
+1876,Sub Factory,0,Sandwiches,13,lpG4o7jM0YcLCRvqDBJcxA,85044,0.0
+1877,Sub Zero Ice Cream,0,Ice Cream,12,Q95GX4nSJlniB9t2uyWCnQ,85032,10.428571428571429
+1878,Subs by Jim,0,Sandwiches,13,xzsmg3U-V3Z6xN8iZNQTJA,85018,0.0
+1879,Subway,0,Sandwiches,13,UXd3218Enn8Lt5csBxwC8g,85004,0.0
+1880,Subway,0,Sandwiches,13,3xI0ToitrAJkrUSH4gbmCA,85044,0.0
+1881,Subway,0,Sandwiches,13,mr5hwhIb_qfpTg9mbWHgsQ,85016,15.571428571428571
+1882,Subway,0,Sandwiches,13,xMHZNwmo22Eq_XsCLJgjQQ,85029,0.0
+1883,Subway,0,Sandwiches,13,6epbU1SVzUleAVi_sYRw1Q,85016,0.0
+1884,Subway,0,Sandwiches,13,7pFvRwpwxRc8qf6eTWY6kQ,85008,18.857142857142858
+1885,Subway,0,Sandwiches,13,s1apC6r9pnVGBR8Mfe0czQ,85014,0.0
+1886,Subway,0,Sandwiches,13,O7XvKvc1JQqfl4Z-T28yJA,85032,0.0
+1887,Subway,0,Sandwiches,13,sDJwRKmvlox1d1U8oWRBlQ,85008,14.857142857142858
+1888,Subway,0,Sandwiches,13,VIVdyOc5dWBMWdtzM-Hw2A,85032,0.0
+1889,Subway,0,Sandwiches,13,P4atiaghQt2lnMUtO-SLwQ,85018,0.0
+1890,Subway,0,Sandwiches,13,i7ip9OtxN8J9lUSjbS2Dlg,85004,0.0
+1891,Subway,0,Sandwiches,13,v3z_rK2cFteZrLSh5zSqTg,85004,14.142857142857142
+1892,Subway,0,Sandwiches,13,7xp3zCEMWtGKQUD_YNbUhw,85008,18.571428571428573
+1893,Subway,0,Sandwiches,13,zoOxUVpuoar5_9KU61CLFw,85020,14.071428571428571
+1894,Subway,0,Sandwiches,13,LIjLOrzL6Lbb_axlF2-9Iw,85044,0.0
+1895,Subway,0,Sandwiches,13,v80Rx2UVjIkOhh0hg7lerw,85028,13.857142857142858
+1896,Subway,0,Sandwiches,13,d1g99-npBycSRnz9ZiKhrQ,85004,15.5
+1897,Subway,0,Sandwiches,13,aIDCm_31--whoSJl4LhEZA,85008,0.0
+1898,Subway,0,Sandwiches,13,k90yE_IQ4gjcZFNK5t18Qw,85022,0.0
+1899,Subway,0,Sandwiches,13,ztk25JYxDZ9_9e2v6uHJAA,85027,13.428571428571429
+1900,Subway,0,Sandwiches,13,L6hkMaZ1tAPF4sW1WmdQLQ,85034,0.0
+1901,Subway,0,Sandwiches,13,a48i_DFln5e1oaJKNM6BUg,85027,0.0
+1902,Subway,0,Sandwiches,13,xywadi1Prn2yEolyVoss6w,85016,0.0
+1903,Subway,0,Sandwiches,13,gKcZz5C32N7llrQst4B7_A,85032,0.0
+1904,Subway,0,Sandwiches,13,XpX9CjHYlZkQRKKxOeNE_Q,85032,0.0
+1905,Subway,0,Sandwiches,13,_8HzIslOdrED7JQF2DU2fg,85020,0.0
+1906,Subway,0,Sandwiches,13,xEpIUFKBHgnq3pXVaxNg3g,85022,0.0
+1907,Subway,0,Sandwiches,13,bltn4FTcuRJY5IfiIIDINw,85032,0.0
+1908,Subway,0,Sandwiches,13,RqjvlWbx0LScWVZnG_P6SQ,85018,0.0
+1909,Subway,0,Sandwiches,13,6UjC8B-WvhsuiTrIeVqHnA,85004,11.857142857142858
+1910,Subway,0,Sandwiches,13,TvOE5wiluPOzf7kbQthVjg,85027,0.0
+1911,Subway,0,Sandwiches,13,5Aa43lrbSNCuXHz1Vpt-Ag,85022,0.0
+1912,Subway,0,Sandwiches,13,Sx2pqHFFerBjzHQSLcxBAQ,85027,0.0
+1913,Subway,0,Sandwiches,13,lfZYPCoGQ-1a7Kr_hgYSxQ,85018,0.0
+1914,Subway,0,Sandwiches,13,s1w7weo4AffZXrz6oRcVww,85004,0.0
+1915,Summer Market,0,Bakery,17,vih4Kuw5bT6TPg7YZyBR2Q,85022,13.714285714285714
+1916,Sunflower Farmers Market,0,Other,1,m3a4V9ncbaqF63ynTvtM9A,85022,15.0
+1917,Sunup Brewing,0,Bar,2,NwVj3tbEcR2F8fbrcOEV0Q,85012,12.285714285714286
+1918,Super Dragon,0,Chinese,9,SVMR0kRmdd-bbSNTTECJBA,85020,0.0
+1919,Super L Bakery,0,Bakery,17,ez8H1m2C7v2FEiOQGRp44w,85008,0.0
+1920,Super Oscars,0,Mexican,0,tMkLVD60GqCgQ392GWPHIA,85018,0.0
+1921,Super Subs,0,Breakfast,3,maLlY0JVsUfHNK6-RUrG4g,85008,6.428571428571429
+1922,Surf City Tanning,0,Bar,2,9PGhcb_ozHN_qa4ZIFK-_Q,85022,10.857142857142858
+1923,Sushi Ave,0,Bar,2,6eCbK0Fg9N_DbdluVQx-pA,85032,9.428571428571429
+1924,Sushi Brokers,0,Japanese,22,EulFlbKaXT_DXG_xL6-mQQ,85018,12.428571428571429
+1925,Sushi Eye,0,Japanese,22,ng8vj7q4kFt7d4Ud4lBhHQ,85044,9.428571428571429
+1926,Sushi Mishima Restaurant,0,Japanese,22,yDKmcWQ_Zycr4ekLV4CqFg,85018,0.0
+1927,Sushi Sonora,0,Mexican,0,IYedXxcwJJwxv-6DpMPvtA,85008,0.0
+1928,Sushi Style,0,Bar,2,RZFryvOkznd4jtpj8PbSzg,85022,8.857142857142858
+1929,Sushiholic,0,Bar,2,evdJO0v9rvVixieNEnaeJg,85018,11.142857142857142
+1930,Sweet Land Cake,0,Latin Food,20,wWgsKvkbq8rzdGpx5gr-Tw,85018,8.142857142857142
+1931,Sweet Republic,0,Ice Cream,12,cUGFEQOu3_VsOpbvHGx8ZQ,85016,10.285714285714286
+1932,Sweet Republic,0,Ice Cream,12,Wl33gUSRNpWth-Z5li4JwQ,85034,0.0
+1933,Sweet Tomatoes,0,Vegetarian,7,Q6F59ID2Js8Sop2vRcVz-w,85044,10.571428571428571
+1934,Sweet Tomatoes,0,Vegetarian,7,NZAxQxXH0YkSzPOKd_Nv-w,85012,10.0
+1935,Sweet Venezia,0,Ice Cream,12,MdHKtSM-ZX5XSYogBKyGig,85012,0.0
+1936,Swizzle Inn,0,Bar,2,5AzGqv0jjRMXrcRIE1zCvg,85016,16.0
+1937,Szechwan Palace,0,Chinese,9,QdvROupQvDDQIaHrTGNgKA,85008,6.071428571428571
+1938,T C B Y Yogurt,0,Ice Cream,12,QE-4mqpyu662SKtWJcn0WQ,85034,0.0
+1939,T Cook's,0,Breakfast,3,pTZ4u-sEQr-yHq2Cl4EMEw,85018,3.0
+1940,T&J Gyro and Burger,0,Other,1,EFHpf_-SPzShCYiS-nMPWw,85027,6.857142857142857
+1941,Taberna de Tequilla,0,Mexican,0,bLRjPq9-pAdXirAWWTuZzg,85034,0.0
+1942,Taberna del Tequila,0,Mexican,0,JDwUNHYA_-FvxEMRvHniig,85034,0.0
+1943,Taco & Dilla Parlor,0,Mexican,0,MpKFIa0lIaOKSuP6SuDNOA,85020,5.928571428571429
+1944,Taco Bell,1,Mexican,0,manv27dcWwK7reqL-PLDKA,85004,18.285714285714285
+1945,Taco Bell,1,Mexican,0,okX1jSK4-4uPdglVFNYhSw,85027,17.285714285714285
+1946,Taco Bell,1,Mexican,0,-2isRNVb6PDuBagELL5EBw,85029,15.571428571428571
+1947,Taco Bell,1,Mexican,0,jom1Jo6Uufn64Rz6payYSg,85020,17.142857142857142
+1948,Taco Bell,1,Mexican,0,hJJm0DFmG57zwSeNkeIuRQ,85032,0.0
+1949,Taco Bell,1,Mexican,0,B198jEItQSF7xQhRADUW6Q,85008,19.285714285714285
+1950,Taco Bell,1,Mexican,0,VvYRWkQ7u1vVHJYjLhkRlQ,85032,17.285714285714285
+1951,Taco Bell,1,Mexican,0,qL1YWy7auU6K7H68WQxNqw,85022,17.285714285714285
+1952,Taco Bell,1,Mexican,0,1Dfx3zM-rW4n-31KeC8sJg,85016,12.785714285714286
+1953,Taco Bell,1,Mexican,0,nVGPxMooxSiaSH_wHvcRbw,85028,17.285714285714285
+1954,Taco Bell,1,Mexican,0,cCV0q8VV5RZIfcvolWXlBQ,85014,17.285714285714285
+1955,Taco Bell,1,Mexican,0,qB15WElGAlI_eGWjn0kT2w,85032,17.0
+1956,Taco Bell,1,Mexican,0,LEWWOa9E-98t4arAxzA8EA,85016,18.0
+1957,Taco Bell,1,Mexican,0,MvVCSyFIpmKKV8URk0HWIQ,85044,16.285714285714285
+1958,Taco Bell,1,Mexican,0,_cRDDAasE-4584eXN_5Ecw,85008,10.428571428571429
+1959,Taco Del Mar,0,Mexican,0,G9-O-eRMtgsw_pfWXVCEfQ,85018,0.0
+1960,Taco Guild,0,Bar,2,3C5Z9homtzkWHouH2BHXYQ,85012,12.428571428571429
+1961,Taco Mich & Bar,0,Mexican,0,5-_4mHujcNo0PWj3-ybwnQ,85022,16.0
+1962,Tacos Jalisco,0,Other,1,he-JIuJSUxnrr04iyycH6A,85020,0.0
+1963,Tacos Sahuaro,0,Mexican,0,E_DXCeVllZtHV93hsAIZvw,85008,13.428571428571429
+1964,Tacos Tequila Whiskey,0,Mexican,0,lnJlOuHGNRoN2zW_a6Vb7g,85018,10.285714285714286
+1965,Tacos Y Mariscos El Sinaloa,0,Mexican,0,FGM-67-PYuNgdAUq-13drg,85020,8.5
+1966,Taiwan Express,0,Chinese,9,raQFxUEzh8bfHUQLkiNHcg,85008,9.5
+1967,Tammie Coe Cakes,0,Sandwiches,13,F2F6rJ_SPo-lUhJ_AmufLA,85004,8.714285714285714
+1968,Tammie Coe Cakes,0,Bakery,17,6HLyI1VHjBOaxhF-wFVBVQ,85012,0.0
+1969,Tammie Coe Cakes & MJ Bread,0,Bakery,17,d-bPDQLvb1O7vm_dER7RTQ,85018,16.0
+1970,Tammie Coe To Go,0,Sandwiches,13,GmYOYKLbwOcfI2mUcfOFdQ,85034,0.0
+1971,Tandoori Times 3 Indian Bistro,0,Indian,18,ye0-f9tgMC2UFyraGcJWLQ,85029,0.0
+1972,Tapaz,0,Mexican,0,UOJzdIik4wgcy5N96RWtiQ,85034,0.0
+1973,Taqueria Don Beto,0,Mexican,0,HzV-HumF0lauBXlxUh-YDQ,85008,15.071428571428571
+1974,Taqueria El Guerrerense,0,Mexican,0,dHmLezNmX-VW8_Hfryv5tA,85008,12.0
+1975,Taqueria La Hacienda,0,Mexican,0,VJVEDDJKccmrW1fhJCWmsQ,85004,16.071428571428573
+1976,Taqueria Yaqui,0,Mexican,0,02eESJZNF3qigrJ3GNRgIQ,85008,0.0
+1977,Tarbell's,0,Bar,2,RPO5ISR18Xllgk9ahdPepA,85018,4.857142857142857
+1978,Tarbell's The Tavern,0,Mexican,0,giCq1MmW-_S2tvNOAHvJcQ,85018,8.142857142857142
+1979,Tariq Restaurant,0,Other,1,T8hVrSofPfRL3ivEav1SuA,85008,0.0
+1980,Taste of India,0,Indian,18,vFnzV9uy9nEXFQgkSuv_AQ,85022,0.0
+1981,Taste of Thai,0,Thai,19,NBtUS6ihgRMbrk0s8g3RUw,85044,5.428571428571429
+1982,Taste of the Biltmore,0,Other,1,F-dyoTtY6kIPPAJ28Ahuow,85008,0.0
+1983,Tasty Creamery Rolls,0,Ice Cream,12,khtY7Ow_WDJvAN2e9EkFYw,85032,0.0
+1984,Tatum's Restaurant,0,Other,1,EX3wTLh4gOVF7RQ0ulGYPw,85032,0.0
+1985,Tavern on the Creek,0,Bar,2,N0i3Hw7BVNNG17GwZwpg6w,85032,16.285714285714285
+1986,Taylor Place Cafeteria,0,Other,1,AzXrAHkynCzlZVKF7-1uXw,85004,12.571428571428571
+1987,Taylor's Cafe,0,Breakfast,3,r69MorklzaPdxGySgNA19g,85018,8.142857142857142
+1988,Taylor's Place,0,Breakfast,3,hr_lJ5EtUy2U-I9cNQegyg,85018,13.142857142857142
+1989,TCBY Yogurt,0,Ice Cream,12,FXqr19taSFe0oKBUleYyZQ,85028,0.0
+1990,Tea & Toast,0,Breakfast,3,qyOALwyMLbXKSt38glZ7yg,85004,15.071428571428571
+1991,Teakwoods Tavern & Grill,0,Other,1,E6Ne9ok_tHvZIeOdWeh40w,85016,14.285714285714286
+1992,Teaspressa,0,Bakery,17,FyV3uSgmNQNArRBydU3q-A,85004,8.142857142857142
+1993,Teavana,0,Coffee,15,9mLpkJISzg5G1ImVqqe2QA,85016,9.571428571428571
+1994,Tediberto's,0,Mexican,0,ogVW7IF0oC-YEQA_fdSPLQ,85004,0.0
+1995,Tee Pee Mexican Food,0,Mexican,0,YtUaJkgKc1pucwdSq_DQeQ,85018,10.857142857142858
+1996,Tee Pee Tap Room,0,Mexican,0,eajXb034hm_9M6OgN47LKA,85004,8.857142857142858
+1997,Teeter House Tea Room,0,Breakfast,3,VSy3WK0pRM_r4qgEtkj8Og,85004,0.0
+1998,Ten Handcrafted American Fare & Spirits,0,Bar,2,xdD3EXvF_p9WUiwwKpol_w,85016,8.428571428571429
+1999,Terra Java,0,Coffee,15,tuv-XKXejzGNzkRqNFCKiQ,85018,0.0
+2000,Terrace Cafe At Hyatt Regency Phoenix,0,Other,1,p7r2ZiCBrZ3S7mKpNoixUg,85004,0.0
+2001,Tertio Wine Bar,0,Bar,2,Q1LrCiy0D6uqliWKe-BxtQ,85012,0.0
+2002,TEXAZ Grill,0,Coffee,15,6Iu4YDjAPrDRRrPCt_E2zA,85016,11.142857142857142
+2003,TGI Fridays,0,Bar,2,LDgOIEmaABKP7pl3wdgVbQ,85004,10.0
+2004,Thai Basil,0,Thai,19,rCoAHVl3tXXAE_Kl4MVgWg,85012,8.142857142857142
+2005,Thai Basil Signature,0,Bar,2,ueoRWPGrSoZizl1ngBghqg,85032,10.071428571428571
+2006,Thai Hut,0,Thai,19,TQxMhEar6--Wj4Du8nRQsw,85004,8.571428571428571
+2007,Thai Lahna Restaurant,0,Thai,19,x9HvTsA83c5r-muemxw_9A,85018,4.142857142857143
+2008,Thai Thai Kitchen,0,Breakfast,3,Nbhpg1TbDwtMuyh9ZIPceA,85029,9.0
+2009,Thai'd Up,0,Thai,19,SLOk1JpV0JQK-MXYroDKYQ,85004,10.0
+2010,That's a Wrap,0,Sandwiches,13,GqWBT6OcQ9FXTyQ3eegpZg,85014,0.0
+2011,That's Italiano,0,Italian,8,jlv_ciZY7y8c6AeAyskF9w,85018,0.0
+2012,The 5-Spot,0,Bar,2,NUjvyCh_0L5BJsdYf_JtfQ,85022,10.571428571428571
+2013,The Arrogant Butcher,0,Burger,4,yNPh5SO-7wr8HPpVCDPbXQ,85004,10.0
+2014,The Attic Ale House,0,Burger,4,pxv5jBUOgsg6Rf6Z88e4mg,85018,8.285714285714286
+2015,The Bagel Man,0,Breakfast,3,fSBhe0A6Dfa8JCYccfpMog,85044,7.428571428571429
+2016,The Baked Equation,0,Bakery,17,L_49KdGNdUftehCGiNTRtg,85018,6.857142857142857
+2017,The Bakery Phx,0,Bakery,17,m2XTPegLMLCS0wVW6Hpk2g,85014,8.285714285714286
+2018,The Bamboo Club,0,Other,1,mFzIzDJfcZHBpdajg_Em5Q,85016,0.0
+2019,The Bar On Central,0,Bar,2,3_dFwKWcb--3Gu0PotlFMA,85004,6.714285714285714
+2020,The BBQ Daddy Catering,0,Deli,16,8UlyXCkYJEEreWsWPFEJbw,85004,10.714285714285714
+2021,The Beaver Bar & Grill,0,Bar,2,mmZaOPp2BFMmWe6suuJndQ,85029,20.0
+2022,The Bees Knees,0,Bar,2,k-aDBeOyu0_8ExlKyocH0w,85016,0.0
+2023,The Breadfruit & Rum Bar,0,Bar,2,STtrEGylaYOXoXQFLP5OAQ,85004,4.857142857142857
+2024,The Brickhouse,0,Other,1,01Gav7vnilRwSVm3WwkAtA,85004,0.0
+2025,The Brown Bag,0,Breakfast,3,k-fLKf1Qbq08jDrOuNn5ZA,85020,6.714285714285714
+2026,The Capital Grille,0,Bar,2,ymtJtXwsJUClLNDepV1piQ,85016,9.428571428571429
+2027,The Casual Pint Central Phoenix,0,Bar,2,bvI3e1zsAXvidjKm2x7z7w,85016,11.428571428571429
+2028,The Cheesecake Factory,1,Other,1,3oTVApC-eUzpGjrOVxIr5g,85016,12.571428571428571
+2029,The Chill Frozen Yogurt,0,Ice Cream,12,a7q40rE3-0PORdFnFL-1Hg,85016,9.785714285714286
+2030,The Codfather,0,FastFood,11,7dKIMvsTQI6zO-NYdRmrwA,85022,11.0
+2031,The Coffee Bean & Tea Leaf,0,Coffee,15,gQnOzzIX94qZBzyYExlM0A,85034,15.0
+2032,The Coffee Grove,0,Coffee,15,fvQNkzGlMgocLDw768gnNA,85027,5.0
+2033,The Coffee Studio,0,Coffee,15,lORlFMAvKJKBaWefOfUrEg,85016,7.142857142857143
+2034,The Corner CityScape,0,Coffee,15,mGRUkg7YO1fWpfYCqNcR-g,85004,7.0
+2035,The Corner Deli,0,Breakfast,3,jaDTCxAGbK3N9XmO5gvhig,85014,0.0
+2036,The Counter,0,Burger,4,rN-YjZLZifa6lIfcaWrulA,85016,0.0
+2037,The Counter Phoenix,0,Burger,4,LmjBZpQU7nJTIJZYRVO7Kg,85004,9.428571428571429
+2038,The Courtyard Cafe,0,Coffee,15,kQbo5EmBXphXfLFddMqsug,85004,4.0
+2039,The Covenant,0,Bar,2,xS5HGqgk0KY2jFWU-l_nrA,85028,16.0
+2040,The Crepe Club,0,Breakfast,3,uTCOEqjuVAXUOzti5TWj2Q,85016,12.071428571428571
+2041,The Cupcake Cafe,0,Coffee,15,2oQuTgkhY7QlVdfMa8cHgA,85016,5.428571428571429
+2042,The Daily Grind,0,Coffee,15,CBKlwam3LBMcdJ8BG3Jvwg,85004,6.785714285714286
+2043,The DawgFather Grill,0,FastFood,11,aHGMuoyQH_33pVwr0rPsmg,85012,0.0
+2044,The Downtown Deli,0,Breakfast,3,3Z2H8TFW5OTubRrwkRejpw,85004,5.714285714285714
+2045,The Draft Room,0,Bar,2,ixY17QjABqz6AnhVOdjKQg,85004,0.0
+2046,The Draw 10 Bar & Grill,0,Bar,2,z0u9j-KiHhVudHi0hs19GQ,85034,14.142857142857142
+2047,The Dressing Room,0,Burger,4,aXRrMXXoAN7lawHICgmsxw,85004,12.142857142857142
+2048,The Duce,0,Bar,2,E9IPxXY6pS2gTW2FBkAJmg,85004,11.571428571428571
+2049,The Flight Line Bar and Grill,0,Bar,2,e7ii4a_E8lm2uIU2AQrNAg,85027,16.0
+2050,The Flying Pigeon,0,FastFood,11,qWJ447hXHCl1K4nVEX-ZKQ,85014,1.5
+2051,The Gelato Spot,0,Bar,2,dg5cg298SXZVMo4ZEwSUtg,85016,14.0
+2052,The Gladly,0,Bar,2,90bL34o2KEes9pUnCOm7pQ,85016,10.357142857142858
+2053,The Good Egg - Park Central,0,Breakfast,3,XUlQ4BVoZH6rnAT40cYGOQ,85012,8.0
+2054,The Great American Grill,0,Other,1,oR0gq3wNyDrpDu1FQNtB3Q,85027,0.0
+2055,The Great Dane Restaurant,0,Sandwiches,13,gaVbK3SlRnOAWWVyyu3SVA,85014,7.714285714285714
+2056,The Great Escape Lounge,0,Bar,2,j3KXQqbfiMrd8wM1kfgQvQ,85018,0.0
+2057,The Greek Patio,0,Other,1,uROK_uSad5_WbKlTyKPMOA,85022,0.0
+2058,The Grind,0,Bar,2,siXCBrVFOXicbM2R-33-8w,85018,11.571428571428571
+2059,The Habit Burger Grill,0,Burger,4,9d3xGYst3o4KhDwhF2dFMg,85032,11.357142857142858
+2060,The Habit Burger Grill,0,Burger,4,HpRsWkYHu-pumsZ4O_Linw,85014,11.5
+2061,The Haymaker Restaurant,0,Breakfast,3,NWlNMG_eBIvDjCcHK46eDQ,85032,12.0
+2062,The Henry,0,Breakfast,3,LelAlfuj5oVRF9CQdWLsNQ,85018,12.0
+2063,The Henry Coffee XV,0,Coffee,15,3bZXoLpjE5nqKk-m8ikgrw,85018,15.642857142857142
+2064,The Herb Box,0,Bar,2,oyCRc4Zs2RkKOHy9IAa3wg,85014,10.0
+2065,The Hideaway Lounge,0,Bar,2,7dknBIz2kFgb-2r5K4KHFQ,85018,19.0
+2066,The Human Bean,0,Coffee,15,SBDq5PMLK0-gPVl-lsLQYw,85029,0.0
+2067,The Joy Bus Diner,0,Diner,10,_O2_jwNT_3FDaSRZ50jvrw,85028,6.0
+2068,The Joyful Bakery,0,Bakery,17,GUxp7_u7ik3XF8l-Z7Xphw,85022,10.0
+2069,The Larder + The Delta,0,Other,1,wIDVruCZFDnsIctf8gHotA,85004,10.571428571428571
+2070,The Little Woody,0,Bar,2,LR1JNvpNrx2N4HNAyhHvrg,85018,10.0
+2071,The Lobby Grill,0,Other,1,2W7ATgSmo2hnTM3e8081VA,85044,15.0
+2072,The Local,0,Bar,2,b2E_ahQNhMBu7soQIG2Gow,85004,6.571428571428571
+2073,The Local Yeti,0,Bar,2,BR0jIEOP8nzWjBRdsa2aDA,85034,2.0714285714285716
+2074,The Lost Leaf,0,Bar,2,ASdpD0gdrOZ7dPh2RS-fJg,85004,9.0
+2075,The Lounge,0,Bar,2,ohDvHtWVpCJ_6b1UrjGRPg,85020,9.285714285714286
+2076,The Lunch Lounge,0,Breakfast,3,_mqUzNXs_sJ1EJYgYZYszg,85008,5.714285714285714
+2077,The Madison Deli,0,Deli,16,G09gS1axuc2eqbqqwTMaLw,85016,5.714285714285714
+2078,The Market Restaurant + Bar,0,Breakfast,3,xmAakatNKpvIJ-Fmq5swCw,85018,8.857142857142858
+2079,The Meat Shop,0,Other,1,jAhLbtc8rKgSW38NbohvWg,85004,7.714285714285714
+2080,The Melting Pot - Phoenix,0,Coffee,15,-9eNGMp8XiygI8t8QFuFWw,85044,6.571428571428571
+2081,The Mix Up Bar,0,Bar,2,bBxctA7YVbZgpExmsVK7tg,85018,13.0
+2082,The Monastery,0,Other,1,m5GAwjag7n2B8HsfqqRECg,85016,0.0
+2083,The Nile Cafe,0,Other,1,1f_-jV4oJsiNSgpy8SaF8g,85004,0.0
+2084,The Nosh Cafe,0,Breakfast,3,VKVDDHKtsdrnigeIf9S8RA,85044,7.714285714285714
+2085,The Notorious P I G,0,Bar,2,mic2Qh5eWrp6ppDwTE6cLQ,85032,11.0
+2086,The Oink Cafe-Phoenix,0,Breakfast,3,gugN1sgyheBJ6aKtNcv_gQ,85032,7.0
+2087,The Ol Pizzeria & Cafe,0,Pizza,5,HkLoNKk2aYhuUKgKCNU0tw,85029,10.285714285714286
+2088,The Old Spaghetti Factory,0,Italian,8,oryS4vX0xkKC4tOekgowDQ,85004,10.5
+2089,The Original Burrito Company,0,Mexican,0,QDRFdG8gPPKL7r4yic8j7Q,85044,13.357142857142858
+2090,The Original Rainbow Donuts,0,Sandwiches,13,ZOpiqtjJlcC8-VctNHE8xg,85032,11.0
+2091,The Other Q Bar and Grill,0,Bar,2,J38kYZWsoYpeXBZB37lnKQ,85027,17.571428571428573
+2092,The Park,0,Bar,2,YlwJYpBWa-oL0byTVPNKRQ,85004,13.285714285714286
+2093,The Parlor,0,Pizza,5,k1QpHAkzKTrFYfk6u--VgQ,85016,11.142857142857142
+2094,The Phoenix Ale Brewery,0,Bar,2,GAKFx4jFUtTOTpp_jDJnuA,85034,6.857142857142857
+2095,The Phoenix Ale Brewery Central Kitchen,0,Bar,2,EM4Qo0Tm40H8Nfk3s8Dy0g,85014,11.142857142857142
+2096,The Phoenix Cheesesteak Co,0,Sandwiches,13,9AI96ikMEJv7e0WIfz0mjw,85004,5.0
+2097,The Phoenix Cheesesteak Co,0,Coffee,15,Cww83XXwbBABUbeCGSKWRQ,85027,2.857142857142857
+2098,The Pie Hole,0,Bakery,17,UE_4vdEGfH_1UMzAq69Cag,85004,8.714285714285714
+2099,The Pizza Buffet,0,Pizza,5,ALouXcCfsrnbpNEpO9-Y3A,85032,10.285714285714286
+2100,The Playa II Bar and Grill,0,Bar,2,uP21QeqzU5E3azBk2_GDsw,85028,19.571428571428573
+2101,The Porch,0,Burger,4,Kr2EJ05h5BXHlytYBgShGw,85018,15.285714285714286
+2102,THE POST,0,Mexican,0,olcmJozm8Oq0yTQHGAJYfw,85034,17.0
+2103,The Rebel Lounge,0,Other,1,sF_cT9_jMwWJsb5z2KXPHQ,85016,0.0
+2104,The Refuge Coffee & Wine,0,Breakfast,3,zJ__js7-Cx_wU4GhdBdeRA,85034,15.0
+2105,The Rocket Truck,0,Pizza,5,w6JuMJTyLB7vwDqBvtMiTQ,85018,0.0
+2106,The Roosevelt,0,Bar,2,fSFzgt_QzJRUN0qNzTAwig,85004,0.0
+2107,The Rose and Crown,0,Bar,2,OGRB__fguKfGpPdH7FvBDA,85004,15.142857142857142
+2108,The Shuka Shak,0,Pizza,5,HtDqG-J4yumWEVf-YA4Tdg,85014,9.5
+2109,The Sicilian Butcher,0,Italian,8,EDcZRvERC22Cvw1yi4-VKg,85032,11.285714285714286
+2110,The Stand,0,Burger,4,Wc9UpJhOcdSj7olZkz7SJA,85018,11.285714285714286
+2111,The Strand,0,Italian,8,iwzVhM5CirzkNS5wTxwZeA,85004,8.857142857142858
+2112,The Sub Shop,0,Sandwiches,13,SC4J9kQJ5-bYjXCTVxHXzA,85034,0.0
+2113,The Tamale Store,0,Mexican,0,4aF5GfnVkJPj9IwJ2yxPtQ,85022,6.571428571428571
+2114,The Tav,0,Bar,2,gvOBAPUAhYrPn5bZlPmkmg,85027,0.0
+2115,The Turf Public House,0,Bar,2,PbTh7aX0_yyaXFOXAlhI4A,85004,16.0
+2116,The Vault Cafe,0,Breakfast,3,nQlMWmJ-Zp3Zcpr4wZoVcw,85016,4.285714285714286
+2117,The Velo,0,Bar,2,r0XYcXQ_uaF6fTY1m_73gQ,85004,7.142857142857143
+2118,The Vig,0,Bar,2,flE7Sn2JGs0n3SAtaep6Zw,85018,15.285714285714286
+2119,The Vig Uptown,0,Other,1,FirWX-Ep5203TsdiGgShKg,85016,13.714285714285714
+2120,The Vitamin Shoppe,0,Other,1,jcKTv6uj4DoQ22othSO2uQ,85029,11.142857142857142
+2121,The Vitamin Shoppe,0,Other,1,YWCXai1O0kVNClmSHKFghw,85016,10.428571428571429
+2122,The Wandering Tortoise,0,Bar,2,v89mTnhtPx35o0zawjIyaQ,85016,14.142857142857142
+2123,The Water Connection,0,Ice Cream,12,NEinRS0q-WZeSSVoTI7avQ,85018,7.714285714285714
+2124,The Whining Pig- Arcadia,0,Bar,2,XaPJUDiidOOdAMhTTIlTxw,85018,9.785714285714286
+2125,The Wok Express,0,Chinese,9,aJR1iUWwNVBM692gq7adBA,85034,9.857142857142858
+2126,The Womack,0,Bar,2,QhCzkwMzNa6aSFnsQuFPeQ,85014,10.0
+2127,The Wrigley Mansion Club,0,Breakfast,3,l-Cu_WkJt5R1v71ecYeqsA,85016,7.714285714285714
+2128,The Yacht Club,0,Italian,8,yJkYsl0hOlG2-ITBe16ZIA,85018,6.285714285714286
+2129,The Yard,0,Bar,2,8-_jXGGDFPFAPB4r1x-81w,85014,12.714285714285714
+2130,Thirteenorth Grille,0,Burger,4,VbuqVOVUT4HYXKI6B_S59A,85020,11.0
+2131,Ticoz Latin Kitchen,0,Mexican,0,ms7cmWkPiSBDTnz-1sv2kQ,85014,11.428571428571429
+2132,Times Square Pizzeria,0,Pizza,5,u9R0_pvEkl7QGPJYH3j1sg,85027,15.857142857142858
+2133,Tiny Little Chef,0,Deli,16,NSo6_fuGxH-t0WVM8zskBw,85012,0.0
+2134,Toast Breakfast Boutique,0,Breakfast,3,eC_279B9YmCELFykDeKxjQ,85004,6.0
+2135,Tokyo Express,0,Japanese,22,Vw4m_3DyDQgMPU8ouj86ZQ,85014,10.5
+2136,Tom and Lin Catering,0,Other,1,0WBh9dCbwsBqkxSqHL0j-A,85032,0.0
+2137,Tom Yum Downtown,0,Vietnamese,23,bI4emjU96ZvGQRTwxItd2w,85004,10.714285714285714
+2138,Tom Yum Thai Restaurant,0,Thai,19,fXzMs__3HjTYwKPMAb4jYA,85032,10.0
+2139,Tomaso's,0,Italian,8,aNYunG3j5zNJ4F0dQcZMyQ,85018,4.928571428571429
+2140,Tommy Pastrami,0,Breakfast,3,lCI3S_Tb16uW3TOk-wMizA,85004,9.928571428571429
+2141,Tommy V's Osteria & Pizzeria,0,Pizza,5,mJYzopHZZEXVJJrsue34aQ,85018,9.571428571428571
+2142,Tommy's Place,0,Pizza,5,h-bBnFFTZ2cNiuBMFu2UaQ,85032,11.5
+2143,Tom's Tavern,0,Other,1,SdGgFPQrIzFlsrcWQ8MKMA,85004,8.785714285714286
+2144,Tony's Italian Delicatessen,0,Italian,8,Ks13abA-KZWAA6FMQagQmg,85020,9.0
+2145,Topline Foods,0,Deli,16,4X2wKGRvcHpkLZDL0IBU7Q,85027,3.0
+2146,Tortas el Rey,0,Mexican,0,Ynm7H4c2ll5vZEX3iLdxmw,85008,0.0
+2147,Tortas Paquime,0,Mexican,0,daqYMX3Y4QR8xl-BUlYBPw,85008,0.0
+2148,Toso's Bar and Restaurant,0,Bar,2,YyAtR1t_xkFWybUrX95sgw,85027,15.0
+2149,Total Wine & More,0,Bar,2,xR7srTzHPLGqhAxKwVAyYw,85016,12.857142857142858
+2150,Totally Baked Cookie,0,Deli,16,z2LzzuzC8BjQcojQjd4tDQ,85008,5.142857142857143
+2151,tot's n tot's of burgers,0,FastFood,11,hcEA0hkZfn7uBcVSC9hMKw,85034,0.0
+2152,Tower Bistro,0,Breakfast,3,x2Ckn6HgwUP4loclkSyhuw,85004,4.642857142857143
+2153,Trader Joe's,0,Bar,2,p3cBYY8Tov5TOaXV2aY-wA,85016,13.0
+2154,Tratto,0,Pizza,5,GmgAToSKHnnB3BUtp9eQzw,85016,3.7142857142857144
+2155,Trattoria D'Amico,0,Bar,2,cpkBJhBujpBFZ0rOItE-4g,85044,9.142857142857142
+2156,Triple Delight Bakery,0,Bakery,17,b5yYXypziUwljW6Ay8oDpg,85032,5.571428571428571
+2157,Triple Dot Food Truck,0,Latin Food,20,ceA0KTze09-0bHpOv0runw,85004,0.0
+2158,Tropical Smoothie Cafe,0,Bar,2,A4zKbHT1udV4gcd37HEuZQ,85016,13.714285714285714
+2159,Tropical Smoothie Cafe,0,Breakfast,3,0jaD7X39dXE8DxJYIaxSDg,85029,0.0
+2160,Tropical Snowflake Raspados,0,Mexican,0,QVHKpXJ3fRNMvin0Yvb4Yw,85008,10.0
+2161,Truckin' Good Food,0,French,6,kYATtIsqVEoawS47UcSlDA,85044,0.0
+2162,True Brew Coffee,0,Breakfast,3,JSNc3GdNH3LpE3HdTQl17w,85022,8.142857142857142
+2163,True Food Kitchen,0,Vegetarian,7,XMMLRvV4IMxIGyc4H37LxA,85016,10.571428571428571
+2164,Tucchetti,0,Italian,8,8yuiiWDfq3yJI6qpa99A1w,85016,0.0
+2165,Turmeric Indian Cash and Carry,0,Other,1,pkqihTBJgSjTS5a7HFer4Q,85022,11.571428571428571
+2166,Tutti Santi,0,Italian,8,roz-ed8kvBF6fwKBPeJ49Q,85020,5.285714285714286
+2167,Twelve Cakes Bakery,0,Bakery,17,sEdAKeMx23AGCbvploB7Uw,85022,5.285714285714286
+2168,Twelve Cakes Bakery,0,Bakery,17,FG06iyLvLPuf4beHhxUyeQ,85022,5.714285714285714
+2169,Twenty Highland Tavern,0,Bar,2,UC2J3v00-n8WE34BGs2HEw,85016,10.5
+2170,Twin Peaks,0,Bar,2,CKoDbOpF_CSyy6_lttqjKg,85016,13.642857142857142
+2171,Twirl,0,Ice Cream,12,VMCLHzIIGlJaXGxxFhAEvA,85012,11.285714285714286
+2172,Twisted Fork Cafeteria MIHS,0,Coffee,15,XaMhnNJqHlYdjky-zgHG_Q,85008,0.0
+2173,Twisted Grove Parlor + Bar,0,Bar,2,3dsvREiTlmGaaBjsBS4dwQ,85016,11.0
+2174,Two Hippies Beach House,0,Mexican,0,JYLwnsfl6OaF5-GCYRNGGw,85020,0.0
+2175,Two Hippies Beach House,0,Mexican,0,W537pidoTVQmn9x1GPpxgA,85012,8.142857142857142
+2176,Two Hippies Beach House,0,Other,1,V8qX2nhSmuf-CR_cQPqeNA,85014,0.0
+2177,Two Hippies Beach House - Bell Road,0,Mexican,0,rqS1ywhjBrxJrVNri7pfXA,85032,8.571428571428571
+2178,Two Hippies Gnarly Burger Joint,0,Burger,4,sm0stXMEmnR4fjAAVbCYtw,85018,0.0
+2179,Two Hippies Pizza and Burger Joint,0,Burger,4,1AYcrBPjJdwcYUivLj8lDg,85016,6.857142857142857
+2180,Two Sisters' Thai Food,0,Thai,19,CR-gLUcudD0AQr7dzASgLA,85022,8.714285714285714
+2181,Uberrito,0,Mexican,0,Y_9f9tzVRaXjfT9Fa5_W9A,85018,10.0
+2182,Uncle Bear's Brewery,0,Bar,2,82I9SSilxh3zL8F1UQ45Xw,85044,12.0
+2183,Uncle Matteo's,0,Italian,8,n1kiEJzNkjGHae4hgbr_ZQ,85020,8.0
+2184,Uncle Sam's,0,Burger,4,vsafIOqyblej4784tqbUhQ,85028,12.285714285714286
+2185,"Uncle Tony's Bagels, Deli & Pizza",0,Pizza,5,vEHMQwAwbV0n9ZWmk3zWWw,85012,6.428571428571429
+2186,UnderTow,0,Bar,2,U1VRdnJgCSOujL7vnGwKxw,85018,8.571428571428571
+2187,United Lunchadores Street Gourmet,0,Mexican,0,A2eA3LRbptrexCGw8fu67Q,85020,5.071428571428571
+2188,Unlimited Coffee,0,Ice Cream,12,lMPSwfFtsZiNRTiF4wEc-w,85020,0.0
+2189,Urban Beans Cafe & Bar,0,Breakfast,3,seYvTmOZGJ2IAMdfQa8pkg,85014,0.0
+2190,Urban Taco,0,Mexican,0,75u8X_saAIETRHgpECi8YA,85016,10.142857142857142
+2191,Urban Wok,0,Chinese,9,ViFDeMpfxe0EdIgOhX48Kw,85004,0.0
+2192,U-Swirl,0,Ice Cream,12,5XCunhx5uGIdzOSCAjEEWg,85027,12.285714285714286
+2193,Valero,0,Other,1,uGgpid8mxYGkYLxpqRnQZg,85016,0.0
+2194,Valle Luna,0,Mexican,0,zbrFk-4ejesAJD8EwcdHxg,85032,11.285714285714286
+2195,Vape-It Up AZ,0,Bar,2,RNsTBxgJFCHRBkvNSi5XIg,85032,10.571428571428571
+2196,Vapor Vortex,0,Bar,2,t_0xvtgKzTAuI4iOpUP59g,85018,11.142857142857142
+2197,Vaquero's Carne Asada,0,Mexican,0,SvoIBKec8s1kOARX_3EKXw,85016,0.0
+2198,Vatra,0,Other,1,s12oLxflAR5DEObZd0VASg,85018,6.0
+2199,Velocity,0,Bar,2,mHVG0sTPidNpBq-iDV4OhA,85016,0.0
+2200,Venezia's New York Style Pizzeria,0,Pizza,5,OASX1Yrgq_7R1PsYpixRcw,85032,11.785714285714286
+2201,Veranda Bistro,0,Breakfast,3,i1dyYv69qmZkV3-ZvyZ_cg,85020,5.714285714285714
+2202,Verde,0,Mexican,0,KYo0OqRr-q-TM2o66MBJYg,85004,8.0
+2203,Via Delosantos,0,Mexican,0,50NTSGbZ3pN5643_K1IReA,85020,10.571428571428571
+2204,Viad Tower Restaurants,0,Sandwiches,13,TqTbwybBsgSVPdLWRcdtpw,85004,0.0
+2205,Victorian Cake Company,0,Bakery,17,sq_N-Ml5toHVKOYXs3nuFw,85022,5.714285714285714
+2206,Villa Italia Ristoranti,0,Pizza,5,RhSi82sDhswGF3MyxCpkUg,85020,8.142857142857142
+2207,Village Inn,0,Breakfast,3,WuqxWXHS9hQx-lOcNlVVTg,85032,18.5
+2208,Village Inn,0,Burger,4,CuHYFYUFT5PrVqGj0a4_8Q,85022,18.5
+2209,Vincent Market Bistro,0,Pizza,5,in3zjiaLpNzr9G3K35gAJQ,85018,12.142857142857142
+2210,Vincent's,0,Pizza,5,pEFO_hU3DNA61XnIpVGkJQ,85044,10.142857142857142
+2211,Vincent's On Camelback,0,French,6,Tl2nqtPXlLbAG3qkUYVM2g,85018,3.5714285714285716
+2212,Vincent's Saturday Camelback Market,0,Other,1,7ZV8nQj4a6wbVqLObze3DA,85018,0.5714285714285714
+2213,Vitamin T,0,Mexican,0,HRAJCzcUUE3k_7lwKcyiGA,85004,9.714285714285714
+2214,Viva PHX: A Downtown Music Festival,0,Other,1,V-gfM9D_9evsTeuIBz6ufg,85004,0.0
+2215,Vogava Coffee Roasters,0,Coffee,15,8Z9kijurkcRurq3q3w7fPQ,85032,5.857142857142857
+2216,Voodoo Daddy's Magic Kitchen,0,Other,1,lM406tzHK0HlKtyQxz85EA,85032,0.0
+2217,VRphx,0,Other,1,3_IBE71MMf1NAkj9SqLP1w,85032,10.428571428571429
+2218,Waamo Restaurant,0,Other,1,r3jVxgGPdjZd1II19dSbBg,85008,0.0
+2219,WaBa Grill,0,FastFood,11,XdhoZK1LYGYmmnUwpFNV-w,85032,12.0
+2220,Waffle House,1,Breakfast,3,TEqsEqIRFSQdDm8jwPHdkw,85034,0.0
+2221,Waffle House,1,Diner,10,uCHdWwomBaXwBkUww5kYGQ,85027,0.0
+2222,Wagon Yard,0,Breakfast,3,UHMnvEITSspCVWTGRIKRaQ,85032,14.857142857142858
+2223,Walgreens,0,Other,1,RiBGaJb2mdNdI49MobktEg,85022,14.0
+2224,Walgreens,0,Other,1,dmPcvYgCYW5WYCuIk2DWXw,85027,14.0
+2225,Walgreens,0,Other,1,rxvKy4umkp_TfJGs9rOgyA,85014,14.0
+2226,Walgreens,0,Other,1,z0z1KF6wyAALOtMBOp00qg,85018,0.0
+2227,Walgreens,0,Other,1,nyYqrRx-8elblB_ylFQ28g,85028,0.0
+2228,Walgreens,0,Other,1,aM4n0rxb0omPJZj-_q3pbA,85018,14.571428571428571
+2229,Wally's American Pub N Grill,0,Sandwiches,13,w1S46TdjMdQj-zCZoXPd4Q,85018,10.0
+2230,Walrus & The Pearl,0,Bar,2,ec9mv9cUMObXqyh3yjgIbA,85004,9.285714285714286
+2231,Wanderin,0,Bar,2,dGIaob2QCDxwbz0VSg1LjQ,85008,0.0
+2232,Wang Express,0,Chinese,9,fseN-tYwcbjtYm7DjjEjLw,85032,10.0
+2233,Water And Ice,0,Ice Cream,12,bSja2oCB8VunhYpHaMj9cw,85018,13.0
+2234,Water and Ice Ahwatukee,0,Ice Cream,12,nKcAkb0sKbAyDqu3Qgh_mA,85044,9.0
+2235,Water N Ice,0,Ice Cream,12,1N6_FgS6nq5eT_3x4MXm4A,85029,0.0
+2236,Weather & Coffee,0,Sandwiches,13,NKXSQHhg3Lc2I3JiBaXkyg,85032,8.0
+2237,Wendy's,0,Burger,4,T6ihfy4SYiF4PvuE6Y0VPA,85034,15.0
+2238,Wendy's,0,Burger,4,Qyg-cSYZyMQhSlS8vEz1bQ,85044,0.0
+2239,Wendy's,0,Burger,4,onhURB5hb6tKukQNPcBADw,85027,0.0
+2240,Wendy's,0,Burger,4,gwM0ykDKKpKgKzwtU5djqg,85032,14.0
+2241,Wendy's,0,Burger,4,gkIyPrNGpF4EGqoYWe2KBQ,85032,0.0
+2242,Wendy's,0,Burger,4,lZUCbZkCpS6bvgcxAuYS5Q,85027,13.0
+2243,Wendy's,0,Burger,4,TAAhxi9Tml-8wHZWbZc2UA,85012,0.0
+2244,Wendy's,0,Burger,4,tUrzToG0DOOO9gJqoWSRnA,85016,19.0
+2245,Wendy's,0,Burger,4,a-uvQrruzDQ9E2SVIPOAHg,85029,14.0
+2246,Wendy's,0,Burger,4,GdV24nwlR29MPqNXFglZnQ,85022,0.0
+2247,Wendy's,0,Burger,4,ck8kvKV33VvPrv_E4kbh1w,85034,0.0
+2248,Wetzel's Pretzels,0,Bakery,17,vjTVxnsQEZ34XjYNS-XUpA,85032,10.428571428571429
+2249,Whataburger,0,Burger,4,zLsgXEuw0jaiQgZmLWUtFA,85032,0.0
+2250,Whataburger Restaurants,0,Burger,4,osVODz4p1KPslQU4cuU1sg,85020,0.0
+2251,Which Wich,0,Italian,8,b83NNHvvWQk-DTTzs-3WLA,85028,10.571428571428571
+2252,Whisked Away,0,Other,1,VD8989birn2eGswfydsgQg,85018,0.0
+2253,Whiskey River Saloon,0,Bar,2,tU99Fl1_3HQV2Ww6-XxWkQ,85032,20.0
+2254,White Cup Coffee,0,Coffee,15,aXgF2q1ciYIwUS2ULNNCgQ,85018,9.5
+2255,Whole Foods Coffee Stand,1,Bakery,17,XTUFys7dzAA3sO4HXWJavw,85016,0.0
+2256,Whole Foods Market,1,Other,1,RrXlDMjW30v2KatCxOobdQ,85028,15.0
+2257,Whole Foods Market,1,Other,1,qnyTJ39UXke3aAS0gdWsww,85016,15.0
+2258,Wild Bunch Catering,0,Deli,16,e3zDFwCYDo4ShQyO2QUn_w,85032,0.0
+2259,Wild Game Grill,0,Bar,2,p3JG2He3UptGY0eqc2YX8g,85016,8.571428571428571
+2260,Wild Thaiger,0,Thai,19,Ak08F6RqjHYmVCzweBbTrQ,85004,9.428571428571429
+2261,Wild Tuna Sushi and Spirits,0,Bar,2,ZGtWgDcgU6bYq4opGMH9cA,85022,3.2142857142857144
+2262,Wildberri,0,Other,1,JmpKrJdlATqWQJ2WRmZqBw,85022,0.0
+2263,Wildflower Bread Company,0,Breakfast,3,TubbskG3TSU9TpgFFH2How,85027,14.571428571428571
+2264,Wildflower Bread Company,0,Breakfast,3,w-q9UTLqk6njQWOJEWelwA,85034,0.0
+2265,Wildflower Bread Company,0,Breakfast,3,3Hu-IPhq5I_jyb3YfeHpGQ,85018,14.571428571428571
+2266,Wildflower Bread Company,0,Coffee,15,Ayt0hEO4siFH8h4lsCa4VQ,85034,0.0
+2267,Williams-Sonoma,0,Other,1,prGGdpeqi6DU4t_RfdO0Dw,85016,9.857142857142858
+2268,Willie's Taco Joint,0,Bar,2,g384tK63QxXXm3UNhtGMuA,85004,11.714285714285714
+2269,Windsor,0,Bar,2,cTJjTKz2huGZ-ElScC2pSw,85012,12.714285714285714
+2270,Winestyles,0,Bar,2,AzZldizu_tF9plrxsj0JGQ,85028,9.428571428571429
+2271,Wingettes,0,Other,1,0MVUQtakauK3qKqfIcQWiQ,85032,8.571428571428571
+2272,Wingstop,0,Other,1,9y1uLUHxZ3m_4KzydQj9YQ,85018,13.0
+2273,Wingstop,0,Other,1,ytrjNSTjtkBopBLtHDSnlQ,85020,13.0
+2274,Wink 24,0,Pizza,5,XmxRXzCFkzQK23kkHgUgLA,85016,9.928571428571429
+2275,Wong's Chinese Dining,0,Chinese,9,h7As2jB8bhfFxCMCvdssWA,85034,3.857142857142857
+2276,Woody's Macayo,0,Mexican,0,V_RD57ea9ATcoryET1vTkA,85012,15.0
+2277,Wren House Brewing,0,Bar,2,JTl1nXrukJTScI0Uz0x2Fg,85008,10.142857142857142
+2278,Wright Bar,0,Bar,2,wuBGY61_1-udSHUrOkM82w,85016,0.0
+2279,Wrights at The Arizona Biltmore,0,Breakfast,3,b1m_PK-ggGR3CmBjdIyqkQ,85016,4.0
+2280,WtfExp,0,Burger,4,iiuEt92eGGy_fTvywsTBbA,85034,10.285714285714286
+2281,Wynder Dogs,0,FastFood,11,Va-VdrGmGiqJ4KfLnCk6Yg,85012,0.0
+2282,Xanadu Coffee Co,0,Coffee,15,dNuWjWeEBmPS4xmt2iI-EQ,85004,0.0
+2283,Xhale Hookah Lounge,0,Bar,2,OCal0YThkKYW10BL_rK_AA,85022,12.0
+2284,Ya Hala!,0,Other,1,jFVcpqn1Q85AEDGQDv91mg,85022,9.142857142857142
+2285,Yakiramen,0,Bar,2,M3uV9Y3EDSpy9d4YwyNSAQ,85029,6.285714285714286
+2286,Yama Sushi House,0,Bar,2,yCK1Ok69D7TSWJESZQZHiQ,85012,9.0
+2287,Yasu Sushi Bistro,0,Japanese,22,oZcbn7ENit23xbCsyu9xbA,85032,3.142857142857143
+2288,Yin Yang Self Serve Frozen Yogurt,0,Ice Cream,12,5GslSGCDT3gXei0kKR-P3g,85032,0.0
+2289,Yogis Grill,0,Bar,2,8PaMGALpL7FwwdUy7eK4ZA,85029,10.357142857142858
+2290,Yogis Grill,0,Japanese,22,RQdKieW9hqg898d_S2WwRA,85016,10.071428571428571
+2291,Yogis Grill,0,Japanese,22,bJy-0_F6V7ZX4lz1yU1k8g,85004,8.071428571428571
+2292,Yogurt Mart,0,Ice Cream,12,d6LR3wI6Wntv2Dtn0l5xjA,85028,0.0
+2293,Yogurt Time Downtown Hangout,0,Bar,2,wYVHHnA3ttwpbeyjNXopDQ,85004,10.571428571428571
+2294,Yogurtini,0,Ice Cream,12,LdSIXJeWpK5u8tq-nKxQ1w,85022,13.0
+2295,Yogurtini,0,Ice Cream,12,JWwOvFDYS7V41heXM8_5rA,85004,12.0
+2296,Yogurtology,0,Ice Cream,12,fEqbLLqRw0fQrHM1xB070A,85034,0.0
+2297,Yoshi's,0,Japanese,22,PZv-i2kxrueX1uK2qaM5tw,85016,8.5
+2298,Yoshi's Asian Grill,0,Other,1,rSCevr5tQJTxPzMIq3n5Gw,85034,0.0
+2299,Yoshi's Restaurant,0,Japanese,22,CGd8erq6Ojn834pQ0gpRqA,85012,9.642857142857142
+2300,Yumberi Yogurt,0,Ice Cream,12,gU8u0sczhS0nXQuGqJ12tw,85032,11.285714285714286
+2301,Yummies Yogurt,0,Ice Cream,12,qeQjp9pa9PkyXDv9P5l4Ow,85044,11.285714285714286
+2302,Yunan Wok,0,Chinese,9,6eUJ3BbrP7tsEKwYhMI4_Q,85032,9.0
+2303,Z Pizza,0,Pizza,5,Hbz1hcWjiUyIaN5dV1sNcQ,85029,0.0
+2304,Zabari Mediterranean Grill,0,Other,1,ahfAFuFHO9tfFkoBIkVdmg,85032,7.142857142857143
+2305,Zam Zam World Foods,0,Indian,18,33yClygMVQZb5y9WgOCHLA,85008,0.0
+2306,Zaytoon Kabob Bistro,0,Other,1,8RnOU6PLyOk3qHV1kZ4hcg,85044,9.285714285714286
+2307,Z-Bucks,0,Coffee,15,wuze9cv8NS72Tt44yawjkA,85008,23.5
+2308,Zella's Pizza & Cheesesteaks,0,Pizza,5,QyFciCaAJkniP506PP43ng,85022,11.5
+2309,Zen Zen Yogurt,0,Ice Cream,12,1fX9x47Xm6vIr8sHxQHdsw,85018,11.0
+2310,Zest of India,0,Indian,18,aRRV_ZbRiD65SIi7vAY-iA,85032,0.0
+2311,Zesty Zzeeks Pizza and Wings,0,Pizza,5,0rjU_WK5HxoH1fIuEpTpcg,85044,12.857142857142858
+2312,Z-Grill,0,Indian,18,6aDfalYZOkWzwtVRA2wYaA,85008,0.0
+2313,Ziggys IL Posto,0,Pizza,5,mDiFWhywAziq9SKnj6am_Q,85020,8.142857142857142
+2314,Zinc Brasserie,0,French,6,XcWlBj5oQgzKhR7Cxovj3w,85034,0.0
+2315,Zipps Sports Grill,0,Bar,2,rOKEgdzmhzT99Ob_OmPE0Q,85018,13.928571428571429
+2316,Zipps Sports Grill,0,Bar,2,wERcL1KznuTgfltSKQt_jg,85014,13.928571428571429
+2317,Zipps Sports Grill,0,Burger,4,JRo3APL5f4-TEkuI-SoDcA,85044,13.928571428571429
+2318,ZK Grill,0,Other,1,f_E7mOwfpujpndlnX8-O8A,85016,0.0
+2319,ZK Grill,0,Other,1,OwZM33ZI8LZVknaLICWIhw,85032,9.285714285714286
+2320,Zoom Espresso,0,Coffee,15,Q8y1q58GYSU0Lnp1DFJvtw,85012,0.0
+2321,Zorfs,0,Breakfast,3,FSRo44VhHZpkyQ_uht1AMA,85014,16.0
+2322,Zoyo Neighborhood Yogurt,0,Ice Cream,12,mwex6DE5txdjblHMlHUkhw,85018,11.285714285714286
+2323,Zoyo Neighborhood Yogurt,0,Ice Cream,12,iObLvZHRZ0RLTQOu-swDgA,85020,11.285714285714286
+2324,Zoyo Neighborhood Yogurt,0,Ice Cream,12,s3qlN2qXGusJAN9yM80Y2Q,85028,11.285714285714286
+2325,Z's Greek,0,Other,1,sLKpRaFns5Uqw1IEzK6obA,85016,9.714285714285714
+2326,Z'S Market & Deli,0,Deli,16,lF796nJ9sIcIFlpIWHvAlg,85027,10.428571428571429
+2327,Z'Tejas Mexican Restaurant and Grill,0,Mexican,0,j_prxgHnMvuRdrGjAI9qXQ,85014,11.571428571428571
+2328,Z'Tejas Southwestern Grill,0,Mexican,0,F-PmkzyN80fVcNMN8Z2aiw,85028,11.428571428571429
+2329,Zwirl,0,Ice Cream,12,2D9HYhj-psnzFEEybFNljQ,85044,11.0
