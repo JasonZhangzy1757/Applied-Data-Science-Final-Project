@@ -41,7 +41,7 @@ Yelp uses an aggregated form to categorize their business, aggregating all types
 
 #### Part 3 - 
 
-Further Steps could be seen in `Final_Report` file. All contributions to the project are recorded as well.
+Further Steps could be seen in `Final_Report` file. All contributions to the project are recorded in the report as well.
 
  
 
