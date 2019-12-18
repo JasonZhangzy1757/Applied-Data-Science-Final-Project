@@ -39,9 +39,9 @@ Since the original files were too large (over 4gb) we decided to filter only the
 
 Yelp uses an aggregated form to categorize their business, aggregating all types of categories under one single field, separating the difgerente categories by semicolon (for example, an italian restaurant could have the following category: pasta;italian;sandwiche;bar). Since we would work on a categorization problem we needed single categories. In order to solve this issue we created an Excel File and manually assigned a single category by looking at the cases. We didn't automatize this part because we feared an automatized categorization could lead to misscategorization. The categories mapping file is in this GitHub repository (ListOfCategories.xlsx)
 
-#### Part 3 - Merge Population and Income information
+#### Part 3 - 
 
-#### Part 4 - Merge Geolocation information
+Further Steps could be seen in `Final_Report` file. All contributions to the project are recorded as well.
 
  
 
