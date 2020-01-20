@@ -1,4 +1,4 @@
-# Applied-Data-Science-Capstone
+# What Urban Factors Affect Success of a Restaurant 
 This is the final assignment of Applied Data Science Course in NYU. 
 
 ## Group Members
