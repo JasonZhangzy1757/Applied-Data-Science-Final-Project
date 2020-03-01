@@ -6,7 +6,7 @@ This is the final assignment of Applied Data Science Course in NYU.
 - Yutong Zhu (yz6080@nyu.edu)
 - Guilherme Louzada (gl1082@nyu.edu)
 - Di Xin (yli2@skidmore.edu)
-- Aparna Bhutani (iantiles@skidmore.edu)
+- Aparna Bhutani (ab8473@nyu.edu)
 
 
 ## Reference Data Source  and ETL (Extract / Transform / Load) Process 
